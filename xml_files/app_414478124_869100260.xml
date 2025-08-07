@@ -1,0 +1,631 @@
+<plist version="1.0">
+<dict>
+<key>pings</key><array />
+<key>jingleDocType</key><string>purchaseSuccess</string>
+<key>jingleAction</key><string>purchaseProduct</string>
+<key>status</key><integer>0</integer>
+<key>authorized</key><false/>
+<key>download-queue-item-count</key><integer>1</integer>
+
+<key>songList</key>
+<array>
+<dict>
+<key>songId</key><integer>414478124</integer>
+<key>URL</key><string>https://iosapps.itunes.apple.com/itunes-assets/Purple211/v4/a1/5e/da/a15eda6f-5c9f-3a0d-b616-2950b0b08fce/extDirgbzyqygqtklhjesj.lc.69518696936614994.SJ34XKVESLGRQ.signed.dpkg.ipa?accessKey=1754771520_8691711519946129391_ZOIApL2xoxIgpLPBgut6Sd%2FFPJRcmzmf1rwkp6G7XszRZXJ%2BTBi0oSAXmJQgzd7RzqHb2rnIFN5Pi2sSU9%2FFJyFMgcwIX08nV3r1kvmnBlvacHeB8Unhl1IvRguklELmg7WjhEaBzAstb3HvYvFdMpJ2XURKQRAFVk%2FArgiiEFxcp4BvufSiScjNLcnn4Mcp9wY%2FFHnpEeiFjgccKGI%2B4B995ZbXLCdvhM1FR1LARQqiWvGhrATk06ZLUWUR0i0E</string>
+<key>downloadKey</key><string></string><key>thinned-app</key>
+<dict>
+<key>variantId</key><string>1:iPhone10,3:14</string>
+<key>URL</key><string>https://iosapps.itunes.apple.com/itunes-assets/Purple211/v4/b4/d7/db/b4d7dbcd-6a7e-3dd1-9cce-efcc3fe6743b/extDirkeovczmxbjilfcmt.thinned.signed.dpkg.ipa?accessKey=1754771520_4041793870702771993_Bpjua%2FTzf4Jw8NxnI3h5PfS%2FZ5SV5E4gE9fWFV28s98rfe1QwmSuRTa45pMCM2v1sPJdBqYoO%2F9HWLeFG24iev3KzVfGZDO1MREyvQyV1LD%2FOTvtaxedr%2F4hpz6Awd%2FBnINBOijodRvB0CADf6CTC1s6FtzE50P9hcpqZ9U9Crzj1SuPgg8zix4rgaWE2S87qSZ1fOxn2rk%2Biqhe9Rsrrg%3D%3D</string>
+<key>downloadKey</key><string></string>
+<key>deltaPackages</key>
+<array>
+<dict>
+<key>variantId</key><string>1:iPhone10,3:14</string>
+<key>URL</key><string>https://iosapps.itunes.apple.com/itunes-assets/Purple211/v4/d6/e9/61/d6e961e1-f9d2-7430-d30b-17b33b70d3dd/mzpse.17066233600258695656.ipa?accessKey=1754771520_7960850756054522188_24RGv2%2FY3%2Fim2KjJf2Y%2F140vg%2BCh6D86RVqcBBafxB7M7yoncCXZQzTwG6aUBuJzXwaH7mg3BSYl2T7oDAVqLClPCy3s9QNN0HRiQXCQ7kVCpUAvsrASOvMi8O4bJvm%2FgIhJvRLy75lB7R5nrWLSAGdXwH7y3HKvNZYgANi6G9psktnCh4HKZQzWN8EtaTIs</string>
+<key>downloadKey</key><string></string>
+<key>md5</key><string>838aa4d1e8ba618b310ac14290b37940</string>
+<key>chunks</key><dict>
+<key>chunkSize</key><integer>10485760</integer>
+<key>hashes</key><array>
+<string>a2388fa9acd2a676c15b0869ce78931b</string>
+<string>8c677e6c061398ee030e4e6b1fa71656</string>
+<string>e501c2f9332ee8c161e6f3e32b20b637</string>
+<string>af855bbbaf0e0cd4661ba81fd5592191</string>
+<string>e329599e21d612e9261ceec7c69bcfa4</string>
+<string>46a400280fcab313f0894414de0c057b</string>
+<string>b2d18dcae98d0efc919a6584be3ddf2e</string>
+<string>a5383c033abeb9b9542b5b8904ec3a17</string>
+<string>743c1e410691d215cec2bd43a91e72e8</string>
+<string>777341f36b4e31a07de09053559f3a63</string>
+<string>44b377ab4ddc708e4a2bdb69f7b37336</string>
+<string>502f0a8c5728d47aa1aafc6f582e55ad</string>
+<string>ad703762560d4b9830aa8f850b35c88f</string>
+<string>612ae1004018ad8a5ad06442f564073e</string>
+<string>50a1f7c785b810db14b057183fe79e6e</string>
+<string>dcf245ed77d1a0d94cba1e4b40adb0c4</string>
+<string>c4b316391e49852bb44e8e977d06b71e</string>
+<string>b2c6d6f7c25c6581b3b1fa63bbc97493</string>
+<string>67063e1a9b05965782a7eba16ce79e1a</string>
+<string>08f34cc5c3bb0eb6c4bb616c60d1ed97</string>
+<string>0fdb81a6240c5226f847bdadf2e0a176</string>
+</array>
+<key>clearHashes</key><array>
+<string>75161702e0f1366094e52b2e6008d55d</string>
+<string>4a2ac1326a541cd676c0e174b1b6f766</string>
+<string>95dafc14463cc04cac5e6b445b16451e</string>
+<string>f7a85fe679df7282ede99487381744df</string>
+<string>80f35d2f2d563eca86b941395b263a92</string>
+<string>0a7451f2bd5f9c5bf75428fc17158009</string>
+<string>21d20157242c4fb6508b13b590e70667</string>
+<string>489a0dd69c94bc7b4b63bdc5de3e192b</string>
+<string>2cd7a833df0f05e0db9e49dd785989ca</string>
+<string>ecaad427ccb6d8dfbdc7a2402e5a76d5</string>
+<string>90241bbb34d5f2dbabebd5b3ebe639fe</string>
+<string>81999ea3365141acaa83072802d3f600</string>
+<string>cbeea075abb688cd18db43cbc0f90bf3</string>
+<string>2512db03e3f265528c46cdadbc7578f8</string>
+<string>b6ad58bd7980aa11f720899050a373c6</string>
+<string>77264f1b18979ac387c1c713335744d0</string>
+<string>d2143bae8579f453bfdb15941a2bf723</string>
+<string>c2dc99ce9ce51c024db45925a7433de3</string>
+<string>3030e6553556231f937659ef82c449eb</string>
+<string>e7d273c59562545e94a21023989636fa</string>
+<string>8ae90d129a5859a8c819d2d7c1eb6d30</string>
+</array>
+</dict>
+<key>priorVersionBundleVersion</key><string>8.0.50.37</string>
+<key>priorVersionExternalIdentifier</key><integer>866110393</integer>
+<key>isStreamable</key><true/>
+<key>uncompressedSize</key><integer>522387456</integer>
+<key>algorithm</key><string>bsdiff</string>
+<key>asset-info</key><dict>
+<key>file-size</key><integer>211342480</integer>
+</dict>
+<key>priorVariantIdentifiers</key><array>
+<string>1:iPhone10,3:13</string>
+<string>1:iPhone10,3:14</string>
+</array>
+
+  <key>sinfs</key>
+  <array>
+    <dict>
+      <key>id</key><integer>0</integer>
+      <key>sinf</key><data>AAAEIHNpbmYAAAAMZnJtYWdhbWUAAAAUc2NobQAAAABpdHVuAAAAAAAAA3BzY2hpAAAADHVzZXJi29aGAAAADGNyZHTkumlgAAAADGFzZHQAAAAAAAAADGtleSAAAAANAAAAGGl2aXYtZ684mRw/GK1wazIW44bYAAAAWHJpZ2h2ZUlEAAEOnHBsYXQAAAACYXZlcgEBAQB0cmFu5LppYHNpbmcAAAAAc29uZxi0byx0b29sUDYxMW1lZGkAAACAbW9kZQAAIACKNHlb/////gAAAQhuYW1lemh1IGxlbwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcBwcml2DBWQlu6or7PUB/4HjfJP2Weu2qi3p5jzcFG9X5RdgZjV+PzWouPhktBMuyNtiKOxPlmz/8QbWJO8eXjObaUfPDRBlXs60AZJ+xqeYQaf80ZqMJWsSMRV49ctOh763+pO2T5RaztgLdpsugB/UJInTgTeBmL+6BOqLBtPbuMtrmksIObKvy32vD1yDw7yyPGRkvre4QHTeOteRtWehbPf7jFnIws2Pu/IJfFtfK17SHhYKB7fdSkUZgRroSyEynm3VbdWQPNAiAfzooosFVxCf6z/cWSfZ+TiZrNG+2b29G/3nlM3rdyQ+iwEqjYX6tfnlqvlqebamEg3J/SfLif8YBfJic/bhtdjJlcIJXkV8CMrVMsPKb/erLNm/Gyxyz53OVADsObEz7yRYCPRSX4ubx0NLukjDWBLwIu6Rs2LgTsrUZbcxiKjsX67cFzEmV7mpfJMONUFZq8RMsuEs0OxG+dMl9nqEn17s625UvgI2NzEB5JWJ/cR+JzCCy0syvbwyTjj7160dzWUL8m34euXQVzTxq8XQUnqFh04VvX1xfGZZKhH0Sr/w3rjBHAFkaW+AAAAAAAAAAAAAACIc2lnbnZ/IC9pax0w+e0HpuCgrh0PHclbj75yxd4ocLhCIN2aeIHngi20yGVVtfSflbG9jF3caVnPBFPlfR7hAGdF0yX97ySXQBvgQ+2tTuYmkdkF8LCEBxxUmlwxWB120jgYy3+vQg/WFEoRLkazpmje5t+JUyYsXxK5d85MPDiXuTcs</data>
+    </dict>
+    <dict>
+      <key>pinf</key><data></data>
+      <key>id</key><integer>1</integer>
+      <key>dpInfo</key><data>AAAAAWLb1oYAAAACAAAAAAAAAHAAAAGQMMpMhdAk++esmi6txVum96FIvbla716SIKY9QIvBhiU4Duiv6HA6kdwbhbkHMeHp24DBeFJJx+cx4uAWSN+PeQ==</data>
+    </dict>
+  </array>
+
+</dict></array>
+<key>md5</key><string>7e6331f98dccfb1c626c09615e129f11</string>
+<key>chunks</key>
+<dict>
+<key>chunkSize</key><integer>10485760</integer>
+<key>hashes</key>
+<array>
+<string>71f84fe7bbc523ec280171d2d6fe5264</string>
+<string>6d1d54d1136fa8b1beccced94d1ae8b6</string>
+<string>4746a746567cd0ade9c2cd5c46e91a68</string>
+<string>980b554d5ceb986ae7d150b66ad78959</string>
+<string>e6c9996fd10ac798292023dca3de97ef</string>
+<string>ff3e06853629d658f3fce8d701216ced</string>
+<string>09cefb13d790a22fb7ab2fe9e7d5879d</string>
+<string>4b8b4fea742a8f56beff38700e76b7ac</string>
+<string>e2969f851c6dc90fbf50615c526612c9</string>
+<string>f7e5fda19278b515208051473fcb4bbc</string>
+<string>7e1432f7d14728b57a681ed9b2d2bfdb</string>
+<string>0810e998c7b345a10ccf0b2457564e88</string>
+<string>77e40ee9b06beafc4f5e66316d29d0a8</string>
+<string>2ba6fc658d69107a715dd5d2194ab63d</string>
+<string>38431c81950c9336d95a0a68830a938c</string>
+<string>1dec3c0657ffccb51c2e7951afde8be8</string>
+<string>5a9afac5051ea74121bbc41332e6e26c</string>
+<string>5fbbc6c35bf5619d3fd3afa8cb43ccb2</string>
+<string>0a1033ab1ae7dbcf94843cb26091e1dc</string>
+<string>15d30f29086c62711d597a1f325bef11</string>
+<string>528931c6f08e7b1f5c524b73bb620052</string>
+<string>af9ae74866db7014c47fa895aa33de8a</string>
+<string>59c5b114269b47454a31b676a6a9fa80</string>
+<string>c855bf96a4c8a0edd9e7650a49ad7949</string>
+<string>d638c6bc27836c5acb54edf7e7f603be</string>
+<string>bf27dd1edaf71050a18b90e14acd06fa</string>
+<string>ae103121a72665e2cc84c00078f21efa</string>
+<string>0a1b78e9c6bb354bb1117310d40b1b4d</string>
+</array>
+<key>clearHashes</key>
+<array>
+<string>73d37f25e45131f35fea74cdc8dbefca</string>
+<string>66864d8bce8c4d05878ad2e3d060b4b8</string>
+<string>8e1507731073917381b0f8c8bbf21f64</string>
+<string>266a68c228cef2bf7d94f2c9376ed113</string>
+<string>87cf849e50615b0c250ee190912be83e</string>
+<string>f95248a0f8ddf32475ad81c3c2ae817f</string>
+<string>95e047a52f24756a37dc8d749358388d</string>
+<string>4541aecaa4946581c2fe39b432d43afb</string>
+<string>6650f8e015122f10a9b04be8312b819c</string>
+<string>7e74c66300577829ebc06ecb298fc928</string>
+<string>2de1aac2c0619383da43e4dc66450657</string>
+<string>e2c28358f4c54da4021f0ed6dd71c6bd</string>
+<string>1f9f6dc21d52b5b6c39765743b911224</string>
+<string>0b407962e1f709bf68e4d391536b54eb</string>
+<string>56d8bacff41ac0fa7dd96346cc730bba</string>
+<string>899f79e9636e912c007592436203968d</string>
+<string>7f559f4abfd485f1c125187ba5f13f5f</string>
+<string>8af9da8b85e338bbf1550d6c954eda83</string>
+<string>ae7bf317e8f2cf97b1f75bc679fde065</string>
+<string>25c1fa7abf7348f1c7fd2ea70c858e4f</string>
+<string>29d8a867e4795245697a0666b12046d6</string>
+<string>e818750b1f69e231afecc5f214cb1ba9</string>
+<string>326d541ee55ba516a8bf0de1735d8965</string>
+<string>0b2da5abd78cf243ca54633d39e8f5ca</string>
+<string>156a2b8814baf15bdd78f6ca3c82f7aa</string>
+<string>cb74dfe80d7f57071877cb229ddf7c74</string>
+<string>02f4c1c851778b2ddac1c5423593f1d8</string>
+<string>d7991e1a7c6bbbc1b8762b077294b68d</string>
+</array>
+</dict>
+<key>isStreamable</key><true/><key>uncompressedSize</key><integer>706130944</integer>
+
+  <key>sinfs</key>
+  <array>
+    <dict>
+      <key>id</key><integer>0</integer>
+      <key>sinf</key><data>AAAEIHNpbmYAAAAMZnJtYWdhbWUAAAAUc2NobQAAAABpdHVuAAAAAAAAA3BzY2hpAAAADHVzZXJi29aGAAAADGNyZHTkumlgAAAADGFzZHQAAAAAAAAADGtleSAAAAANAAAAGGl2aXZCoQfx3i84o2MrbXsEUmBJAAAAWHJpZ2h2ZUlEAAEOnHBsYXQAAAACYXZlcgEBAQB0cmFu5LppYHNpbmcAAAAAc29uZxi0byx0b29sUDYxMW1lZGkAAACAbW9kZQAAIACKNHlb/////gAAAQhuYW1lemh1IGxlbwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcBwcml2W9NrIym0wWNnPT6nhnLZQARxA2gHFoNTgeRnKANfPNhmr9Y6B+pZ01d9dgmBHD0udMN/Qx8Nad59RE1uJ+YH/3mQWSmc+fSdMYNtL+DD89AEQRqQPTgQ7hrWVagufwgYyI8jvA523zQ4zE2CzbS28ilutbJIEe/hkRha8A2mJxeKb3RnYIOz0/zKVniiI3KgkIQbN2DWMjnTOtaOrjzcrkcB2OorJTR2I7ANqES+M8ueiviqngA5ildHDhBPAc26ngGsduyZr4eppBrK8xLX/nUjtmAbF7YO+JwKbAmccmn+wdSQPrvOshOL+AXwoOOKuMNytl4z9wQBOxNASnAjgNxWlSfQ/TnndwUZHjM+3WVPpY/oZ/oOzJlIxo6KE1m+2KOzYqGrmLZdw5alSBrLMZLxTHhDjD6CWN+UnIgdzeLfwG4rpMjmSLv08JMi4lU5Mzt0h7VSzjmwbF3ZU02/l0VeUw+NUUG51Uoe4XMGEEArymHwjjG8yeWbHWKfWzY+HTI80W8Zri9tpYd3s16zZ/vf9Sk8W2OGXTh9FN0jpAbqNRRV697ZTrO5Uximn7kHAAAAAAAAAAAAAACIc2lnbpzbUFnOWvkuEutefJsLY88PVZ3ig9H7ob69wUpHpK/dZDce632VF6vG13+cUrEicFJQXn0gSxkdFOwHK9wJwXqYpJziIzicrQkDIRkl7FAQq1U/grO0QomzeRY19i4nVVBp49m/AYXxru3aqUmf478vWXSKwXAuHhXqmVZXeiTZ</data>
+    </dict>
+    <dict>
+      <key>pinf</key><data></data>
+      <key>id</key><integer>1</integer>
+      <key>dpInfo</key><data>AAAAAWLb1oYAAAACAAAAAAAAAHAAAAGQkg5oBEYrpKkCYuXTsEteBw05I6Y4vxu5pFirlrr4csKhGj1U4sLTXlYK89Ho3FALiHqtJCef5M0gDpnzRle70Q==</data>
+    </dict>
+  </array>
+
+
+  <key>asset-info</key>
+  <dict>
+    <key>file-size</key><integer>285611983</integer>
+  </dict>
+
+</dict>
+<key>artworkURL</key><string>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/c9/3008c9b1-778c-0019-fc8d-71cab7be9372/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/600x600bb.png</string><key>artwork-urls</key>
+<dict>
+<key>image-type</key><string>download-queue-item</string>
+<key>default</key>
+<dict>
+<key>url</key>
+<string>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/c9/3008c9b1-778c-0019-fc8d-71cab7be9372/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/170x170bb.png</string>
+</dict>
+</dict>
+<key>md5</key><string>4d7eb5a2fac99ab4c582aed041ab76dd</string><key>chunks</key>
+<dict>
+<key>chunkSize</key><integer>10485760</integer>
+<key>hashes</key>
+<array>
+<string>c195fd6865c8e8cad81fd4b2b3e5d1f8</string>
+<string>66d8b41cc9d36248ea664ca22a8930fb</string>
+<string>26958a70c5dc8686b6b8e16cdaa90216</string>
+<string>21cc58b087d99cb99ceb1cb588c05c96</string>
+<string>8ae82f7b153d7b25733aee3661332abc</string>
+<string>a085c717b5f949d05c4ac995289c0da1</string>
+<string>4af08aff353ead54265b5ccbcd418241</string>
+<string>89d6fb20e44ed4102dc6f426fc1c3bc5</string>
+<string>55f23ff0da74bbdee314779add6dc08c</string>
+<string>27d0db79f3c3519b2b9c4117e30409a9</string>
+<string>9f34c08e93ee40867baefdb653a28405</string>
+<string>1e7bff1d4358dd130227e9700e550a4e</string>
+<string>9f7f4052bc466ea337f2baad330c7b51</string>
+<string>88189fd254feac243a1ed3fbb01ba6c3</string>
+<string>e055d26ecb1481114658a3457b89f2aa</string>
+<string>db53f5a75aa84c8c55306edc679bfc93</string>
+<string>0efe5d6e438493ee8452ce01e8437cf9</string>
+<string>0c8dfe4689e60e5a01cc1e9e20b776e8</string>
+<string>bbdb5315e906a128955c0b5e2e3e01d9</string>
+<string>0fd8c3fa8feb5b104f43934737504298</string>
+<string>36d21f203d28f800c20bbdfbc9d6ef64</string>
+<string>46c857570abadfdbf239040e719bc03e</string>
+<string>1218106fe8b440f699dbdb1575321ad1</string>
+<string>dac84b8c5591d575741a2ae3987dd03d</string>
+<string>6e23fffdc014002367bf05a773b244f4</string>
+<string>9d2feb689530146e726f359b311cf024</string>
+<string>0d3b3397fc1569c130402d7d4edfd2c3</string>
+<string>1fd962be1f31378d5c8d4668bd53f793</string>
+<string>fa7f68e0552b68d9c15434aa0c9e6b62</string>
+<string>e96a8dcd0fc5eda90c3a0315ac8eed36</string>
+<string>9f6b9b4fb67ebb663d8191512a624598</string>
+<string>3c3e09673ddccd020cdeae54222893bf</string>
+<string>7d77430147e093230dba76e73b47af40</string>
+<string>6aa3d2f6038507fa17a888a0d70e6361</string>
+<string>b3325555437ddc217e8d5c01b60e3888</string>
+<string>c989463e9897e4855342a91671ad7ccc</string>
+<string>46c1e2a93b27ab57be6e255ab9c7586a</string>
+<string>312c5a4b907b78a41552c13a96b0386c</string>
+<string>740032592da6deea525e31c0d0426ea9</string>
+<string>5748d7f78555e7c770252ceb441193e2</string>
+<string>7801b34ecf139327909a68562da8d006</string>
+<string>21bb084836bacd31068c2c5cc4f02cc9</string>
+<string>24c55cd2b1d66f68d68d17881218a4ce</string>
+<string>7a27bb5d98ae3476aa3819f19eb03727</string>
+<string>3dc2734cae0db55fd03edbc345d70af5</string>
+<string>f886880cd78359b2de56bdddaa986228</string>
+<string>122a3f4fbe8ab4094dc22ed62826450c</string>
+<string>76f18c38bd607dea75ab597c5d401b3b</string>
+<string>63fec3adfc109989e19a117bcb9c9265</string>
+<string>800b3f26af7c54c60ae6d4e3918d4ff5</string>
+<string>518f9a53a988074e5228612339c46dc8</string>
+<string>632b226bb22e8ecdbbc82b1ea8bc7acd</string>
+<string>fcba421acd0827450d5fc45f0b698f8a</string>
+<string>171fc73ee9f7ea9db734965f69ad4bf5</string>
+<string>e9b175da65b1c11cd05c461b43c3b2db</string>
+<string>46ff78a6817056300375c5d10bc51af6</string>
+<string>7afde75ea042b9ec920d608582c1bcce</string>
+<string>2b23416c740ef9cb737f13e7ace78592</string>
+</array>
+</dict>
+<key>isStreamable</key><true/>
+<key>uncompressedSize</key><integer>734464000</integer>
+<key>sinfs</key><array>  <dict>    <key>id</key>    <integer>0</integer>    <key>sinf</key>    <data>AAAEIHNpbmYAAAAMZnJtYWdhbWUAAAAUc2NobQAAAABpdHVuAAAAAAAAA3BzY2hpAAAADHVzZXJi29aGAAAADGNyZHTkumlgAAAADGFzZHQAAAAAAAAADGtleSAAAAANAAAAGGl2aXbEqPxORVONNFZp28e7hry4AAAAWHJpZ2h2ZUlEAAEOnHBsYXQAAAACYXZlcgEBAQB0cmFu5LppYHNpbmcAAAAAc29uZxi0byx0b29sUDYxMW1lZGkAAACAbW9kZQAAIACKNHlb/////gAAAQhuYW1lemh1IGxlbwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcBwcml2cyYUyqSZqxI6SVpMVRslAnswuMdocjDDfSb3YoOLc5ObmKYsWuwtGwJzcmDeUM6t2X0rM4cQmsncIbSlyiCddGQjlSMwWaJWn+pbwxmGJzSStrGFRgXcCPzpIvp8R6dlbszJk0HI8yq8gTtgEreHvSlbzzEaMWG/SopGaV3D7U5xkol/ALhUwJOmYlGtRRirEIB7tLIMMhiCfB2mhZlac7JJzlBSW9YRhubEzdIzi/DYn6lTSnK2DnVeozFZC/aCiNmrlQkTdWirG2X4iJJrPCP9bKRNdNBOTTuaKKi428cp3kDr8OAM3It7hpX48Enxkwb3FhncY0J7oal7vPfYd1+6NOATyc7Uk511iXKnOz32MWPYns5L701ebQTHKP3B03X/8KrSpx0aQYZ8J2ZnOQQ2Ib2VVsdwTNzQOh6VmeRdxib8t4QWRFYhrFg8Snw97cpFqU0qH9t1OY/cTQO8OJr8yLr5eua7lpDvyApAyliG/rUN/4I9NzSGDpfcuGvJMhhSuuQCIiqWsNvMmzt7ZVk1wJqMsQ+Ro8Vph8wp7xv5JjUHEkK7unku45eZgdPgAAAAAAAAAAAAAACIc2lnbkQei352exwc01NxIgf86B43L3CjeG41epj33oLI72dSGzTOCXhXjSDLuuojnJH0cDqdNtSx6W4RF/AL61b0d+lMsDNgEJEeTY7epUQHB+OP2VKhazcaBaxSiJn4SpAlCJRDd3jWt6VWRmdjMjJcg9xokenE2VgBJFzR8i7JA5+u</data>  </dict></array><key>purchaseDate</key><string>2013-01-03T13:54:54Z</string>
+<key>download-id</key><string>J59N_C_504743309028179135</string>
+<key>cancel-download-url</key><string>https://p59-buy.itunes.apple.com/WebObjects/MZFastFinance.woa/wa/songDownloadDone?download-id=J59N_C_504743309028179135&amp;cancel=1</string>
+
+  <key>asset-info</key>
+  <dict>
+    <key>file-size</key><integer>607039936</integer>
+    <key>flavor</key><string>10:purple</string>
+  </dict>
+<key>redownload-params</key><string>productType=C&amp;price=0&amp;salableAdamId=414478124&amp;pricingParameters=SWUPD</string>
+<key>metadata</key><dict>
+  
+  <key>MacUIRequiredDeviceCapabilities</key>
+  <dict>
+    <key>arm64</key><true/>
+  </dict>
+  <key>UIRequiredDeviceCapabilities</key>
+  <dict>
+    <key>arm64</key><true/>
+  </dict>
+  <key>WKRunsIndependentlyOfCompanionApp</key><false/>
+  <key>WKWatchOnly</key><false/>
+  <key>appAgeRatings</key>
+  <dict>
+    <key>CN</key>
+    <dict>
+      <key>clientId</key><integer>313</integer>
+      <key>label</key><string>13+</string>
+    </dict>
+  </dict>
+  <key>appleWatchEnabled</key><true/>
+  <key>artistId</key><integer>614694882</integer>
+  <key>artistName</key><string>WeChat</string>
+  <key>bundleDisplayName</key><string>微信</string>
+  <key>bundleShortVersionString</key><string>8.0.52</string>
+  <key>bundleVersion</key><string>8.0.52.32</string>
+  <key>copyright</key><string>Copyright &#169; 2011 - 2025 Tencent Inc. All Rights Reserved</string>
+  <key>fileExtension</key><string>.app</string>
+  <key>gameCenterEnabled</key><false/>
+  <key>gameCenterEverEnabled</key><false/>
+  <key>genre</key><string>社交</string>
+  <key>genreId</key><integer>6005</integer>
+  <key>itemId</key><integer>414478124</integer>
+  <key>itemName</key><string>微信</string>
+  <key>kind</key><string>software</string>
+  <key>nameTranscriptions</key>
+  <dict>
+    <key>zh-Hans-CN</key>
+    <array>
+      <string>微信</string>
+      <string>wēi xìn</string>
+    </array>
+  </dict>
+  <key>playlistName</key><string>WeChat</string>
+  <key>product-type</key><string>ios-app</string>
+  <key>rating</key>
+  <dict>
+    <key>content</key><string>偶尔/轻微的模拟赌博 and 偶尔/轻微的成人或性暗示题材</string>
+    <key>label</key><string>12+</string>
+    <key>rank</key><integer>300</integer>
+    <key>system</key><string>itunes-games</string>
+  </dict>
+  <key>releaseDate</key><string>2011-01-21T01:32:15Z</string>
+  <key>requiresRosetta</key><false/>
+  <key>runsOnAppleSilicon</key><true/>
+  <key>runsOnIntel</key><false/>
+  <key>s</key><integer>143465</integer>
+  <key>software-platform</key><string>ios</string>
+  <key>softwareIcon57x57URL</key><string>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/c9/3008c9b1-778c-0019-fc8d-71cab7be9372/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/114x114bb.jpg</string>
+  <key>softwareIconNeedsShine</key><false/>
+  <key>softwareSupportedDeviceIds</key>
+  <array>
+    <integer>13</integer>
+    <integer>2</integer>
+    <integer>9</integer>
+    <integer>4</integer>
+  </array>
+  <key>softwareVersionBundleId</key><string>com.tencent.xin</string>
+  <key>softwareVersionExternalIdentifier</key><integer>869100260</integer>
+  <key>softwareVersionExternalIdentifiers</key>
+  <array>
+    <integer>3328911</integer>
+    <integer>3373135</integer>
+    <integer>3473242</integer>
+    <integer>3529624</integer>
+    <integer>3585847</integer>
+    <integer>3701457</integer>
+    <integer>3775683</integer>
+    <integer>3869643</integer>
+    <integer>3971276</integer>
+    <integer>4014363</integer>
+    <integer>4072493</integer>
+    <integer>4121590</integer>
+    <integer>4175014</integer>
+    <integer>4415405</integer>
+    <integer>4582396</integer>
+    <integer>4946986</integer>
+    <integer>5654567</integer>
+    <integer>7640687</integer>
+    <integer>8829311</integer>
+    <integer>9734445</integer>
+    <integer>10670634</integer>
+    <integer>11523343</integer>
+    <integer>12833517</integer>
+    <integer>13256645</integer>
+    <integer>13641641</integer>
+    <integer>14898676</integer>
+    <integer>14984931</integer>
+    <integer>15243270</integer>
+    <integer>16103442</integer>
+    <integer>84293994</integer>
+    <integer>103942635</integer>
+    <integer>310882633</integer>
+    <integer>388062640</integer>
+    <integer>448832641</integer>
+    <integer>565103180</integer>
+    <integer>584553398</integer>
+    <integer>590052756</integer>
+    <integer>599502645</integer>
+    <integer>612442666</integer>
+    <integer>622683606</integer>
+    <integer>661962748</integer>
+    <integer>688052647</integer>
+    <integer>717062721</integer>
+    <integer>719842773</integer>
+    <integer>726302660</integer>
+    <integer>746082682</integer>
+    <integer>811222902</integer>
+    <integer>811530944</integer>
+    <integer>811669817</integer>
+    <integer>811953630</integer>
+    <integer>812070527</integer>
+    <integer>812095289</integer>
+    <integer>812159996</integer>
+    <integer>812398752</integer>
+    <integer>812439126</integer>
+    <integer>812526459</integer>
+    <integer>812733117</integer>
+    <integer>812935475</integer>
+    <integer>813322499</integer>
+    <integer>813384205</integer>
+    <integer>813387291</integer>
+    <integer>813416706</integer>
+    <integer>813491705</integer>
+    <integer>813515561</integer>
+    <integer>813550945</integer>
+    <integer>813566842</integer>
+    <integer>813572386</integer>
+    <integer>813594169</integer>
+    <integer>813715999</integer>
+    <integer>813742786</integer>
+    <integer>813878173</integer>
+    <integer>814015573</integer>
+    <integer>814016932</integer>
+    <integer>814124411</integer>
+    <integer>814201907</integer>
+    <integer>814231863</integer>
+    <integer>814301248</integer>
+    <integer>814629560</integer>
+    <integer>814702211</integer>
+    <integer>814862457</integer>
+    <integer>814929738</integer>
+    <integer>814963612</integer>
+    <integer>815191465</integer>
+    <integer>815413015</integer>
+    <integer>815419124</integer>
+    <integer>815496256</integer>
+    <integer>815532673</integer>
+    <integer>815762008</integer>
+    <integer>815763238</integer>
+    <integer>815807958</integer>
+    <integer>815944212</integer>
+    <integer>816092740</integer>
+    <integer>816237335</integer>
+    <integer>816249120</integer>
+    <integer>816301361</integer>
+    <integer>816711324</integer>
+    <integer>817064751</integer>
+    <integer>817434593</integer>
+    <integer>817514475</integer>
+    <integer>817562924</integer>
+    <integer>817707714</integer>
+    <integer>817820669</integer>
+    <integer>817890126</integer>
+    <integer>818263772</integer>
+    <integer>818454066</integer>
+    <integer>818717216</integer>
+    <integer>818966939</integer>
+    <integer>818981245</integer>
+    <integer>819407504</integer>
+    <integer>819499221</integer>
+    <integer>819552734</integer>
+    <integer>819758028</integer>
+    <integer>819875014</integer>
+    <integer>819894709</integer>
+    <integer>820163521</integer>
+    <integer>820362230</integer>
+    <integer>820575594</integer>
+    <integer>820903367</integer>
+    <integer>821274402</integer>
+    <integer>821398683</integer>
+    <integer>821589898</integer>
+    <integer>822064298</integer>
+    <integer>822282577</integer>
+    <integer>822567902</integer>
+    <integer>822828428</integer>
+    <integer>822868045</integer>
+    <integer>822899148</integer>
+    <integer>823243115</integer>
+    <integer>823416862</integer>
+    <integer>823606644</integer>
+    <integer>823667751</integer>
+    <integer>823768769</integer>
+    <integer>823875530</integer>
+    <integer>824100620</integer>
+    <integer>824227291</integer>
+    <integer>824401936</integer>
+    <integer>824465136</integer>
+    <integer>825229845</integer>
+    <integer>825429952</integer>
+    <integer>825611074</integer>
+    <integer>825871473</integer>
+    <integer>825973870</integer>
+    <integer>826214658</integer>
+    <integer>827121556</integer>
+    <integer>827587770</integer>
+    <integer>827721503</integer>
+    <integer>827970243</integer>
+    <integer>828566295</integer>
+    <integer>828772414</integer>
+    <integer>829518665</integer>
+    <integer>829700342</integer>
+    <integer>829747797</integer>
+    <integer>829802207</integer>
+    <integer>830005675</integer>
+    <integer>830684128</integer>
+    <integer>831899859</integer>
+    <integer>832744042</integer>
+    <integer>832888979</integer>
+    <integer>833783332</integer>
+    <integer>834170317</integer>
+    <integer>834751532</integer>
+    <integer>835132591</integer>
+    <integer>835955499</integer>
+    <integer>836563902</integer>
+    <integer>837180100</integer>
+    <integer>837831800</integer>
+    <integer>838420279</integer>
+    <integer>839500711</integer>
+    <integer>839685743</integer>
+    <integer>839893940</integer>
+    <integer>840021987</integer>
+    <integer>840146200</integer>
+    <integer>840247267</integer>
+    <integer>840938454</integer>
+    <integer>841138517</integer>
+    <integer>841400832</integer>
+    <integer>842166728</integer>
+    <integer>842461647</integer>
+    <integer>842755278</integer>
+    <integer>843104002</integer>
+    <integer>843417550</integer>
+    <integer>843577855</integer>
+    <integer>843706046</integer>
+    <integer>843761671</integer>
+    <integer>844249066</integer>
+    <integer>844357900</integer>
+    <integer>844793071</integer>
+    <integer>846508339</integer>
+    <integer>846807959</integer>
+    <integer>847999670</integer>
+    <integer>848070594</integer>
+    <integer>848608565</integer>
+    <integer>848965772</integer>
+    <integer>849418226</integer>
+    <integer>850132141</integer>
+    <integer>850481143</integer>
+    <integer>850783736</integer>
+    <integer>851598732</integer>
+    <integer>852042907</integer>
+    <integer>852324556</integer>
+    <integer>853101464</integer>
+    <integer>853616676</integer>
+    <integer>854292751</integer>
+    <integer>855096958</integer>
+    <integer>855537894</integer>
+    <integer>856275210</integer>
+    <integer>856447160</integer>
+    <integer>856664065</integer>
+    <integer>857274223</integer>
+    <integer>858114311</integer>
+    <integer>858412268</integer>
+    <integer>859173822</integer>
+    <integer>859678554</integer>
+    <integer>860932317</integer>
+    <integer>861642030</integer>
+    <integer>862327886</integer>
+    <integer>862778259</integer>
+    <integer>863152641</integer>
+    <integer>864225682</integer>
+    <integer>865072183</integer>
+    <integer>866110393</integer>
+    <integer>868718320</integer>
+    <integer>869100260</integer>
+    <integer>869236155</integer>
+    <integer>870215632</integer>
+    <integer>870868117</integer>
+    <integer>871745148</integer>
+    <integer>872966421</integer>
+    <integer>873900320</integer>
+    <integer>874081976</integer>
+    <integer>874364857</integer>
+    <integer>875469042</integer>
+  </array>
+  <key>vendorId</key><integer>69276</integer>
+
+<key>drmVersionNumber</key><integer>0</integer>
+<key>versionRestrictions</key><integer>16843008</integer>
+<key>storeCohort</key><string>10|date=1692525600000&amp;sf=143465&amp;pgtp=Search&amp;pgid=d3f7f128-643a-4ad9-a755-d92f8fe1d8b7&amp;prpg=Genre_179183&amp;ctxt=Search&amp;issrch=1</string>
+<key>hasOrEverHasHadIAP</key><true/>
+</dict>
+
+</dict>
+
+</array>
+
+  <key>appClusterAssignmentsResultSet</key>
+  <array>
+  </array>
+
+<key>buySignatures</key><array>
+<dict><key>songId</key><integer>414478124</integer>
+</dict>
+</array>
+
+<key>metrics</key>
+<dict>
+
+  <key>itemIds</key>
+  <array>
+    <integer>414478124</integer>
+  </array>
+  <key>mtTopic</key><string>xp_its_main</string>
+  <key>currency</key><string>CNY</string>
+  <key>commerceEvent_storeFrontId</key><string>143465</string>
+  <key>commerceEvent_result_resultType</key><integer>0</integer>
+  <key>commerceEvent_flowType</key><integer>16</integer>
+  <key>commerceEvent_flowStep</key><integer>26</integer>
+  <key>commerceEvent_correlationKey</key><string>SMVQBCUGSR3U6PHXVPVYM2SN5I</string>
+
+<key>pliIds</key>
+<array>
+<string>504743309028179133</string>
+</array><key>sapTypes</key>
+<array>
+<string>7F</string>
+</array>
+<key>sapLineItemTypes</key>
+<array>
+<string>0</string>
+</array>
+</dict>
+</dict>
+</plist>
