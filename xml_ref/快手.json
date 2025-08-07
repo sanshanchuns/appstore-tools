@@ -1,0 +1,1176 @@
+{
+	"data": [{
+		"id": "440948110",
+		"type": "apps",
+		"href": "/v1/catalog/cn/apps/440948110?l=zh-Hans-CN",
+		"attributes": {
+			"artistName": "Beijing Kwai Technology Co., Ltd.",
+			"chartPositions": {
+				"appStore": {
+					"chart": "top-free",
+					"chartLink": "https://apps.apple.com/cn/charts/iphone/%E6%91%84%E5%BD%B1%E4%B8%8E%E5%BD%95%E5%83%8F-apps/6008",
+					"genre": 6008,
+					"genreName": "摄影与录像",
+					"genreShortName": "摄影与录像",
+					"position": 5
+				}
+			},
+			"contentRatingsBySystem": {
+				"appsApple": {
+					"advisories": ["无限制网页访问", "偶尔/轻微的模拟赌博", "偶尔/轻微的色情内容或裸露", "偶尔/轻微的医药或医疗信息"],
+					"name": "17+",
+					"rank": 4,
+					"value": 600
+				}
+			},
+			"deviceFamilies": ["iphone", "ipad", "ipod"],
+			"familyShareEnabledDate": "0001-04-23T00:00:00Z",
+			"fileSizeByDevice": {
+				"MacFamily20,1": 473695232,
+				"RealityFamily22,1": 473279488,
+				"iPad11,1": 474944512,
+				"iPad11,2": 474944512,
+				"iPad11,3": 474944512,
+				"iPad11,4": 474944512,
+				"iPad11,6": 473691136,
+				"iPad11,7": 473691136,
+				"iPad12,1": 473271296,
+				"iPad12,2": 473271296,
+				"iPad13,1": 473695232,
+				"iPad13,10": 473695232,
+				"iPad13,11": 473695232,
+				"iPad13,16": 473279488,
+				"iPad13,17": 473279488,
+				"iPad13,18": 473271296,
+				"iPad13,19": 473271296,
+				"iPad13,2": 473695232,
+				"iPad13,4": 473695232,
+				"iPad13,5": 473695232,
+				"iPad13,6": 473695232,
+				"iPad13,7": 473695232,
+				"iPad13,8": 473695232,
+				"iPad13,9": 473695232,
+				"iPad14,1": 473279488,
+				"iPad14,10": 473279488,
+				"iPad14,11": 473279488,
+				"iPad14,2": 473279488,
+				"iPad14,3-A": 473279488,
+				"iPad14,3-B": 473279488,
+				"iPad14,4-A": 473279488,
+				"iPad14,4-B": 473279488,
+				"iPad14,5-A": 473279488,
+				"iPad14,5-B": 473279488,
+				"iPad14,6-A": 473279488,
+				"iPad14,6-B": 473279488,
+				"iPad14,8": 473279488,
+				"iPad14,9": 473279488,
+				"iPad15,3": 473279488,
+				"iPad15,4": 473279488,
+				"iPad15,5": 473279488,
+				"iPad15,6": 473279488,
+				"iPad15,7": 473271296,
+				"iPad15,8": 473271296,
+				"iPad16,1": 473279488,
+				"iPad16,2": 473279488,
+				"iPad16,3-A": 473279488,
+				"iPad16,3-B": 473279488,
+				"iPad16,4-A": 473279488,
+				"iPad16,4-B": 473279488,
+				"iPad16,5-A": 473279488,
+				"iPad16,5-B": 473279488,
+				"iPad16,6-A": 473279488,
+				"iPad16,6-B": 473279488,
+				"iPad4,1": 474940416,
+				"iPad4,2": 474940416,
+				"iPad4,3": 474940416,
+				"iPad4,4": 474940416,
+				"iPad4,5": 474940416,
+				"iPad4,6": 474940416,
+				"iPad4,7": 474940416,
+				"iPad4,8": 474940416,
+				"iPad4,9": 474940416,
+				"iPad5,1": 474940416,
+				"iPad5,2": 474940416,
+				"iPad5,3": 474940416,
+				"iPad5,4": 474940416,
+				"iPad6,11": 474940416,
+				"iPad6,12": 474940416,
+				"iPad6,3": 474944512,
+				"iPad6,4": 474944512,
+				"iPad6,7": 474940416,
+				"iPad6,8": 474940416,
+				"iPad7,1": 474944512,
+				"iPad7,11": 473691136,
+				"iPad7,12": 473691136,
+				"iPad7,2": 474944512,
+				"iPad7,3": 474944512,
+				"iPad7,4": 474944512,
+				"iPad7,5": 474940416,
+				"iPad7,6": 474940416,
+				"iPad8,1": 474944512,
+				"iPad8,10": 473695232,
+				"iPad8,11": 473695232,
+				"iPad8,12": 473695232,
+				"iPad8,2": 474944512,
+				"iPad8,3": 474944512,
+				"iPad8,4": 474944512,
+				"iPad8,5": 474944512,
+				"iPad8,6": 474944512,
+				"iPad8,7": 474944512,
+				"iPad8,8": 474944512,
+				"iPad8,9": 473695232,
+				"iPhone10,1": 474936320,
+				"iPhone10,2": 475694080,
+				"iPhone10,3": 475694080,
+				"iPhone10,4": 474936320,
+				"iPhone10,5": 475694080,
+				"iPhone10,6": 475694080,
+				"iPhone11,2": 475694080,
+				"iPhone11,4": 475694080,
+				"iPhone11,6": 475694080,
+				"iPhone11,8": 474940416,
+				"iPhone12,1": 473695232,
+				"iPhone12,3": 474256384,
+				"iPhone12,5": 474256384,
+				"iPhone12,8": 473691136,
+				"iPhone13,1": 474256384,
+				"iPhone13,2": 474256384,
+				"iPhone13,3": 474256384,
+				"iPhone13,4": 474256384,
+				"iPhone14,2": 473836544,
+				"iPhone14,3": 473836544,
+				"iPhone14,4": 473836544,
+				"iPhone14,5": 473836544,
+				"iPhone14,6": 473271296,
+				"iPhone14,7": 473836544,
+				"iPhone14,8": 473836544,
+				"iPhone15,2": 473836544,
+				"iPhone15,3": 473836544,
+				"iPhone15,4": 473836544,
+				"iPhone15,5": 473836544,
+				"iPhone16,1": 473836544,
+				"iPhone16,2": 473836544,
+				"iPhone17,1": 473836544,
+				"iPhone17,2": 473836544,
+				"iPhone17,3": 473836544,
+				"iPhone17,4": 473836544,
+				"iPhone17,5": 473836544,
+				"iPhone6,1": 474928128,
+				"iPhone6,2": 474928128,
+				"iPhone7,1": 475681792,
+				"iPhone7,2": 474928128,
+				"iPhone8,1": 474928128,
+				"iPhone8,2": 475681792,
+				"iPhone8,4": 474928128,
+				"iPhone9,1": 474936320,
+				"iPhone9,2": 475694080,
+				"iPhone9,3": 474936320,
+				"iPhone9,4": 475694080,
+				"iPod7,1": 474928128,
+				"iPod9,1": 474928128,
+				"universal": 511206400
+			},
+			"firstVersionSupportingInAppPurchaseApi": "5.4.4",
+			"genreDisplayName": "摄影与录像",
+			"hasEula": false,
+			"isFirstPartyHideableApp": false,
+			"isIOSBinaryMacOSCompatible": true,
+			"isPreorder": false,
+			"name": "快手",
+			"platformAttributes": {
+				"ios": {
+					"artwork": {
+						"bgColor": "ff4906",
+						"height": 1024,
+						"textColor1": "161514",
+						"textColor2": "161616",
+						"textColor3": "451f11",
+						"textColor4": "452013",
+						"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/17/3c/40173c07-23df-4a28-b4d7-a6bf98a23759/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/{w}x{h}{c}.{f}",
+						"width": 1024
+					},
+					"bundleId": "com.jiangjia.gif",
+					"copyright": "© 2011-2022 Kwai Technology",
+					"description": {
+						"standard": "「有趣视频，一看就上瘾」\n好看的、好玩的、好笑的短视频，都在这。\n\n「一起同框，越玩越有戏」\n随时随地多人同框，搭戏模仿，有趣更有戏。\n\n「互动直播，有你更出众」\n随时随地侃大山，好看的小哥哥小姐姐都爱玩的直播在这里。\n\n「支持原创，潇洒做自己」\n脑洞大，才艺多，有绝活，给你大舞台。\n\n「美颜滤镜，拍出你的美」\n30款美颜滤镜，上百种魔法表情；要萌要酷随你变，怎么变都好看。\n\n自动续费订阅说明\n\n1.--订阅服务：\n快手超粉团连续包月\n\n2.--订阅价格：\n金粉团：连续包月29.9元/月\n钻粉团：连续包月69.9元/月\n\n3.--付款：\u000B确认购买后，您的iTunes账户将被收取费用，订阅将会自动续订。\n\n4.--续订：\u000B苹果iTunes账号将在当前订阅结束前的最后24小时里被收取续订费用，并确定续订开支。扣款成功后订阅周期顺延一个订阅周期。\n\n5.--取消续订：如需取消订阅，请在当前订阅周期24小时前，打开苹果手机“设置”-->进入“iTunes Store 与App Store”-->点击“Apple ID”，选择“查看Apple ID”，进入“账户设置”页面，点击“订阅”，选择“快手超粉团连续包月”，取消订阅即可。\n\n6.超粉团服务协议：\nhttps://ppg.viviv.com/doodle/YnZeNydF.html\n\n7.超粉团自动续费协议：\nhttps://ppg.viviv.com/doodle/xaOHTsAQ.html\n\n8.隐私政策：https://www.kuaishou.com/about/policy?tab=privacy\n\n9.服务协议：https://www.kuaishou.com/about/policy?tab=protocol"
+					},
+					"editorialArtwork": {
+						"bannerUber": {
+							"bgColor": "ffab38",
+							"height": 1080,
+							"textColor1": "160800",
+							"textColor2": "160b02",
+							"textColor3": "45290b",
+							"textColor4": "452b0d",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/46/a8/9c/46a89c9c-b9bb-0047-1c82-09d5995d2a58/338df226-685e-4eca-a5fe-5d5a99ab29ee.png/{w}x{h}sr.{f}",
+							"width": 4320
+						},
+						"brandLogo": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6b/af/44/6baf4452-1a87-926e-7a9c-96481f9b8ecf/5146e682-8525-409a-a20c-fa73ac9e605e.png/{w}x{h}{c}.{f}",
+							"width": 1080
+						},
+						"contentIconTrimmed": {
+							"bgColor": "575b60",
+							"height": 1080,
+							"textColor1": "f6f6f7",
+							"textColor2": "eeeeef",
+							"textColor3": "d6d7d8",
+							"textColor4": "d0d1d2",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/fd/d3/28/fdd32829-7ea9-7aa9-111f-841ef1711372/5c5a7040-430b-4abe-bab2-b61eda99e63b.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						},
+						"contentIconTrimmedMonochrome": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ec/8c/b5/ec8cb547-a88f-bd50-0bae-ecf33835cf8e/89d66422-d75a-40f6-abb4-7baafc06e593.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						},
+						"subscriptionHero": {
+							"bgColor": "b4cedd",
+							"height": 1080,
+							"textColor1": "131b22",
+							"textColor2": "29262b",
+							"textColor3": "2d3741",
+							"textColor4": "414249",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/e8/59/e6/e859e67c-e722-80d7-75fe-f055416b009c/U0gtQVAtQ0hOLeW_q-aJiy5wbmc.png/{w}x{h}{c}.{f}",
+							"width": 4320
+						}
+					},
+					"editorialNotes": {
+						"tagline": "中秋节魔法表情上线"
+					},
+					"externalVersionId": 876862684,
+					"hasFamilyShareableInAppPurchases": false,
+					"hasInAppPurchases": true,
+					"hasMessagesExtension": false,
+					"hasPrivacyPolicyText": false,
+					"hasSafariExtension": false,
+					"is32bitOnly": false,
+					"isAppleWatchSupported": false,
+					"isDeliveredInIOSAppForWatchOS": false,
+					"isGameCenterEnabled": false,
+					"isHiddenFromSpringboard": false,
+					"isSiriSupported": false,
+					"isStandaloneForWatchOS": false,
+					"isStandaloneWithCompanionForWatchOS": false,
+					"isXROSCompatible": true,
+					"languageList": ["简体中文", "繁体中文", "英语"],
+					"maxPlayers": 0,
+					"messagesScreenshots": {},
+					"minPlayers": 0,
+					"minimumMacOSVersion": "11.0",
+					"minimumOSVersion": "12.2",
+					"minimumXROSVersion": "1.0",
+					"offers": [{
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 511206400
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=STDQ&pg=default&appExtVrsId=876862684",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "get"
+					}, {
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 511206400
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=SWUPD&pg=default&appExtVrsId=876862684",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "update"
+					}],
+					"privacyPolicyUrl": "https://app.m.kuaishou.com/public/index.html#/protocol/1269",
+					"promotionalText": "上快手，看世界，用镜头记录美好瞬间，拥抱每一种生活",
+					"releaseDate": "2011-07-01",
+					"remoteControllerRequirement": "NO_BADGE",
+					"requiredCapabilities": "arm64 ",
+					"requiredCapabilitiesForRealityDevice": "arm64 ",
+					"requirementsString": "系统要求：iOS 12.2 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+					"requires32bit": false,
+					"requiresGameController": false,
+					"screenshotsByType": {
+						"ipadPro": [{
+							"bgColor": "1e1726",
+							"height": 2732,
+							"textColor1": "ece8e1",
+							"textColor2": "dda17c",
+							"textColor3": "c3bebb",
+							"textColor4": "b7856a",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/70/db/5370db97-3827-1494-1621-eb9a4ce3258d/aadb679e-5116-4066-9fc2-48428cffcade__U4e3b_U7ad9-_U6d88_U8d392048x2732.png/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"bgColor": "f6eada",
+							"height": 2732,
+							"textColor1": "0f0706",
+							"textColor2": "221711",
+							"textColor3": "3d3431",
+							"textColor4": "4c4139",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/24/6e/cc246e9d-03cf-9e95-c8bc-6bce9685984b/4f0f03a0-4ab8-420a-89ab-9649bcda4b84__U4e3b_U7ad9-_U76f4_U64ad2048_2732.png/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"bgColor": "cdcbb5",
+							"height": 2732,
+							"textColor1": "0d0d0c",
+							"textColor2": "312816",
+							"textColor3": "33332d",
+							"textColor4": "504936",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/9f/9c/a99f9c36-2e61-97ca-8ded-5a8b4860c08f/400203ae-5490-4534-9af7-14d6928ce871__U4e3b_U7ad9-_U7279_U65482048_2732.png/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"bgColor": "ffffff",
+							"height": 2732,
+							"textColor1": "110b0e",
+							"textColor2": "1f1211",
+							"textColor3": "413c3e",
+							"textColor4": "4c4240",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/98/04/1298042e-511c-17cc-f395-44f8f1d5d64a/0270bdaf-9f09-4545-8e63-76182c202115__U4e3b_U7ad9-_U540c_U57ce2048x2732.png/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"bgColor": "ffffff",
+							"height": 2732,
+							"textColor1": "0f0f0f",
+							"textColor2": "222222",
+							"textColor3": "3f3f3f",
+							"textColor4": "4e4e4e",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/f8/e2/eff8e27b-fc13-93a7-4d12-a265e475adcc/716844cb-da8f-48d0-9195-b40edd383fe3__U4e3b_U7ad9-_U70ed_U699c2048x2732.png/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"bgColor": "ffffff",
+							"height": 2732,
+							"textColor1": "351000",
+							"textColor2": "3a3024",
+							"textColor3": "5d4033",
+							"textColor4": "615950",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/71/e7/3a71e7fd-0b2a-349d-23c2-ba396d6ebd45/cf5cec46-f289-4767-bc8c-e9fd973fd784__U4e3b_U7ad9-_U641c_U7d222048x2732.png/{w}x{h}{c}.{f}",
+							"width": 2048
+						}],
+						"ipadPro_2018": [{
+							"height": 2732,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/89/37/018937f5-19d3-3af0-6c86-83f0351228ee/_U4e3b_U7ad9-_U6d88_U8d392048x2732.jpg/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"height": 2732,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/41/46/9b414646-4b03-95e3-80c7-15f6cf3391d1/_U4e3b_U7ad9-_U76f4_U64ad2048_2732.jpg/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"height": 2732,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/c2/f4/26c2f4c7-a183-120e-961c-95c7612d18c5/_U4e3b_U7ad9-_U7279_U65482048_2732.jpg/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"height": 2732,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/b7/1b/75b71b7e-6850-e90d-176c-f9f02d26e423/_U4e3b_U7ad9-_U540c_U57ce2048x2732.jpg/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"height": 2732,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/0d/48/f60d489e-0b5f-53db-363b-0c582e199886/_U4e3b_U7ad9-_U70ed_U699c2048x2732.jpg/{w}x{h}{c}.{f}",
+							"width": 2048
+						}, {
+							"height": 2732,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/7d/5b/857d5b6d-5d84-0486-3e17-590e2d3a0209/_U4e3b_U7ad9-_U641c_U7d222048x2732.jpg/{w}x{h}{c}.{f}",
+							"width": 2048
+						}],
+						"iphone6+": [{
+							"bgColor": "121225",
+							"height": 2208,
+							"textColor1": "ffffff",
+							"textColor2": "da7b61",
+							"textColor3": "cfcfd3",
+							"textColor4": "b26655",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/1c/d0/911cd072-483e-dd27-b98b-f1ae870dd561/04b75b10-e6dc-46b1-9d95-3ddb36680211__U4e3b_U7ad9-_U6d88_U8d391242x2208.png/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"bgColor": "f9f3e5",
+							"height": 2208,
+							"textColor1": "0a0302",
+							"textColor2": "472e1f",
+							"textColor3": "3a332f",
+							"textColor4": "6a5547",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/d5/fa/ecd5fac8-c3ef-249f-9a3e-09b66015af28/01fb5f8f-ed67-449f-9622-6a45e2fa0c6c__U4e3b_U7ad9-_U76f4_U64ad1242_2208.png/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"bgColor": "cecbb5",
+							"height": 2208,
+							"textColor1": "0d0d0d",
+							"textColor2": "2e2613",
+							"textColor3": "34332f",
+							"textColor4": "4e4734",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/ca/6d/ccca6d6b-4663-95d8-c0a9-accdc2db977a/8f2d9b93-14a8-420d-8ffe-8f0628cba5ff__U4e3b_U7ad9-_U7279_U65481242x2208.png/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"bgColor": "ffffff",
+							"height": 2208,
+							"textColor1": "0e0d09",
+							"textColor2": "1e1210",
+							"textColor3": "3e3d3a",
+							"textColor4": "4b4140",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/ba/5e/fbba5e57-e58e-4df4-5c7f-de113c4a7b7f/2a287619-c188-4621-9c34-292920c36aba__U4e3b_U7ad9-_U540c_U57ce1242x2208.png/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"bgColor": "fff8f5",
+							"height": 2208,
+							"textColor1": "0f0f0f",
+							"textColor2": "343434",
+							"textColor3": "3f3d3d",
+							"textColor4": "5d5b5b",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/40/7a/8d407a3a-9b21-9320-e7d5-4cca073951ba/915c66a5-c43a-41a5-a8c3-c653c085bed7__U4e3b_U7ad9-_U70ed_U699c1242x2208.png/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"bgColor": "ffffff",
+							"height": 2208,
+							"textColor1": "000000",
+							"textColor2": "351000",
+							"textColor3": "333333",
+							"textColor4": "5d3f33",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/3b/68/c63b6870-bb88-9d6f-cb31-7235e30e56ea/514715f9-033b-43c6-a3cd-5c17d5c6ecae__U4e3b_U7ad9-_U641c_U7d221242x2208.png/{w}x{h}{c}.{f}",
+							"width": 1242
+						}],
+						"iphone_6_5": [{
+							"height": 2688,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/a9/1b/38a91b88-4369-25ed-135c-587f150bd5a1/_U4e3b_U7ad9-_U6d88_U8d391242x2688.jpg/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"height": 2688,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/aa/a3/a0aaa35f-e8a8-9e1c-8afe-0400bde9cad0/_U4e3b_U7ad9-_U76f4_U64ad1242_2688.jpg/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"height": 2688,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/fc/83/dafc83fa-9fef-a7bd-8b4b-fc0b042ea1b0/_U4e3b_U7ad9-_U7279_U65481242_2688.jpg/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"height": 2688,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/9e/4b/309e4bf4-05de-9ffd-4249-ff70d14e8ce9/_U4e3b_U7ad9-_U540c_U57ce1242x2688.jpg/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"height": 2688,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/1e/79/571e79f8-1f88-fea3-751e-7d6bee95a13c/_U4e3b_U7ad9-_U70ed_U699c1242x2688.jpg/{w}x{h}{c}.{f}",
+							"width": 1242
+						}, {
+							"height": 2688,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/e6/66/58e666fe-70d0-38c4-40c4-6279a356451a/_U4e3b_U7ad9-_U641c_U7d221242x2688.jpg/{w}x{h}{c}.{f}",
+							"width": 1242
+						}],
+						"iphone_d74": [{
+							"height": 2868,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/70/e1/1570e1b3-e9b8-4de4-a5f1-b3c078e15f94/_U4e3b_U7ad9-_U6d88_U8d391320_2868.jpg/{w}x{h}{c}.{f}",
+							"width": 1320
+						}, {
+							"height": 2868,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/83/ae/7983aeab-6c93-8df1-54c2-7dec3666a897/_U4e3b_U7ad9-_U76f4_U64ad1320_2868.jpg/{w}x{h}{c}.{f}",
+							"width": 1320
+						}, {
+							"height": 2868,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/d8/10/9fd81021-893c-62c1-7388-1503aee6ae41/_U4e3b_U7ad9-_U7279_U65481320_2868.jpg/{w}x{h}{c}.{f}",
+							"width": 1320
+						}, {
+							"height": 2868,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/79/d1/ff79d123-f977-ebfb-aa14-217037bb01ac/_U4e3b_U7ad9-_U540c_U57ce1320_2868.jpg/{w}x{h}{c}.{f}",
+							"width": 1320
+						}, {
+							"height": 2868,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/6d/af/5d6daf33-d164-9814-12e3-04a7ed165a6e/_U4e3b_U7ad9-_U70ed_U699c1320_2868.jpg/{w}x{h}{c}.{f}",
+							"width": 1320
+						}, {
+							"height": 2868,
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/94/9d/50949db4-53e5-b455-59a2-07374a5b9ac8/_U4e3b_U7ad9-_U641c_U7d221320_2868.jpg/{w}x{h}{c}.{f}",
+							"width": 1320
+						}]
+					},
+					"seller": "Beijing Kwai Technology Co., Ltd.",
+					"subtitle": "拥抱每一种生活",
+					"supportURLForLanguage": "http://www.kuaishou.com",
+					"supportedLocales": [{
+						"name": "简体中文",
+						"tag": "zh-Hans-CN"
+					}, {
+						"name": "繁体中文",
+						"tag": "zh-Hant-TW"
+					}, {
+						"name": "英语",
+						"tag": "en-US"
+					}],
+					"supportsFunCamera": false,
+					"supportsGameController": false,
+					"supportsPassbook": false,
+					"versionHistory": [{
+						"releaseDate": "2025-08-02",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-08-02T00:00:09Z",
+						"versionDisplay": "13.6.60"
+					}, {
+						"releaseDate": "2025-07-25",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-07-25T04:00:49Z",
+						"versionDisplay": "13.6.50"
+					}, {
+						"releaseDate": "2025-07-18",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-07-18T02:47:05Z",
+						"versionDisplay": "13.6.30"
+					}, {
+						"releaseDate": "2025-07-11",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-07-11T23:48:33Z",
+						"versionDisplay": "13.6.20"
+					}, {
+						"releaseDate": "2025-07-04",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-07-04T09:09:28Z",
+						"versionDisplay": "13.6.10"
+					}, {
+						"releaseDate": "2025-07-02",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-07-02T15:39:31Z",
+						"versionDisplay": "13.5.41"
+					}, {
+						"releaseDate": "2025-06-27",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-06-27T11:23:58Z",
+						"versionDisplay": "13.5.40"
+					}, {
+						"releaseDate": "2025-06-21",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-06-21T01:02:55Z",
+						"versionDisplay": "13.5.30"
+					}, {
+						"releaseDate": "2025-06-15",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-06-15T11:00:20Z",
+						"versionDisplay": "13.5.20"
+					}, {
+						"releaseDate": "2025-06-06",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-06-06T02:56:04Z",
+						"versionDisplay": "13.5.10"
+					}, {
+						"releaseDate": "2025-05-31",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-05-31T01:29:20Z",
+						"versionDisplay": "13.4.40"
+					}, {
+						"releaseDate": "2025-05-24",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-05-24T01:29:39Z",
+						"versionDisplay": "13.4.30"
+					}, {
+						"releaseDate": "2025-05-17",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-05-17T04:26:41Z",
+						"versionDisplay": "13.4.20"
+					}, {
+						"releaseDate": "2025-05-09",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-05-09T02:46:17Z",
+						"versionDisplay": "13.4.10"
+					}, {
+						"releaseDate": "2025-04-25",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-04-25T03:24:18Z",
+						"versionDisplay": "13.3.40"
+					}, {
+						"releaseDate": "2025-04-18",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-04-18T09:25:02Z",
+						"versionDisplay": "13.3.30"
+					}, {
+						"releaseDate": "2025-04-12",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-04-12T00:08:45Z",
+						"versionDisplay": "13.3.20"
+					}, {
+						"releaseDate": "2025-04-07",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-04-07T01:59:16Z",
+						"versionDisplay": "13.3.10"
+					}, {
+						"releaseDate": "2025-03-28",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-03-28T02:16:21Z",
+						"versionDisplay": "13.2.40"
+					}, {
+						"releaseDate": "2025-03-21",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-03-21T02:23:06Z",
+						"versionDisplay": "13.2.30"
+					}, {
+						"releaseDate": "2025-03-14",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-03-14T04:23:18Z",
+						"versionDisplay": "13.2.20"
+					}, {
+						"releaseDate": "2025-03-10",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-03-10T06:38:14Z",
+						"versionDisplay": "13.2.10"
+					}, {
+						"releaseDate": "2025-02-28",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-02-28T02:39:23Z",
+						"versionDisplay": "13.1.40"
+					}, {
+						"releaseDate": "2025-02-21",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-02-21T03:09:18Z",
+						"versionDisplay": "13.1.30"
+					}, {
+						"releaseDate": "2025-02-14",
+						"releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+						"releaseTimestamp": "2025-02-14T02:28:44Z",
+						"versionDisplay": "13.1.20"
+					}],
+					"videoPreviewsByType": {},
+					"websiteUrl": "https://m.ssl.kuaishou.com/app/home/hot?openFrom=AppleStore_wap"
+				}
+			},
+			"requirementsByDeviceFamily": {
+				"ipad": {
+					"deviceFamily": "iPad",
+					"requirementString": "设备需装有 iPadOS 12.2 或更高版本。"
+				},
+				"iphone": {
+					"deviceFamily": "iPhone",
+					"requirementString": "设备需装有 iOS 12.2 或更高版本。"
+				},
+				"ipod": {
+					"deviceFamily": "iPod touch",
+					"requirementString": "设备需装有 iOS 12.2 或更高版本。"
+				},
+				"mac": {
+					"deviceFamily": "Mac",
+					"requirementString": "需要 macOS 11.0 或更高版本以及装有 Apple M1 或更高版本芯片的 Mac。"
+				},
+				"realityDevice": {
+					"deviceFamily": "Apple Vision",
+					"requirementString": "设备需装有 visionOS 1.0 或更高版本。"
+				}
+			},
+			"reviewsRestricted": false,
+			"sellerLabel": "提供者",
+			"supportsArcade": false,
+			"supportsStreamlinedBuy": true,
+			"url": "https://apps.apple.com/cn/app/%E5%BF%AB%E6%89%8B/id440948110",
+			"userRating": {
+				"ariaLabelForRatings": "4.8 星",
+				"ratingCount": 15349188,
+				"ratingCountList": [358882, 116687, 149328, 248204, 14476087],
+				"value": 4.8
+			},
+			"usesLocationBackgroundMode": false
+		},
+		"relationships": {
+			"alternate-apps": {
+				"href": "/v1/catalog/cn/apps/440948110/alternate-apps?l=zh-Hans-CN",
+				"data": []
+			},
+			"app-bundles": {
+				"href": "/v1/catalog/cn/apps/440948110/app-bundles?l=zh-Hans-CN",
+				"data": []
+			},
+			"customers-also-bought-apps": {
+				"href": "/v1/catalog/cn/apps/440948110/customers-also-bought-apps?l=zh-Hans-CN",
+				"data": [],
+				"meta": {
+					"metrics": {
+						"reco_eligible": "0"
+					}
+				}
+			},
+			"developer": {
+				"href": "/v1/catalog/cn/apps/440948110/developer?l=zh-Hans-CN",
+				"data": [{
+					"id": "440948113",
+					"type": "developers",
+					"href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN",
+					"attributes": {
+						"editorialArtwork": {},
+						"genreNames": [],
+						"mediaType": "Mobile Software Applications",
+						"name": "Beijing Kwai Technology Co., Ltd.",
+						"url": "https://apps.apple.com/cn/developer/beijing-kwai-technology-co-ltd/id440948113"
+					}
+				}]
+			},
+			"developer-other-apps": {
+				"href": "/v1/catalog/cn/apps/440948110/developer-other-apps?l=zh-Hans-CN",
+				"data": [{
+					"id": "1195860596",
+					"type": "apps",
+					"href": "/v1/catalog/cn/apps/1195860596?l=zh-Hans-CN"
+				}, {
+					"id": "1415653267",
+					"type": "apps",
+					"href": "/v1/catalog/cn/apps/1415653267?l=zh-Hans-CN"
+				}, {
+					"id": "1324474993",
+					"type": "apps",
+					"href": "/v1/catalog/cn/apps/1324474993?l=zh-Hans-CN"
+				}, {
+					"id": "6670396916",
+					"type": "apps",
+					"href": "/v1/catalog/cn/apps/6670396916?l=zh-Hans-CN"
+				}, {
+					"id": "1439077104",
+					"type": "apps",
+					"href": "/v1/catalog/cn/apps/1439077104?l=zh-Hans-CN"
+				}]
+			},
+			"genres": {
+				"href": "/v1/catalog/cn/apps/440948110/genres?l=zh-Hans-CN",
+				"data": [{
+					"id": "6008",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6008?l=zh-Hans-CN",
+					"attributes": {
+						"name": "摄影与录像",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6008"
+					}
+				}, {
+					"id": "6005",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6005?l=zh-Hans-CN",
+					"attributes": {
+						"name": "社交",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6005"
+					}
+				}]
+			},
+			"merchandised-in-apps": {
+				"href": "/v1/catalog/cn/apps/440948110/merchandised-in-apps?l=zh-Hans-CN",
+				"data": []
+			},
+			"related-editorial-items": {
+				"href": "/v1/catalog/cn/apps/440948110/related-editorial-items?l=zh-Hans-CN",
+				"data": []
+			},
+			"reviews": {
+				"href": "/v1/catalog/cn/apps/440948110/reviews?l=zh-Hans-CN",
+				"next": "/v1/catalog/cn/apps/440948110/reviews?l=zh-Hans-CN&offset=6",
+				"data": [{
+					"id": "12631459866",
+					"type": "user-reviews",
+					"attributes": {
+						"date": "2025-05-08T00:59:29Z",
+						"developerResponse": {
+							"body": "您好，快手坚持贯彻社会主义核心价值观，严格遵守国家法律法规，一贯倡导温暖向善、积极向上的正能量价值观。快手是一家有社会责任感的互联网分享与记录的内容平台，拥有最严格的审核机制，严厉打击不当言论，美好的社区氛围需要每个人的共同维护。任何有背社会主义核心价值观及违法违规行为，平台均会依法进行严格处理。如果您发现有不当言论，欢迎随时向我们举报，感谢您对快手的支持。\n",
+							"id": 52546220,
+							"modified": "2025-05-10T13:53:26Z"
+						},
+						"isEdited": false,
+						"rating": 2,
+						"review": "至于我为什么评价给2星 还要来问问快手官方 在快手上都能看到有人去辱骂军人消防员的 甚至擦边博主多的数不清 我的大号无缘无故给我封号 玩了几年的号说封就封 快手有时间给我封号 为什么那些骂人的还有擦边的都放任不管呢 一看评论把我气的不行 一堆人对着受害者人身攻击 辱骂各种下流的语言不说 快手甚至骂不过还有“开盒”的 所谓的开盒就是开户 把人家身份证扒出来放到评论区或者发作品炫耀 这真是快手的风气吗 简直肮脏至极",
+						"title": "两星都是多的",
+						"userName": "睿.m"
+					}
+				}, {
+					"id": "11610921200",
+					"type": "user-reviews",
+					"attributes": {
+						"date": "2024-08-15T00:54:37Z",
+						"developerResponse": {
+							"body": "您好，请在快手App内搜索快手客服账号（快手ID：40300103）或拨打官方热线电话 400-126-0088 进行咨询，感谢您的喜爱和支持。\r\n",
+							"id": 46036342,
+							"modified": "2024-08-16T08:42:50Z"
+						},
+						"isEdited": false,
+						"rating": 1,
+						"review": "我只想说我现在一心都不想给他这个东西，我们买的是床垫子，然后当时主播跟我们说说我们退货只需花¥10即可退回，但是到我们这边退货得需50家，然后我去找那个客服理论，我说为什么我这么贵，他只给我来了一句说这是我们的问题跟他们没有任何关系，然后我们咨询的电话客服热线只给我们说一句说他们正在跟进进度，我只想说能不能快一点，我们真的很着急，就真的很明显就是卖家的问题，跟我买的有什么关系，然后卖家的讨论特别特别的激烈，然后因为卖家给我们拉黑了，然后我们没有办法提供更多的有效证据，还希望快手平台可以让这家店好好的整治政治，尽快把我们的钱退还给我们",
+						"title": "退货问题",
+						"userName": "一个退款退不回的悲伤小女生"
+					}
+				}, {
+					"id": "12205918655",
+					"type": "user-reviews",
+					"attributes": {
+						"date": "2025-01-20T01:39:12Z",
+						"developerResponse": {
+							"body": "您好，非常抱歉让您产生了不好的体验了。\r\n",
+							"id": 49852368,
+							"modified": "2025-01-22T11:15:35Z"
+						},
+						"isEdited": false,
+						"rating": 1,
+						"review": "快手做不起活动可以不要弄好吗，谢谢你了，我发财树从一天开始做的，一直做到\n现在，每天都任务拉满，今天才开启最后一个红包，居然需要1000次！我惊呆了\n好吗，你们不去给那些开小号的人加难\n度，给我们正常玩家加难度，一天比一天多，次数一天比一天少，都不知道该说什么了，那些开小号的第二次都快拿到了，我们这种苹果用户上来就比别人任务次数\n少，开启红包要的次数多，就是我们苹果用户活该吗？我是真的失望，那么大的快\n手公司希望你们不要玩不起好吗，这最后\n一关1000次，一天次数就五十多次，你\n告诉我怎么才能通关？是真失望了？\n一分都不想给",
+						"title": "快手过年活动问题",
+						"userName": "活动1222"
+					}
+				}, {
+					"id": "12143251318",
+					"type": "user-reviews",
+					"attributes": {
+						"date": "2025-01-04T10:27:14Z",
+						"developerResponse": {
+							"body": "\"您好，请在快手App内搜索快手客服账号（快手ID：40300103）或拨打官方热线电话 400-126-0088 进行咨询，感谢您的喜爱和支持。\n\"\r\n",
+							"id": 49427090,
+							"modified": "2025-01-06T10:37:22Z"
+						},
+						"isEdited": false,
+						"rating": 1,
+						"review": "看xhs别人分享快手上面买小金豆有补贴，我买的比大盘价便宜十块，比别的平台旗舰店便宜了二十多，我就下载了，买了后过了一天一夜不但不给我发货还直接关闭我的订单了，问商家他们让我找平台客服。找平台客服没人理，购物体验很差，买完他们自己给我关了订单后也无法重新购买，因为显示已经用完了新人优惠。\n严重怀疑平台联合商家搞这种骗人的活动吸引人下载，要不就是让你下单套个人信息然后关了你的订单，搞不起活动还非要弄这个噱头，加上我只是比大盘价便宜了十块钱也不是像别人那样薅羊毛低大盘价几十，本来想买1克回来看看怎么样的，真的无语",
+						"title": "购买东西平台不处理问题",
+						"userName": "星星落下要三秒_"
+					}
+				}, {
+					"id": "11613113754",
+					"type": "user-reviews",
+					"attributes": {
+						"date": "2024-08-15T14:20:44Z",
+						"developerResponse": {
+							"body": "您好，当您无法确定帐号是否违规，或不了解作品违规原因： 一、推荐您前往「创作者中心」查询，打开步骤如下： 1.打开快手app，点击左上角打开侧边栏 2.点击「更多」-「创作者中心」 3.点击「违规查询」，即可了解您的帐号、作品近期违规情况 二、也可以在「侧边栏」-「更多」中找「客服中心」，点击「帐号违规被封禁了，怎么申诉解封？」了解哦。\r\n",
+							"id": 46066140,
+							"modified": "2024-08-18T07:27:24Z"
+						},
+						"isEdited": false,
+						"rating": 1,
+						"review": "真服了 快手怎么这样啊 我玩的那个号好不容易玩起来了结果今天给我封了 还要什么实名认证 我真就搞不懂了 那样有什么意义啊 别人好不容易玩起来的号说封就封了 我都被封好几个号了 就这样还不如不玩快手 没一点意思\n快手什么玩意啊 我快手绑定的号码被朋友改了 刚刚想实名认证把号弄回来的时候说什么要绑定手机号码的人才可以实名认证 什么鬼啊 我玩了那么久的号 我花费了好多心血才玩起来的号号上面还有好多我玩的关系好的朋友 结果快手说封就封 我怎么了 我惹到你了吗 真的奔溃了 这辈子都不想玩快手了",
+						"title": "什么快手啊 还不如不玩",
+						"userName": "真的就很无语了."
+					}
+				}, {
+					"id": "12943231166",
+					"type": "user-reviews",
+					"attributes": {
+						"date": "2025-07-27T16:32:44Z",
+						"developerResponse": {
+							"body": "您好，请在快手App内搜索快手客服账号（快手ID：40300103）或拨打官方热线电话 400-126-0088 进行咨询，感谢您的喜爱和支持。\n",
+							"id": 54503470,
+							"modified": "2025-07-29T09:16:38Z"
+						},
+						"isEdited": false,
+						"rating": 1,
+						"review": "我用快手也有2、3年了 我和朋友一起刷视频 我给朋友发了一个表情包 就是一个很正常的表情包 直接给我显示 账号出现异常\uD83D\uDE02 封了1个月 一个月过后 刚解封 我去给朋友评论 刚评论完给我显示账号要激活 好的没事 我有小号 在大号要激活的5分钟后 我切换了小号 刚切换也显示要激活 我朋友和我说可以用qq登陆 每次都是要sjh 但是安卓就不用 我sjh是我舅舅的副卡 我用自己sfz实名 实名不了 所以没办法激活\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83E\uDD23快手能不能把激活账号这个给去掉啊\uD83E\uDD23",
+						"title": "关于封号问题",
+						"userName": "pzs11918"
+					}
+				}]
+			},
+			"top-in-apps": {
+				"href": "/v1/catalog/cn/apps/440948110/top-in-apps?l=zh-Hans-CN",
+				"data": [{
+					"id": "1094704531",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1094704531?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "42快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "42快币",
+						"offerName": "com.kwai.iap.kscoin42",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=6000&salableAdamId=1094704531&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin42&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 6.00,
+							"priceFormatted": "¥6.00",
+							"priceString": "6.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/42%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "1402571234",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1402571234?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "7快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "7快币",
+						"offerName": "com.kwai.iap.kscoin7",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=1000&salableAdamId=1402571234&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin7&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 1.00,
+							"priceFormatted": "¥1.00",
+							"priceString": "1.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/7%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "1181411525",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1181411525?l=zh-Hans-CN",
+					"attributes": {
+						"artwork": {
+							"bgColor": "ffffff",
+							"height": 1024,
+							"textColor1": "160e01",
+							"textColor2": "140f08",
+							"textColor3": "453e34",
+							"textColor4": "433f39",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/fd/c6/c3/fdc6c3a9-c31a-8a63-4c47-9f6fc9528b74/pr_source.jpg/{w}x{h}{c}.{f}",
+							"width": 1024
+						},
+						"description": {
+							"standard": "280快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "280快币",
+						"offerName": "com.kwai.iap.kscoin280",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=40000&salableAdamId=1181411525&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin280&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 40.00,
+							"priceFormatted": "¥40.00",
+							"priceString": "40.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/280%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "1094704535",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1094704535?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "476快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "476快币",
+						"offerName": "com.kwai.iap.kscoin476",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=68000&salableAdamId=1094704535&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin476&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 68.00,
+							"priceFormatted": "¥68.00",
+							"priceString": "68.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/476%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "1094707039",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1094707039?l=zh-Hans-CN",
+					"attributes": {
+						"artwork": {
+							"bgColor": "ffffff",
+							"height": 1024,
+							"textColor1": "160e01",
+							"textColor2": "140f08",
+							"textColor3": "453e34",
+							"textColor4": "433f39",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f6/9d/26/f69d269d-0c7c-a6b1-645a-83cbfc8ff3ed/pr_source.jpg/{w}x{h}{c}.{f}",
+							"width": 1024
+						},
+						"description": {
+							"standard": "686快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "686快币",
+						"offerName": "com.kwai.iap.kscoin686",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=98000&salableAdamId=1094707039&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin686&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 98.00,
+							"priceFormatted": "¥98.00",
+							"priceString": "98.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/686%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "6474687650",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/6474687650?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "用于购买快手付费内容相关权益"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "付费内容9.9元",
+						"offerName": "com.kwai.iap.virtualgoods9.9",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=9900&salableAdamId=6474687650&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.virtualgoods9.9&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 9.90,
+							"priceFormatted": "¥9.90",
+							"priceString": "9.90",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/%E4%BB%98%E8%B4%B9%E5%86%85%E5%AE%B99-9%E5%85%83/id440948110"
+					}
+				}, {
+					"id": "1575743068",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1575743068?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "84快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "84快币",
+						"offerName": "com.kwai.iap.kscoin84_1",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=12000&salableAdamId=1575743068&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin84_1&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 12.00,
+							"priceFormatted": "¥12.00",
+							"priceString": "12.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/84%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "1094700836",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/1094700836?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "1386快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "1386快币",
+						"offerName": "com.kwai.iap.kscoin1386",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=198000&salableAdamId=1094700836&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin1386&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 198.00,
+							"priceFormatted": "¥198.00",
+							"priceString": "198.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/1386%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "6476252129",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/6476252129?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "14快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "14快币",
+						"offerName": "com.kwai.iap.kscoin14",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=2000&salableAdamId=6476252129&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.kscoin14&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 2.00,
+							"priceFormatted": "¥2.00",
+							"priceString": "2.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/14%E5%BF%AB%E5%B8%81/id440948110"
+					}
+				}, {
+					"id": "6695744485",
+					"type": "in-apps",
+					"href": "/v1/catalog/cn/in-apps/6695744485?l=zh-Hans-CN",
+					"attributes": {
+						"description": {
+							"standard": "12元粉条推广"
+						},
+						"editorialArtwork": {},
+						"icuLocale": "zh_CN@currency=CNY",
+						"isFamilyShareable": false,
+						"isMerchandisedEnabled": false,
+						"isMerchandisedVisibleByDefault": false,
+						"isSubscription": false,
+						"name": "12元粉条推广",
+						"offerName": "com.kwai.iap.fanstop12",
+						"offers": [{
+							"assets": [],
+							"buyParams": "productType=A&price=12000&salableAdamId=6695744485&pricingParameters=STDQ&pg=default&offerName=com.kwai.iap.fanstop12&appAdamId=440948110",
+							"currencyCode": "CNY",
+							"price": 12.00,
+							"priceFormatted": "¥12.00",
+							"priceString": "12.00",
+							"type": "buy"
+						}],
+						"releaseDate": "2009-06-17",
+						"url": "https://apps.apple.com/cn/app/12%E5%85%83%E7%B2%89%E6%9D%A1%E6%8E%A8%E5%B9%BF/id440948110"
+					}
+				}]
+			}
+		},
+		"meta": {
+			"contentVersion": {
+				"MZ_INDEXER": 1754553998331,
+				"RTCI": 1754554673562
+			}
+		}
+	}]
+}
