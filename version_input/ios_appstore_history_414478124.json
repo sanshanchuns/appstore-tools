@@ -13,14 +13,14 @@
             "genre": 6005,
             "genreName": "社交",
             "genreShortName": "社交",
-            "position": 5
+            "position": 4
           }
         },
         "contentRatingsBySystem": {
           "appsApple": {
             "advisories": [
-              "偶尔/轻微的模拟赌博",
-              "偶尔/轻微的成人或性暗示题材"
+              "偶尔/轻微的成人或性暗示题材",
+              "偶尔/轻微的模拟赌博"
             ],
             "name": "12+",
             "rank": 3,
@@ -50,7 +50,7 @@
               "textColor2": "161616",
               "textColor3": "103f26",
               "textColor4": "123f28",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/c9/3008c9b1-778c-0019-fc8d-71cab7be9372/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/7e/aa/877eaa84-53c6-6e85-6241-030182480dc2/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "bundleId": "com.tencent.xin",
@@ -61,7 +61,7 @@
               "textColor2": "161616",
               "textColor3": "123f28",
               "textColor4": "123f28",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/fa/51/f1fa510e-f22c-b186-d3b4-245f75e5ef8c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/86/0b/b9860bd3-b1a5-3359-bf7a-e92e9ab129a8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "copyright": "Copyright © 2011 - 2025 Tencent Inc. All Rights Reserved",
@@ -130,7 +130,7 @@
             "editorialNotes": {
               "tagline": "随时随地  轻松畅聊"
             },
-            "externalVersionId": 875469042,
+            "externalVersionId": 876419863,
             "hasFamilyShareableInAppPurchases": false,
             "hasInAppPurchases": true,
             "hasMessagesExtension": false,
@@ -172,10 +172,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 769909760
+                    "size": 766375936
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=414478124&pricingParameters=STDQ&pg=default&appExtVrsId=875469042",
+                "buyParams": "productType=C&price=0&salableAdamId=414478124&pricingParameters=STDQ&pg=default&appExtVrsId=876419863",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -186,10 +186,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 769909760
+                    "size": 766375936
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=414478124&pricingParameters=SWUPD&pg=default&appExtVrsId=875469042",
+                "buyParams": "productType=C&price=0&salableAdamId=414478124&pricingParameters=SWUPD&pg=default&appExtVrsId=876419863",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -277,6 +277,12 @@
             "supportsGameController": false,
             "supportsPassbook": true,
             "versionHistory": [
+              {
+                "releaseDate": "2025-08-09",
+                "releaseNotes": "本次更新：\n- 解决了一些已知问题。",
+                "releaseTimestamp": "2025-08-09T03:59:39Z",
+                "versionDisplay": "8.0.62"
+              },
               {
                 "releaseDate": "2025-07-02",
                 "releaseNotes": "本次更新：\n- 解决了一些已知问题。",
@@ -420,12 +426,6 @@
                 "releaseNotes": "本次更新：\n- 解决了一些已知问题。 \n\n最近更新：\n- 修复了 iOS 16 的兼容性问题。\n- 修复了 iPhone 14 系列的兼容性问题。\n- 修复了一些已知问题。",
                 "releaseTimestamp": "2023-06-09T07:29:06Z",
                 "versionDisplay": "8.0.38"
-              },
-              {
-                "releaseDate": "2023-04-27",
-                "releaseNotes": "本次更新：\n- 解决了一些已知问题。 \n\n最近更新：\n- 修复了 iOS 16 的兼容性问题。\n- 修复了 iPhone 14 系列的兼容性问题。\n- 修复了一些已知问题。",
-                "releaseTimestamp": "2023-04-27T02:20:18Z",
-                "versionDisplay": "8.0.37"
               }
             ]
           }
@@ -437,13 +437,13 @@
         "url": "https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124",
         "userRating": {
           "ariaLabelForRatings": "4.2 星",
-          "ratingCount": 7703357,
+          "ratingCount": 7713266,
           "ratingCountList": [
-            993818,
-            288362,
-            414411,
-            701470,
-            5305296
+            996097,
+            288846,
+            415136,
+            702752,
+            5310435
           ],
           "value": 4.2
         },
@@ -491,8 +491,8 @@
       },
       "meta": {
         "contentVersion": {
-          "MZ_INDEXER": 1753980215216,
-          "RTCI": 1753896761842
+          "MZ_INDEXER": 1755201378145,
+          "RTCI": 1755022232220
         }
       }
     }

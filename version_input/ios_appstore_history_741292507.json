@@ -20,11 +20,11 @@
           "appsApple": {
             "advisories": [
               "偶尔/轻微的成人或性暗示题材",
-              "偶尔/轻微的色情内容或裸露",
               "偶尔/轻微的亵渎或低俗幽默",
-              "偶尔/轻微的烟酒或毒品使用或相关内容",
+              "偶尔/轻微的色情内容或裸露",
               "偶尔/轻微的卡通或幻想暴力",
-              "偶尔/轻微的医药或医疗信息"
+              "偶尔/轻微的医药或医疗信息",
+              "偶尔/轻微的烟酒或毒品使用或相关内容"
             ],
             "name": "12+",
             "rank": 3,
@@ -52,7 +52,7 @@
               "textColor2": "161616",
               "textColor3": "45171d",
               "textColor4": "45191f",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/ca/82/48ca8263-26f5-1570-3769-9b70e197bb6a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/05/e0/3005e0cc-6f48-d7e9-cff8-64a3d984cb0a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "bundleId": "com.xingin.discover",
@@ -92,7 +92,7 @@
             "editorialNotes": {
               "tagline": "查收 520 穿搭指南"
             },
-            "externalVersionId": 876996508,
+            "externalVersionId": 877066904,
             "hasFamilyShareableInAppPurchases": false,
             "hasInAppPurchases": true,
             "hasMessagesExtension": false,
@@ -125,10 +125,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 440479744
+                    "size": 439894016
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=741292507&pricingParameters=STDQ&pg=default&appExtVrsId=876996508",
+                "buyParams": "productType=C&price=0&salableAdamId=741292507&pricingParameters=STDQ&pg=default&appExtVrsId=877066904",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -139,10 +139,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 440479744
+                    "size": 439894016
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=741292507&pricingParameters=SWUPD&pg=default&appExtVrsId=876996508",
+                "buyParams": "productType=C&price=0&salableAdamId=741292507&pricingParameters=SWUPD&pg=default&appExtVrsId=877066904",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -195,6 +195,12 @@
             "supportsGameController": false,
             "supportsPassbook": true,
             "versionHistory": [
+              {
+                "releaseDate": "2025-08-11",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-08-11T07:06:31Z",
+                "versionDisplay": "8.96"
+              },
               {
                 "releaseDate": "2025-08-06",
                 "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
@@ -338,12 +344,6 @@
                 "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
                 "releaseTimestamp": "2025-04-27T06:10:18Z",
                 "versionDisplay": "8.81"
-              },
-              {
-                "releaseDate": "2025-04-25",
-                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
-                "releaseTimestamp": "2025-04-25T06:44:07Z",
-                "versionDisplay": "8.80.3"
               }
             ]
           }
@@ -355,13 +355,13 @@
         "url": "https://apps.apple.com/cn/app/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E5%85%B4%E8%B6%A3%E7%A4%BE%E5%8C%BA/id741292507",
         "userRating": {
           "ariaLabelForRatings": "4.9 星",
-          "ratingCount": 19882751,
+          "ratingCount": 19949025,
           "ratingCountList": [
-            207637,
-            67897,
-            129603,
-            445705,
-            19031909
+            209143,
+            68195,
+            130274,
+            447649,
+            19093764
           ],
           "value": 4.9
         },
@@ -408,8 +408,8 @@
       },
       "meta": {
         "contentVersion": {
-          "MZ_INDEXER": 1754501444316,
-          "RTCI": 1754537533929
+          "MZ_INDEXER": 1755206433300,
+          "RTCI": 1755198442005
         }
       }
     }

@@ -109,7 +109,7 @@ def fetch_app_history(app_id):
     """获取App的历史版本数据"""
     print(f"🔄 正在获取App ID {app_id} 的历史版本数据...")
     
-    # 构建curl命令
+    # 构建curl命令 - 使用最新的API信息
     curl_command = [
         'curl',
         '-H', 'Host: amp-api-edge.apps.apple.com',
@@ -127,7 +127,7 @@ def fetch_app_history(app_id):
         '-H', 'X-Apple-ADSID: 000620-05-128b6733-47c6-4bf8-9dfc-efde2924bf3a',
         '-H', 'User-Agent: AppStore/3.0 iOS/14.2 model/iPhone10,3 hwp/t8015 build/18B92 (6; dt:159) AMS/1',
         '-H', 'X-DSID: 1658574470',
-        '-H', 'Cookie: X-Dsid=1658574470; xt-b-ts-1658574470=1754573110022; itspod=59; pldfltcid=d7b308d236bd453ea2233f23e27705f1059; tv-pldfltcid=d7b308d236bd453ea2233f23e27705f1059; mz_at0-1658574470=AwQAAAGfAAIjqAAAAABolKk29fzw30Uz4c+z7FLVJrhDR+8JMjI=; xp_ab=1#fNPb5Km+-2+xSb5Dsb01#of2rI6Z+-2+EcaH_Qo01#d5VBr6w+-2+NQRqfVj00#Zh4zkDd+-2+IstHuDt01#QVJEGsa+-2+ulL46Uv01; mz_at_ssl-1658574470=AwUAAAGfAAIjqAAAAABolKk2GnXNL+j6HMBx/js7AeuhH/bAo04=; isPpuOptOut=1; vrep=CIat75YGEgQIAxAAEgQIChAAEgQIDRAAEgQIARAAEgQIDBAAEgQICxAAEgQIDhAAEgQIEhAAEgQIBBAAEgQIBRAAEgQIAhAAEgQIBhAAEgQIDxAAEgQIEBAAEgQICRAAEgQIExAAEgQICBAAEgQIBxAAEgQIERAA; wosid-lite=bCC1t1gvDi1bRIFnxx2YiM',
+        '-H', 'Cookie: X-Dsid=1658574470; xt-b-ts-1658574470=1754573110022; itspod=59; pldfltcid=d7b308d236bd453ea2233f23e27705f1059; tv-pldfltcid=d7b308d236bd453ea2233f23e27705f1059; mz_at0-1658574470=AwQAAAGfAAIjqAAAAABolKk29fzw30Uz4c+z7FLVJrhDR+8JMjI=; xp_ab=1#fNPb5Km+-2+xSb5Dsb01#of2rI6Z+-2+EcaH_Qo01#d5VBr6w+-2+NQRqfVj00#Zh4zkDd+-2+IstHuDt01#QVJEGsa+-2+ulL46Uv01; mz_at0-1658574470=AwQAAAGfAAIjqAAAAABolKk2GnXNL+j6HMBx/js7AeuhH/bAo04=; isPpuOptOut=1; vrep=CIat75YGEgQIAxAAEgQIChAAEgQIDRAAEgQIARAAEgQICxAAEgQICxAAEgQIDhAAEgQIEhAAEgQIBBAAEgQIBRAAEgQIAhAAEgQIBhAAEgQIDxAAEgQIEBAAEgQICRAAEgQIExAAEgQICBAAEgQIBxAAEgQIERAA; wosid-lite=bCC1t1gvDi1bRIFnxx2YiM',
         '-H', 'X-Apple-I-Locale: zh_CN',
         '--compressed',
         f'https://amp-api-edge.apps.apple.com/v1/catalog/cn/apps/{app_id}?platform=iphone&additionalPlatforms=appletv%2Cipad%2Cmac%2Cwatch&extend=versionHistory&l=zh-Hans-CN'
@@ -147,6 +147,10 @@ def fetch_app_history(app_id):
             
             if version_history:
                 print(f"✅ 成功获取到 {len(version_history)} 个版本历史记录")
+                # 显示最新版本信息
+                if version_history:
+                    latest_version = version_history[0]
+                    print(f"📱 最新版本: {latest_version.get('versionDisplay', 'N/A')} - 发布日期: {latest_version.get('releaseDate', 'N/A')}")
                 return data
             else:
                 print("❌ 响应中未找到versionHistory数据")
@@ -170,8 +174,9 @@ def show_common_apps():
     print("\n📱 常见App的ID列表:")
     print("=" * 50)
     print("快手 (Kuaishou)          : 440948110")
-    print("抖音 (TikTok)            : 1142110895")
+    print("抖音 (Aweme)            : 1142110895")
     print("微信 (WeChat)            : 414478124")
+    print("小红书 (Xiaohongshu)     : 741292507")
     print("QQ                      : 444934666")
     print("支付宝 (Alipay)          : 333206289")
     print("淘宝 (Taobao)            : 387682726")
