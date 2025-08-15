@@ -17,6 +17,8 @@ import matplotlib.dates as mdates
 from datetime import datetime
 import numpy as np
 
+# 颜色分析功能已简化，直接使用默认颜色
+
 class PopularAppsFetcher:
     def __init__(self):
         # 热门应用ID映射
@@ -529,9 +531,8 @@ class PopularAppsFetcher:
             fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(15, 12))
             fig.suptitle('热门应用包体大小趋势图', fontsize=16, fontweight='bold')
             
-            # 颜色映射
-            colors = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEAA7', '#DDA0DD']
-            app_colors = dict(zip(self.popular_apps.keys(), colors))
+            # 获取应用颜色
+            app_colors = self.get_app_colors()
             
             # 数据收集
             all_data = {}
@@ -631,6 +632,27 @@ class PopularAppsFetcher:
             print(f"❌ 绘制包体趋势图失败: {e}")
             import traceback
             traceback.print_exc()
+    
+    def get_app_colors(self):
+        """获取应用的颜色配置"""
+        return self.get_default_colors()
+    
+    def get_default_color(self, app_name):
+        """获取应用的默认颜色"""
+        default_colors = {
+            "快手": "#FF6B6B",      # 快手红
+            "抖音": "#000000",      # 抖音黑
+            "微信": "#07C160",      # 微信绿
+            "小红书": "#FF2442",    # 小红书红
+            "支付宝": "#1677FF",    # 支付宝蓝
+            "淘宝": "#FF6A00",      # 淘宝橙
+            "拼多多": "#E02E24"     # 拼多多红
+        }
+        return default_colors.get(app_name, "#666666")
+    
+    def get_default_colors(self):
+        """获取所有应用的默认颜色"""
+        return {app_name: self.get_default_color(app_name) for app_name in self.popular_apps.keys()}
     
     def fetch_all_popular_apps(self, version_count: int = 10):
         """获取所有热门应用的最新版本信息"""

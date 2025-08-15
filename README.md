@@ -92,6 +92,7 @@ python3 auto_fetch_popular_apps.py --plot-only
 - **双图表设计**: 上图显示包体大小随时间变化趋势，下图显示最新版本大小对比
 - **数据转换**: 自动将 `download_size` (字节) 转换为 MB 单位
 - **时间轴**: 横坐标为发布日期，支持时间排序和趋势分析
+- **品牌色彩**: 每个应用使用其知名品牌色彩，确保视觉识别度
 - **可视化**: 每个应用用不同颜色表示，包含数据点标记
 - **高质量输出**: 300 DPI 高分辨率PNG格式，适合报告和展示
 - **自动生成**: 每次运行汇总后自动生成，也可单独使用 `--plot-only` 参数
@@ -376,6 +377,7 @@ appstore_parse/
 ├── install_dependencies.sh        # 依赖安装脚本（macOS/Linux）
 ├── install_dependencies.bat       # 依赖安装脚本（Windows）
 ├── INSTALL.md                     # 详细安装指南
+├── app_colors_config.json         # 应用品牌色彩配置
 ├── version_input/                  # 历史数据文件目录
 │   ├── ios_appstore_history_440948110.json
 │   └── ios_appstore_history_1142110895.json
