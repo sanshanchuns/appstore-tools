@@ -371,6 +371,11 @@ appstore_parse/
 ├── update_version_dates.py         # 更新版本日期工具
 ├── batch_fetch_versions.py         # 批量获取版本信息工具
 ├── fetch_app_xml.sh               # 获取App XML的Shell脚本
+├── requirements.txt                # 完整依赖库列表
+├── requirements-minimal.txt        # 最小依赖库列表（仅必需）
+├── install_dependencies.sh        # 依赖安装脚本（macOS/Linux）
+├── install_dependencies.bat       # 依赖安装脚本（Windows）
+├── INSTALL.md                     # 详细安装指南
 ├── version_input/                  # 历史数据文件目录
 │   ├── ios_appstore_history_440948110.json
 │   └── ios_appstore_history_1142110895.json
@@ -475,6 +480,21 @@ appstore_parse/
 - 依赖库：requests（如有网络请求）
 
 ## 🚀 快速开始
+
+### 0. 安装依赖（首次使用）
+
+```bash
+# 方法1：使用安装脚本（推荐）
+./install_dependencies.sh                    # macOS/Linux
+install_dependencies.bat                     # Windows
+
+# 方法2：手动安装
+pip install -r requirements.txt              # 完整安装
+pip install -r requirements-minimal.txt      # 最小安装（仅必需）
+
+# 方法3：使用国内镜像源（推荐国内用户）
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
 
 ### 1. 一键获取所有热门应用信息（推荐）
 

@@ -1,0 +1,6 @@
+# AppStore 工具最小依赖库（仅必需）
+# 使用以下命令安装：
+# pip install -r requirements-minimal.txt
+
+# 数据可视化库（必需，用于生成包体趋势图）
+matplotlib>=3.5.0
