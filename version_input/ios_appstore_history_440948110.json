@@ -1,0 +1,411 @@
+{
+  "data": [
+    {
+      "id": "440948110",
+      "type": "apps",
+      "href": "/v1/catalog/cn/apps/440948110?l=zh-Hans-CN",
+      "attributes": {
+        "artistName": "Beijing Kwai Technology Co., Ltd.",
+        "chartPositions": {
+          "appStore": {
+            "chart": "top-free",
+            "chartLink": "https://apps.apple.com/cn/charts/iphone/%E6%91%84%E5%BD%B1%E4%B8%8E%E5%BD%95%E5%83%8F-apps/6008",
+            "genre": 6008,
+            "genreName": "摄影与录像",
+            "genreShortName": "摄影与录像",
+            "position": 5
+          }
+        },
+        "contentRatingsBySystem": {
+          "appsApple": {
+            "advisories": [
+              "偶尔/轻微的模拟赌博",
+              "偶尔/轻微的色情内容或裸露",
+              "无限制网页访问",
+              "偶尔/轻微的医药或医疗信息"
+            ],
+            "name": "17+",
+            "rank": 4,
+            "value": 600
+          }
+        },
+        "deviceFamilies": [
+          "iphone",
+          "ipad",
+          "ipod"
+        ],
+        "familyShareEnabledDate": "0001-04-23T00:00:00Z",
+        "firstVersionSupportingInAppPurchaseApi": "5.4.4",
+        "genreDisplayName": "摄影与录像",
+        "hasEula": false,
+        "isFirstPartyHideableApp": false,
+        "isIOSBinaryMacOSCompatible": true,
+        "isPreorder": false,
+        "name": "快手",
+        "platformAttributes": {
+          "ios": {
+            "artwork": {
+              "bgColor": "ff4906",
+              "height": 1024,
+              "textColor1": "161514",
+              "textColor2": "161616",
+              "textColor3": "451f11",
+              "textColor4": "452013",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/bc/d6/a0bcd6b0-5eee-4468-3d6a-706f82fbb8b5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/{w}x{h}{c}.{f}",
+              "width": 1024
+            },
+            "bundleId": "com.jiangjia.gif",
+            "copyright": "© 2011-2022 Kwai Technology",
+            "editorialArtwork": {
+              "bannerUber": {
+                "bgColor": "ffab38",
+                "height": 1080,
+                "textColor1": "160800",
+                "textColor2": "160b02",
+                "textColor3": "45290b",
+                "textColor4": "452b0d",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/46/a8/9c/46a89c9c-b9bb-0047-1c82-09d5995d2a58/338df226-685e-4eca-a5fe-5d5a99ab29ee.png/{w}x{h}sr.{f}",
+                "width": 4320
+              },
+              "brandLogo": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6b/af/44/6baf4452-1a87-926e-7a9c-96481f9b8ecf/5146e682-8525-409a-a20c-fa73ac9e605e.png/{w}x{h}{c}.{f}",
+                "width": 1080
+              },
+              "contentIconTrimmed": {
+                "bgColor": "575b60",
+                "height": 1080,
+                "textColor1": "f6f6f7",
+                "textColor2": "eeeeef",
+                "textColor3": "d6d7d8",
+                "textColor4": "d0d1d2",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/fd/d3/28/fdd32829-7ea9-7aa9-111f-841ef1711372/5c5a7040-430b-4abe-bab2-b61eda99e63b.png/{w}x{h}{c}.{f}",
+                "width": 1096
+              },
+              "contentIconTrimmedMonochrome": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ec/8c/b5/ec8cb547-a88f-bd50-0bae-ecf33835cf8e/89d66422-d75a-40f6-abb4-7baafc06e593.png/{w}x{h}{c}.{f}",
+                "width": 1096
+              },
+              "subscriptionHero": {
+                "bgColor": "b4cedd",
+                "height": 1080,
+                "textColor1": "131b22",
+                "textColor2": "29262b",
+                "textColor3": "2d3741",
+                "textColor4": "414249",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/e8/59/e6/e859e67c-e722-80d7-75fe-f055416b009c/U0gtQVAtQ0hOLeW_q-aJiy5wbmc.png/{w}x{h}{c}.{f}",
+                "width": 4320
+              }
+            },
+            "editorialNotes": {
+              "tagline": "中秋节魔法表情上线"
+            },
+            "externalVersionId": 877051685,
+            "hasFamilyShareableInAppPurchases": false,
+            "hasInAppPurchases": true,
+            "hasMessagesExtension": false,
+            "hasPrivacyPolicyText": false,
+            "hasSafariExtension": false,
+            "is32bitOnly": false,
+            "isAppleWatchSupported": false,
+            "isDeliveredInIOSAppForWatchOS": false,
+            "isGameCenterEnabled": false,
+            "isHiddenFromSpringboard": false,
+            "isSiriSupported": false,
+            "isStandaloneForWatchOS": false,
+            "isStandaloneWithCompanionForWatchOS": false,
+            "isXROSCompatible": true,
+            "languageList": [
+              "简体中文",
+              "繁体中文",
+              "英语"
+            ],
+            "minimumMacOSVersion": "11.0",
+            "minimumOSVersion": "12.2",
+            "minimumXROSVersion": "1.0",
+            "offers": [
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 512273408
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=STDQ&pg=default&appExtVrsId=877051685",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "get"
+              },
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 512273408
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=SWUPD&pg=default&appExtVrsId=877051685",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "update"
+              }
+            ],
+            "releaseDate": "2011-07-01",
+            "requiredCapabilities": "arm64 ",
+            "requiredCapabilitiesForRealityDevice": "arm64 ",
+            "requirementsString": "系统要求：iOS 12.2 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+            "requires32bit": false,
+            "requiresGameController": false,
+            "seller": "Beijing Kwai Technology Co., Ltd.",
+            "subtitle": "拥抱每一种生活",
+            "supportedLocales": [
+              {
+                "name": "简体中文",
+                "tag": "zh-Hans-CN"
+              },
+              {
+                "name": "繁体中文",
+                "tag": "zh-Hant-TW"
+              },
+              {
+                "name": "英语",
+                "tag": "en-US"
+              }
+            ],
+            "supportsGameController": false,
+            "supportsPassbook": false,
+            "versionHistory": [
+              {
+                "releaseDate": "2025-08-09",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-08-09T03:29:18Z",
+                "versionDisplay": "13.7.10"
+              },
+              {
+                "releaseDate": "2025-08-02",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-08-02T00:00:09Z",
+                "versionDisplay": "13.6.60"
+              },
+              {
+                "releaseDate": "2025-07-25",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-07-25T04:00:49Z",
+                "versionDisplay": "13.6.50"
+              },
+              {
+                "releaseDate": "2025-07-18",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-07-18T02:47:05Z",
+                "versionDisplay": "13.6.30"
+              },
+              {
+                "releaseDate": "2025-07-11",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-07-11T23:48:33Z",
+                "versionDisplay": "13.6.20"
+              },
+              {
+                "releaseDate": "2025-07-04",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-07-04T09:09:28Z",
+                "versionDisplay": "13.6.10"
+              },
+              {
+                "releaseDate": "2025-07-02",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-07-02T15:39:31Z",
+                "versionDisplay": "13.5.41"
+              },
+              {
+                "releaseDate": "2025-06-27",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-06-27T11:23:58Z",
+                "versionDisplay": "13.5.40"
+              },
+              {
+                "releaseDate": "2025-06-21",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-06-21T01:02:55Z",
+                "versionDisplay": "13.5.30"
+              },
+              {
+                "releaseDate": "2025-06-15",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-06-15T11:00:20Z",
+                "versionDisplay": "13.5.20"
+              },
+              {
+                "releaseDate": "2025-06-06",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-06-06T02:56:04Z",
+                "versionDisplay": "13.5.10"
+              },
+              {
+                "releaseDate": "2025-05-31",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-05-31T01:29:20Z",
+                "versionDisplay": "13.4.40"
+              },
+              {
+                "releaseDate": "2025-05-24",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-05-24T01:29:39Z",
+                "versionDisplay": "13.4.30"
+              },
+              {
+                "releaseDate": "2025-05-17",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-05-17T04:26:41Z",
+                "versionDisplay": "13.4.20"
+              },
+              {
+                "releaseDate": "2025-05-09",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-05-09T02:46:17Z",
+                "versionDisplay": "13.4.10"
+              },
+              {
+                "releaseDate": "2025-04-25",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-04-25T03:24:18Z",
+                "versionDisplay": "13.3.40"
+              },
+              {
+                "releaseDate": "2025-04-18",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-04-18T09:25:02Z",
+                "versionDisplay": "13.3.30"
+              },
+              {
+                "releaseDate": "2025-04-12",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-04-12T00:08:45Z",
+                "versionDisplay": "13.3.20"
+              },
+              {
+                "releaseDate": "2025-04-07",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-04-07T01:59:16Z",
+                "versionDisplay": "13.3.10"
+              },
+              {
+                "releaseDate": "2025-03-28",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-03-28T02:16:21Z",
+                "versionDisplay": "13.2.40"
+              },
+              {
+                "releaseDate": "2025-03-21",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-03-21T02:23:06Z",
+                "versionDisplay": "13.2.30"
+              },
+              {
+                "releaseDate": "2025-03-14",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-03-14T04:23:18Z",
+                "versionDisplay": "13.2.20"
+              },
+              {
+                "releaseDate": "2025-03-10",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-03-10T06:38:14Z",
+                "versionDisplay": "13.2.10"
+              },
+              {
+                "releaseDate": "2025-02-28",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-02-28T02:39:23Z",
+                "versionDisplay": "13.1.40"
+              },
+              {
+                "releaseDate": "2025-02-21",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-02-21T03:09:18Z",
+                "versionDisplay": "13.1.30"
+              }
+            ]
+          }
+        },
+        "reviewsRestricted": false,
+        "sellerLabel": "提供者",
+        "supportsArcade": false,
+        "supportsStreamlinedBuy": true,
+        "url": "https://apps.apple.com/cn/app/%E5%BF%AB%E6%89%8B/id440948110",
+        "userRating": {
+          "ariaLabelForRatings": "4.8 星",
+          "ratingCount": 15394684,
+          "ratingCountList": [
+            360845,
+            117026,
+            149718,
+            248742,
+            14518353
+          ],
+          "value": 4.8
+        },
+        "usesLocationBackgroundMode": false
+      },
+      "relationships": {
+        "developer": {
+          "href": "/v1/catalog/cn/apps/440948110/developer?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "440948113",
+              "type": "developers",
+              "href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN"
+            }
+          ]
+        },
+        "genres": {
+          "href": "/v1/catalog/cn/apps/440948110/genres?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "6008",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6008?l=zh-Hans-CN",
+              "attributes": {
+                "name": "摄影与录像",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6008"
+              }
+            },
+            {
+              "id": "6005",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6005?l=zh-Hans-CN",
+              "attributes": {
+                "name": "社交",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6005"
+              }
+            }
+          ]
+        }
+      },
+      "meta": {
+        "contentVersion": {
+          "MZ_INDEXER": 1755194917592,
+          "RTCI": 1755189408237
+        }
+      }
+    }
+  ]
+}

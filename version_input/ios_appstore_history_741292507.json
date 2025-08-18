@@ -1,0 +1,417 @@
+{
+  "data": [
+    {
+      "id": "741292507",
+      "type": "apps",
+      "href": "/v1/catalog/cn/apps/741292507?l=zh-Hans-CN",
+      "attributes": {
+        "artistName": "Xingin",
+        "chartPositions": {
+          "appStore": {
+            "chart": "top-free",
+            "chartLink": "https://apps.apple.com/cn/charts/iphone/%E7%A4%BE%E4%BA%A4-apps/6005",
+            "genre": 6005,
+            "genreName": "社交",
+            "genreShortName": "社交",
+            "position": 2
+          }
+        },
+        "contentRatingsBySystem": {
+          "appsApple": {
+            "advisories": [
+              "偶尔/轻微的医药或医疗信息",
+              "偶尔/轻微的色情内容或裸露",
+              "偶尔/轻微的成人或性暗示题材",
+              "偶尔/轻微的卡通或幻想暴力",
+              "偶尔/轻微的烟酒或毒品使用或相关内容",
+              "偶尔/轻微的亵渎或低俗幽默"
+            ],
+            "name": "12+",
+            "rank": 3,
+            "value": 300
+          }
+        },
+        "deviceFamilies": [
+          "iphone",
+          "ipad",
+          "ipod"
+        ],
+        "familyShareEnabledDate": "0001-04-23T00:00:00Z",
+        "genreDisplayName": "社交",
+        "hasEula": false,
+        "isFirstPartyHideableApp": false,
+        "isIOSBinaryMacOSCompatible": true,
+        "isPreorder": false,
+        "name": "小红书 – 你的生活兴趣社区",
+        "platformAttributes": {
+          "ios": {
+            "artwork": {
+              "bgColor": "ff2341",
+              "height": 1024,
+              "textColor1": "161414",
+              "textColor2": "161616",
+              "textColor3": "45171d",
+              "textColor4": "45191f",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/90/74/3d90744f-9269-cd77-c080-36d50bbd71c5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/{w}x{h}{c}.{f}",
+              "width": 1024
+            },
+            "bundleId": "com.xingin.discover",
+            "copyright": "© 行吟信息科技（上海）有限公司",
+            "editorialArtwork": {
+              "brandLogo": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/38/29/cf/3829cf79-cba5-0276-2ad0-d9b4234e4fc8/f7e65979-f5dd-4185-bc3c-ebeeec613fc5.png/{w}x{h}{c}.{f}",
+                "width": 1080
+              },
+              "contentIconTrimmed": {
+                "bgColor": "ef184d",
+                "height": 1080,
+                "textColor1": "041116",
+                "textColor2": "041116",
+                "textColor3": "331321",
+                "textColor4": "331321",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ef/97/5a/ef975a6f-497b-9f7c-cca4-da1de9441ba1/cd485bad-e531-48c0-a1b0-4fe2dc7c9d35.png/{w}x{h}{c}.{f}",
+                "width": 1298
+              },
+              "contentIconTrimmedMonochrome": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/e5/77/19/e57719b9-42de-af25-7ccd-9be8a082ddcf/7b2c7800-354d-45f4-8f9f-150e0d690ae2.png/{w}x{h}{c}.{f}",
+                "width": 1298
+              }
+            },
+            "editorialNotes": {
+              "tagline": "查收 520 穿搭指南"
+            },
+            "externalVersionId": 877146323,
+            "hasFamilyShareableInAppPurchases": false,
+            "hasInAppPurchases": true,
+            "hasMessagesExtension": false,
+            "hasPrivacyPolicyText": false,
+            "hasSafariExtension": false,
+            "is32bitOnly": false,
+            "isAppleWatchSupported": false,
+            "isDeliveredInIOSAppForWatchOS": false,
+            "isGameCenterEnabled": false,
+            "isHiddenFromSpringboard": false,
+            "isSiriSupported": true,
+            "isStandaloneForWatchOS": false,
+            "isStandaloneWithCompanionForWatchOS": false,
+            "isXROSCompatible": true,
+            "languageList": [
+              "俄文",
+              "日文",
+              "法语",
+              "简体中文",
+              "繁体中文",
+              "英语",
+              "西班牙文",
+              "韩文"
+            ],
+            "minimumMacOSVersion": "11.0",
+            "minimumOSVersion": "12.0",
+            "minimumXROSVersion": "1.0",
+            "offers": [
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 441545728
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=741292507&pricingParameters=STDQ&pg=default&appExtVrsId=877146323",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "get"
+              },
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 441545728
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=741292507&pricingParameters=SWUPD&pg=default&appExtVrsId=877146323",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "update"
+              }
+            ],
+            "releaseDate": "2013-12-05",
+            "requiredCapabilities": "arm64 ",
+            "requiredCapabilitiesForRealityDevice": "arm64 ",
+            "requirementsString": "系统要求：iOS 12.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+            "requires32bit": false,
+            "requiresGameController": false,
+            "seller": "Xingin Information Technology (Shanghai) Co., Ltd",
+            "subtitle": "3亿人的生活兴趣爱好聚集地",
+            "supportedLocales": [
+              {
+                "name": "俄文",
+                "tag": "ru"
+              },
+              {
+                "name": "日文",
+                "tag": "ja"
+              },
+              {
+                "name": "法语",
+                "tag": "fr-FR"
+              },
+              {
+                "name": "简体中文",
+                "tag": "zh-Hans-CN"
+              },
+              {
+                "name": "繁体中文",
+                "tag": "zh-Hant-TW"
+              },
+              {
+                "name": "英语",
+                "tag": "en-US"
+              },
+              {
+                "name": "西班牙文",
+                "tag": "es-ES"
+              },
+              {
+                "name": "韩文",
+                "tag": "ko"
+              }
+            ],
+            "supportsGameController": false,
+            "supportsPassbook": true,
+            "versionHistory": [
+              {
+                "releaseDate": "2025-08-15",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-08-15T06:15:30Z",
+                "versionDisplay": "8.97"
+              },
+              {
+                "releaseDate": "2025-08-11",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-08-11T07:06:31Z",
+                "versionDisplay": "8.96"
+              },
+              {
+                "releaseDate": "2025-08-06",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-08-06T07:16:00Z",
+                "versionDisplay": "8.95.1"
+              },
+              {
+                "releaseDate": "2025-08-04",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-08-04T06:37:22Z",
+                "versionDisplay": "8.95"
+              },
+              {
+                "releaseDate": "2025-08-01",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-08-01T02:33:31Z",
+                "versionDisplay": "8.94.2"
+              },
+              {
+                "releaseDate": "2025-07-28",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-07-28T06:17:27Z",
+                "versionDisplay": "8.94"
+              },
+              {
+                "releaseDate": "2025-07-21",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-07-21T06:16:08Z",
+                "versionDisplay": "8.93"
+              },
+              {
+                "releaseDate": "2025-07-17",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-07-17T07:33:17Z",
+                "versionDisplay": "8.92.3"
+              },
+              {
+                "releaseDate": "2025-07-14",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-07-14T06:08:24Z",
+                "versionDisplay": "8.92"
+              },
+              {
+                "releaseDate": "2025-07-07",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-07-07T06:23:43Z",
+                "versionDisplay": "8.91"
+              },
+              {
+                "releaseDate": "2025-07-04",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-07-04T06:59:41Z",
+                "versionDisplay": "8.90.1"
+              },
+              {
+                "releaseDate": "2025-06-30",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-06-30T06:06:54Z",
+                "versionDisplay": "8.90"
+              },
+              {
+                "releaseDate": "2025-06-25",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-06-25T04:10:24Z",
+                "versionDisplay": "8.89.2"
+              },
+              {
+                "releaseDate": "2025-06-23",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-06-23T06:00:47Z",
+                "versionDisplay": "8.89"
+              },
+              {
+                "releaseDate": "2025-06-13",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-06-13T06:36:31Z",
+                "versionDisplay": "8.88"
+              },
+              {
+                "releaseDate": "2025-06-09",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-06-09T02:53:36Z",
+                "versionDisplay": "8.87"
+              },
+              {
+                "releaseDate": "2025-06-03",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-06-03T06:02:24Z",
+                "versionDisplay": "8.86"
+              },
+              {
+                "releaseDate": "2025-05-29",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-05-29T03:28:31Z",
+                "versionDisplay": "8.85.1"
+              },
+              {
+                "releaseDate": "2025-05-26",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-05-26T11:33:41Z",
+                "versionDisplay": "8.85"
+              },
+              {
+                "releaseDate": "2025-05-23",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-05-23T07:02:14Z",
+                "versionDisplay": "8.84.1"
+              },
+              {
+                "releaseDate": "2025-05-19",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-05-19T06:33:51Z",
+                "versionDisplay": "8.84"
+              },
+              {
+                "releaseDate": "2025-05-09",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-05-09T06:14:40Z",
+                "versionDisplay": "8.83"
+              },
+              {
+                "releaseDate": "2025-05-06",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-05-06T06:17:44Z",
+                "versionDisplay": "8.82"
+              },
+              {
+                "releaseDate": "2025-04-29",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-04-29T03:14:25Z",
+                "versionDisplay": "8.81.2"
+              },
+              {
+                "releaseDate": "2025-04-28",
+                "releaseNotes": "- 优化产品体验，修复若干问题 使用中有任何问题或建议，请前往【设置】 - 【帮助与客服】 - 【意见反馈】中告诉我们哦！",
+                "releaseTimestamp": "2025-04-28T03:37:04Z",
+                "versionDisplay": "8.81.1"
+              }
+            ]
+          }
+        },
+        "reviewsRestricted": false,
+        "sellerLabel": "提供者",
+        "supportsArcade": false,
+        "supportsStreamlinedBuy": true,
+        "url": "https://apps.apple.com/cn/app/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E5%85%B4%E8%B6%A3%E7%A4%BE%E5%8C%BA/id741292507",
+        "userRating": {
+          "ariaLabelForRatings": "4.9 星",
+          "ratingCount": 19969515,
+          "ratingCountList": [
+            209628,
+            68302,
+            130457,
+            448259,
+            19112869
+          ],
+          "value": 4.9
+        },
+        "usesLocationBackgroundMode": true
+      },
+      "relationships": {
+        "developer": {
+          "href": "/v1/catalog/cn/apps/741292507/developer?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "708264912",
+              "type": "developers",
+              "href": "/v1/catalog/cn/developers/708264912?l=zh-Hans-CN"
+            }
+          ]
+        },
+        "genres": {
+          "href": "/v1/catalog/cn/apps/741292507/genres?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "6005",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6005?l=zh-Hans-CN",
+              "attributes": {
+                "name": "社交",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6005"
+              }
+            },
+            {
+              "id": "6024",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6024?l=zh-Hans-CN",
+              "attributes": {
+                "name": "购物",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6024"
+              }
+            }
+          ]
+        }
+      },
+      "meta": {
+        "contentVersion": {
+          "MZ_INDEXER": 1755488247619,
+          "RTCI": 1755485140539
+        }
+      }
+    }
+  ]
+}

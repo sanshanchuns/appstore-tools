@@ -1,0 +1,947 @@
+{
+	"data": [{
+		"id": "1195860596",
+		"type": "apps",
+		"href": "/v1/catalog/cn/apps/1195860596?l=zh-Hans-CN",
+		"attributes": {
+			"artistName": "Beijing Kwai Technology Co., Ltd.",
+			"chartPositions": {
+				"appStore": {
+					"chart": "top-free",
+					"chartLink": "https://apps.apple.com/cn/charts/iphone/%E6%91%84%E5%BD%B1%E4%B8%8E%E5%BD%95%E5%83%8F-apps/6008",
+					"genre": 6008,
+					"genreName": "摄影与录像",
+					"genreShortName": "摄影与录像",
+					"position": 14
+				}
+			},
+			"contentRatingsBySystem": {
+				"appsApple": {
+					"advisories": ["赌博", "频繁/强烈的竞赛"],
+					"name": "17+",
+					"rank": 4,
+					"value": 600
+				}
+			},
+			"deviceFamilies": ["iphone", "ipad", "ipod"],
+			"familyShareEnabledDate": "0001-04-23T00:00:00Z",
+			"genreDisplayName": "摄影与录像",
+			"hasEula": false,
+			"isFirstPartyHideableApp": false,
+			"isIOSBinaryMacOSCompatible": true,
+			"isPreorder": false,
+			"name": "快影",
+			"platformAttributes": {
+				"ios": {
+					"artwork": {
+						"bgColor": "000000",
+						"height": 1024,
+						"textColor1": "ff5c63",
+						"textColor2": "ff3b6c",
+						"textColor3": "cb494f",
+						"textColor4": "cb2f56",
+						"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/d1/c6/1dd1c6f5-ff31-3d9b-cea9-3b69467a6a8e/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/{w}x{h}{c}.{f}",
+						"width": 1024
+					},
+					"bundleId": "com.kwai.videoeditor",
+					"copyright": "© 2019 OneSmile CopyRight",
+					"editorialArtwork": {
+						"brandLogo": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6b/af/44/6baf4452-1a87-926e-7a9c-96481f9b8ecf/5146e682-8525-409a-a20c-fa73ac9e605e.png/{w}x{h}{c}.{f}",
+							"width": 1080
+						},
+						"contentIconTrimmed": {
+							"bgColor": "575b60",
+							"height": 1080,
+							"textColor1": "f6f6f7",
+							"textColor2": "eeeeef",
+							"textColor3": "d6d7d8",
+							"textColor4": "d0d1d2",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/fd/d3/28/fdd32829-7ea9-7aa9-111f-841ef1711372/5c5a7040-430b-4abe-bab2-b61eda99e63b.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						},
+						"contentIconTrimmedMonochrome": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ec/8c/b5/ec8cb547-a88f-bd50-0bae-ecf33835cf8e/89d66422-d75a-40f6-abb4-7baafc06e593.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						}
+					},
+					"externalVersionId": 876997592,
+					"hasFamilyShareableInAppPurchases": false,
+					"hasInAppPurchases": true,
+					"hasMessagesExtension": false,
+					"hasPrivacyPolicyText": false,
+					"hasSafariExtension": false,
+					"is32bitOnly": false,
+					"isAppleWatchSupported": false,
+					"isDeliveredInIOSAppForWatchOS": false,
+					"isGameCenterEnabled": false,
+					"isHiddenFromSpringboard": false,
+					"isSiriSupported": false,
+					"isStandaloneForWatchOS": false,
+					"isStandaloneWithCompanionForWatchOS": false,
+					"isXROSCompatible": false,
+					"languageList": ["简体中文", "繁体中文", "英语"],
+					"minimumMacOSVersion": "11.0",
+					"minimumOSVersion": "12.0",
+					"minimumXROSVersion": "1.0",
+					"offers": [{
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 490914816
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1195860596&pricingParameters=STDQ&pg=default&appExtVrsId=876997592",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "get"
+					}, {
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 490914816
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1195860596&pricingParameters=SWUPD&pg=default&appExtVrsId=876997592",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "update"
+					}],
+					"releaseDate": "2017-01-26",
+					"requiredCapabilities": "arm64 ",
+					"requiredCapabilitiesForRealityDevice": "arm64 ",
+					"requirementsString": "系统要求：iOS 12.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+					"requires32bit": false,
+					"requiresGameController": false,
+					"seller": "Beijing Kwai Technology Co., Ltd.",
+					"subtitle": "快手官方视频剪辑神器",
+					"supportedLocales": [{
+						"name": "简体中文",
+						"tag": "zh-Hans-CN"
+					}, {
+						"name": "繁体中文",
+						"tag": "zh-Hant-TW"
+					}, {
+						"name": "英语",
+						"tag": "en-US"
+					}],
+					"supportsGameController": false,
+					"supportsPassbook": false
+				}
+			},
+			"reviewsRestricted": false,
+			"sellerLabel": "提供者",
+			"supportsArcade": false,
+			"supportsStreamlinedBuy": true,
+			"url": "https://apps.apple.com/cn/app/%E5%BF%AB%E5%BD%B1/id1195860596",
+			"userRating": {
+				"ariaLabelForRatings": "4.9 星",
+				"ratingCount": 2510542,
+				"ratingCountList": [15468, 9832, 19854, 50111, 2415277],
+				"value": 4.9
+			},
+			"usesLocationBackgroundMode": false
+		},
+		"relationships": {
+			"developer": {
+				"href": "/v1/catalog/cn/apps/1195860596/developer?l=zh-Hans-CN",
+				"data": [{
+					"id": "440948113",
+					"type": "developers",
+					"href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN"
+				}]
+			},
+			"genres": {
+				"href": "/v1/catalog/cn/apps/1195860596/genres?l=zh-Hans-CN",
+				"data": [{
+					"id": "6008",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6008?l=zh-Hans-CN",
+					"attributes": {
+						"name": "摄影与录像",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6008"
+					}
+				}, {
+					"id": "6027",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6027?l=zh-Hans-CN",
+					"attributes": {
+						"name": "图形与设计",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6027"
+					}
+				}]
+			}
+		},
+		"meta": {
+			"contentVersion": {
+				"MZ_INDEXER": 1754501662553,
+				"RTCI": 1754491308813
+			}
+		}
+	}, {
+		"id": "1415653267",
+		"type": "apps",
+		"href": "/v1/catalog/cn/apps/1415653267?l=zh-Hans-CN",
+		"attributes": {
+			"artistName": "Beijing Kwai Technology Co., Ltd.",
+			"chartPositions": {
+				"appStore": {
+					"chart": "top-free",
+					"chartLink": "https://apps.apple.com/cn/charts/iphone/%E6%91%84%E5%BD%B1%E4%B8%8E%E5%BD%95%E5%83%8F-apps/6008",
+					"genre": 6008,
+					"genreName": "摄影与录像",
+					"genreShortName": "摄影与录像",
+					"position": 39
+				}
+			},
+			"contentRatingsBySystem": {
+				"appsApple": {
+					"name": "4+",
+					"rank": 1,
+					"value": 100
+				}
+			},
+			"deviceFamilies": ["iphone", "ipad", "ipod"],
+			"familyShareEnabledDate": "0001-04-23T00:00:00Z",
+			"firstVersionSupportingInAppPurchaseApi": "2.8.0",
+			"genreDisplayName": "摄影与录像",
+			"hasEula": false,
+			"isFirstPartyHideableApp": false,
+			"isIOSBinaryMacOSCompatible": true,
+			"isPreorder": false,
+			"name": "一甜相机",
+			"platformAttributes": {
+				"ios": {
+					"artwork": {
+						"bgColor": "ffffff",
+						"height": 1024,
+						"textColor1": "130c15",
+						"textColor2": "120e15",
+						"textColor3": "423d43",
+						"textColor4": "423e43",
+						"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/dd/09/dbdd093d-399e-6e51-c3be-5db04087c2fa/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/{w}x{h}{c}.{f}",
+						"width": 1024
+					},
+					"bundleId": "com.kwai.mtu",
+					"copyright": "© 北京快手科技有限公司",
+					"editorialArtwork": {
+						"brandLogo": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6b/af/44/6baf4452-1a87-926e-7a9c-96481f9b8ecf/5146e682-8525-409a-a20c-fa73ac9e605e.png/{w}x{h}{c}.{f}",
+							"width": 1080
+						},
+						"contentIconTrimmed": {
+							"bgColor": "575b60",
+							"height": 1080,
+							"textColor1": "f6f6f7",
+							"textColor2": "eeeeef",
+							"textColor3": "d6d7d8",
+							"textColor4": "d0d1d2",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/fd/d3/28/fdd32829-7ea9-7aa9-111f-841ef1711372/5c5a7040-430b-4abe-bab2-b61eda99e63b.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						},
+						"contentIconTrimmedMonochrome": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ec/8c/b5/ec8cb547-a88f-bd50-0bae-ecf33835cf8e/89d66422-d75a-40f6-abb4-7baafc06e593.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						},
+						"subscriptionHero": {
+							"bgColor": "b6c645",
+							"height": 1080,
+							"textColor1": "080b08",
+							"textColor2": "080b07",
+							"textColor3": "212612",
+							"textColor4": "212711",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/71/6a/cd/716acd62-a97a-80c7-d51e-d110d688d770/9a4df43e-062b-4b78-888b-ea5bf9f0428f.png/{w}x{h}{c}.{f}",
+							"width": 4320
+						}
+					},
+					"editorialNotes": {
+						"name": "一甜相机",
+						"tagline": "秋日限定更新 福利玩法上线"
+					},
+					"externalVersionId": 875810259,
+					"hasFamilyShareableInAppPurchases": false,
+					"hasInAppPurchases": true,
+					"hasMessagesExtension": false,
+					"hasPrivacyPolicyText": false,
+					"hasSafariExtension": false,
+					"is32bitOnly": false,
+					"isAppleWatchSupported": false,
+					"isDeliveredInIOSAppForWatchOS": false,
+					"isGameCenterEnabled": false,
+					"isHiddenFromSpringboard": false,
+					"isSiriSupported": false,
+					"isStandaloneForWatchOS": false,
+					"isStandaloneWithCompanionForWatchOS": false,
+					"isXROSCompatible": false,
+					"languageList": ["简体中文", "繁体中文", "英语"],
+					"minimumMacOSVersion": "11.0",
+					"minimumOSVersion": "11.0",
+					"minimumXROSVersion": "1.0",
+					"offers": [{
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 262444032
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1415653267&pricingParameters=STDQ&pg=default&appExtVrsId=875810259",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "get"
+					}, {
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 262444032
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1415653267&pricingParameters=SWUPD&pg=default&appExtVrsId=875810259",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "update"
+					}],
+					"releaseDate": "2018-08-03",
+					"requiredCapabilities": "arm64 ",
+					"requiredCapabilitiesForRealityDevice": "arm64 ",
+					"requirementsString": "系统要求：iOS 11.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+					"requires32bit": false,
+					"requiresGameController": false,
+					"seller": "Beijing Kwai Technology Co., Ltd.",
+					"subtitle": "拍出元气少女感",
+					"supportedLocales": [{
+						"name": "简体中文",
+						"tag": "zh-Hans-CN"
+					}, {
+						"name": "繁体中文",
+						"tag": "zh-Hant-TW"
+					}, {
+						"name": "英语",
+						"tag": "en-US"
+					}],
+					"supportsGameController": false,
+					"supportsPassbook": false
+				}
+			},
+			"reviewsRestricted": false,
+			"sellerLabel": "提供者",
+			"supportsArcade": false,
+			"supportsStreamlinedBuy": true,
+			"url": "https://apps.apple.com/cn/app/%E4%B8%80%E7%94%9C%E7%9B%B8%E6%9C%BA/id1415653267",
+			"userRating": {
+				"ariaLabelForRatings": "4.9 星",
+				"ratingCount": 945246,
+				"ratingCountList": [4505, 3309, 5313, 10807, 921312],
+				"value": 4.9
+			},
+			"usesLocationBackgroundMode": false
+		},
+		"relationships": {
+			"developer": {
+				"href": "/v1/catalog/cn/apps/1415653267/developer?l=zh-Hans-CN",
+				"data": [{
+					"id": "440948113",
+					"type": "developers",
+					"href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN"
+				}]
+			},
+			"genres": {
+				"href": "/v1/catalog/cn/apps/1415653267/genres?l=zh-Hans-CN",
+				"data": [{
+					"id": "6008",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6008?l=zh-Hans-CN",
+					"attributes": {
+						"name": "摄影与录像",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6008"
+					}
+				}]
+			}
+		},
+		"meta": {
+			"contentVersion": {
+				"MZ_INDEXER": 1752727872795,
+				"RTCI": 1753895335044
+			}
+		}
+	}, {
+		"id": "1324474993",
+		"type": "apps",
+		"href": "/v1/catalog/cn/apps/1324474993?l=zh-Hans-CN",
+		"attributes": {
+			"artistName": "Beijing Kwai Technology Co., Ltd.",
+			"chartPositions": {
+				"appStore": {
+					"chart": "top-free",
+					"chartLink": "https://apps.apple.com/cn/charts/iphone/%E5%B7%A5%E5%85%B7-apps/6002",
+					"genre": 6002,
+					"genreName": "工具",
+					"genreShortName": "工具",
+					"position": 194
+				}
+			},
+			"contentRatingsBySystem": {
+				"appsApple": {
+					"name": "4+",
+					"rank": 1,
+					"value": 100
+				}
+			},
+			"deviceFamilies": ["iphone", "ipad", "ipod"],
+			"familyShareEnabledDate": "0001-04-23T00:00:00Z",
+			"genreDisplayName": "工具",
+			"hasEula": false,
+			"isFirstPartyHideableApp": false,
+			"isIOSBinaryMacOSCompatible": true,
+			"isPreorder": false,
+			"name": "快手直播伴侣",
+			"platformAttributes": {
+				"ios": {
+					"artwork": {
+						"bgColor": "ffffff",
+						"height": 1024,
+						"textColor1": "16060d",
+						"textColor2": "160807",
+						"textColor3": "45383e",
+						"textColor4": "453938",
+						"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/a7/4c/84a74cf1-5994-4594-e05d-06c6e0585c3e/AppIcon-0-1x_U007epad-0-0-0-85-220-0.png/{w}x{h}{c}.{f}",
+						"width": 1024
+					},
+					"bundleId": "com.kwai.liveMateStore",
+					"copyright": "© 2011-2019 Kwai Technology",
+					"editorialArtwork": {
+						"brandLogo": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ce/4f/83/ce4f8331-a495-231d-3043-eff6cd730902/2c81ba6d-10e9-4ba5-9bd9-19d489bfcd31.png/{w}x{h}{c}.{f}",
+							"width": 1080
+						},
+						"contentIconTrimmed": {
+							"bgColor": "575c61",
+							"height": 1080,
+							"textColor1": "fafbfc",
+							"textColor2": "f0f1f2",
+							"textColor3": "d9dbdd",
+							"textColor4": "d2d3d5",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/1e/69/ca/1e69ca62-022b-a290-bb11-75ab7a6dd4cb/d9a8239b-1eca-45b8-bb1d-80aa386511d5.png/{w}x{h}{c}.{f}",
+							"width": 746
+						},
+						"contentIconTrimmedMonochrome": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/91/e4/61/91e461e4-ec59-0d3b-43e4-e7cdf77da4ff/0717b7dc-93c8-42da-9886-e0de0c534f2a.png/{w}x{h}{c}.{f}",
+							"width": 746
+						}
+					},
+					"externalVersionId": 867595103,
+					"hasFamilyShareableInAppPurchases": false,
+					"hasInAppPurchases": false,
+					"hasMessagesExtension": false,
+					"hasPrivacyPolicyText": false,
+					"hasSafariExtension": false,
+					"is32bitOnly": false,
+					"isAppleWatchSupported": false,
+					"isDeliveredInIOSAppForWatchOS": false,
+					"isGameCenterEnabled": false,
+					"isHiddenFromSpringboard": false,
+					"isSiriSupported": false,
+					"isStandaloneForWatchOS": false,
+					"isStandaloneWithCompanionForWatchOS": false,
+					"isXROSCompatible": false,
+					"languageList": ["简体中文"],
+					"minimumMacOSVersion": "11.0",
+					"minimumOSVersion": "12.0",
+					"minimumXROSVersion": "1.0",
+					"offers": [{
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 179465216
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1324474993&pricingParameters=STDQ&pg=default&appExtVrsId=867595103",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "get"
+					}, {
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 179465216
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1324474993&pricingParameters=SWUPD&pg=default&appExtVrsId=867595103",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "update"
+					}],
+					"releaseDate": "2019-07-11",
+					"requiredCapabilities": "arm64 ",
+					"requiredCapabilitiesForRealityDevice": "arm64 ",
+					"requirementsString": "系统要求：iOS 12.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+					"requires32bit": false,
+					"requiresGameController": false,
+					"seller": "Beijing Kwai Technology Co., Ltd.",
+					"subtitle": "快手热门手游直播",
+					"supportedLocales": [{
+						"name": "简体中文",
+						"tag": "zh-Hans-CN"
+					}],
+					"supportsGameController": false,
+					"supportsPassbook": false
+				}
+			},
+			"reviewsRestricted": false,
+			"sellerLabel": "提供者",
+			"supportsArcade": false,
+			"supportsStreamlinedBuy": true,
+			"url": "https://apps.apple.com/cn/app/%E5%BF%AB%E6%89%8B%E7%9B%B4%E6%92%AD%E4%BC%B4%E4%BE%A3/id1324474993",
+			"userRating": {
+				"ariaLabelForRatings": "4.8 星",
+				"ratingCount": 63305,
+				"ratingCountList": [2056, 709, 824, 2123, 57593],
+				"value": 4.8
+			},
+			"usesLocationBackgroundMode": false
+		},
+		"relationships": {
+			"developer": {
+				"href": "/v1/catalog/cn/apps/1324474993/developer?l=zh-Hans-CN",
+				"data": [{
+					"id": "440948113",
+					"type": "developers",
+					"href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN"
+				}]
+			},
+			"genres": {
+				"href": "/v1/catalog/cn/apps/1324474993/genres?l=zh-Hans-CN",
+				"data": [{
+					"id": "6002",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6002?l=zh-Hans-CN",
+					"attributes": {
+						"name": "工具",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6002"
+					}
+				}]
+			}
+		},
+		"meta": {
+			"contentVersion": {
+				"MZ_INDEXER": 1752750608588,
+				"RTCI": 1753895330024
+			}
+		}
+	}, {
+		"id": "6670396916",
+		"type": "apps",
+		"href": "/v1/catalog/cn/apps/6670396916?l=zh-Hans-CN",
+		"attributes": {
+			"artistName": "Beijing Kwai Technology Co., Ltd.",
+			"chartPositions": {
+				"appStore": {
+					"chart": "top-free",
+					"chartLink": "https://apps.apple.com/cn/charts/iphone/%E6%91%84%E5%BD%B1%E4%B8%8E%E5%BD%95%E5%83%8F-apps/6008",
+					"genre": 6008,
+					"genreName": "摄影与录像",
+					"genreShortName": "摄影与录像",
+					"position": 29
+				}
+			},
+			"contentRatingsBySystem": {
+				"appsApple": {
+					"advisories": ["偶尔/轻微的亵渎或低俗幽默", "偶尔/轻微的现实暴力", "偶尔/轻微的惊悚或恐怖题材", "偶尔/轻微的卡通或幻想暴力", "偶尔/轻微的竞赛", "偶尔/轻微的成人或性暗示题材"],
+					"name": "12+",
+					"rank": 3,
+					"value": 300
+				}
+			},
+			"deviceFamilies": ["iphone", "ipad", "ipod"],
+			"familyShareEnabledDate": "0001-04-23T00:00:00Z",
+			"firstVersionSupportingInAppPurchaseApi": "1.0.1",
+			"genreDisplayName": "摄影与录像",
+			"hasEula": false,
+			"isFirstPartyHideableApp": false,
+			"isIOSBinaryMacOSCompatible": true,
+			"isPreorder": false,
+			"name": "可灵AI - AI图片&视频创作工具",
+			"platformAttributes": {
+				"ios": {
+					"artwork": {
+						"bgColor": "000000",
+						"height": 1024,
+						"textColor1": "f0f0f0",
+						"textColor2": "cecece",
+						"textColor3": "c0c0c0",
+						"textColor4": "a5a5a5",
+						"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/58/3e/b9583ea4-69a5-910d-795b-a42c1eefa867/AppIconKlingapp-0-0-1x_U007epad-0-1-0-85-220.png/{w}x{h}{c}.{f}",
+						"width": 1024
+					},
+					"bundleId": "com.kwai.kling",
+					"copyright": "© 2024 Kwai Technology",
+					"editorialArtwork": {
+						"brandLogo": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6b/af/44/6baf4452-1a87-926e-7a9c-96481f9b8ecf/5146e682-8525-409a-a20c-fa73ac9e605e.png/{w}x{h}{c}.{f}",
+							"width": 1080
+						},
+						"contentIconTrimmed": {
+							"bgColor": "575b60",
+							"height": 1080,
+							"textColor1": "f6f6f7",
+							"textColor2": "eeeeef",
+							"textColor3": "d6d7d8",
+							"textColor4": "d0d1d2",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/fd/d3/28/fdd32829-7ea9-7aa9-111f-841ef1711372/5c5a7040-430b-4abe-bab2-b61eda99e63b.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						},
+						"contentIconTrimmedMonochrome": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ec/8c/b5/ec8cb547-a88f-bd50-0bae-ecf33835cf8e/89d66422-d75a-40f6-abb4-7baafc06e593.png/{w}x{h}{c}.{f}",
+							"width": 1096
+						}
+					},
+					"externalVersionId": 876963327,
+					"hasFamilyShareableInAppPurchases": false,
+					"hasInAppPurchases": true,
+					"hasMessagesExtension": false,
+					"hasPrivacyPolicyText": false,
+					"hasSafariExtension": false,
+					"is32bitOnly": false,
+					"isAppleWatchSupported": false,
+					"isDeliveredInIOSAppForWatchOS": false,
+					"isGameCenterEnabled": false,
+					"isHiddenFromSpringboard": false,
+					"isSiriSupported": false,
+					"isStandaloneForWatchOS": false,
+					"isStandaloneWithCompanionForWatchOS": false,
+					"isXROSCompatible": true,
+					"languageList": ["简体中文", "繁体中文", "英语"],
+					"minimumMacOSVersion": "11.0",
+					"minimumOSVersion": "14.0",
+					"minimumXROSVersion": "1.0",
+					"offers": [{
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 127390720
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=6670396916&pricingParameters=STDQ&pg=default&appExtVrsId=876963327",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "get"
+					}, {
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 127390720
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=6670396916&pricingParameters=SWUPD&pg=default&appExtVrsId=876963327",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "update"
+					}],
+					"releaseDate": "2024-11-03",
+					"requiredCapabilities": "arm64 ",
+					"requiredCapabilitiesForRealityDevice": "arm64 ",
+					"requirementsString": "系统要求：iOS 14.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+					"requires32bit": false,
+					"requiresGameController": false,
+					"seller": "Beijing Kwai Technology Co., Ltd.",
+					"subtitle": "新一代AI创意生产力平台，图片视频生成，创意交流社区",
+					"supportedLocales": [{
+						"name": "简体中文",
+						"tag": "zh-Hans-CN"
+					}, {
+						"name": "繁体中文",
+						"tag": "zh-Hant-TW"
+					}, {
+						"name": "英语",
+						"tag": "en-US"
+					}],
+					"supportsGameController": false,
+					"supportsPassbook": false
+				}
+			},
+			"reviewsRestricted": false,
+			"sellerLabel": "提供者",
+			"supportsArcade": false,
+			"supportsStreamlinedBuy": true,
+			"url": "https://apps.apple.com/cn/app/%E5%8F%AF%E7%81%B5ai-ai%E5%9B%BE%E7%89%87-%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%B7%A5%E5%85%B7/id6670396916",
+			"userRating": {
+				"ariaLabelForRatings": "4.8 星",
+				"ratingCount": 33332,
+				"ratingCountList": [796, 196, 417, 1028, 30895],
+				"value": 4.8
+			},
+			"usesLocationBackgroundMode": false
+		},
+		"relationships": {
+			"developer": {
+				"href": "/v1/catalog/cn/apps/6670396916/developer?l=zh-Hans-CN",
+				"data": [{
+					"id": "440948113",
+					"type": "developers",
+					"href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN"
+				}]
+			},
+			"genres": {
+				"href": "/v1/catalog/cn/apps/6670396916/genres?l=zh-Hans-CN",
+				"data": [{
+					"id": "6008",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6008?l=zh-Hans-CN",
+					"attributes": {
+						"name": "摄影与录像",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6008"
+					}
+				}]
+			}
+		},
+		"meta": {
+			"contentVersion": {
+				"MZ_INDEXER": 1754443115008,
+				"RTCI": 1754411388690
+			}
+		}
+	}, {
+		"id": "1439077104",
+		"type": "apps",
+		"href": "/v1/catalog/cn/apps/1439077104?l=zh-Hans-CN",
+		"attributes": {
+			"artistName": "Beijing Kwai Technology Co., Ltd.",
+			"contentRatingsBySystem": {
+				"appsApple": {
+					"advisories": ["无限制网页访问", "偶尔/轻微的医药或医疗信息", "偶尔/轻微的模拟赌博", "偶尔/轻微的色情内容或裸露"],
+					"name": "17+",
+					"rank": 4,
+					"value": 600
+				}
+			},
+			"deviceFamilies": ["iphone", "ipad", "ipod"],
+			"familyShareEnabledDate": "0001-04-23T00:00:00Z",
+			"firstVersionSupportingInAppPurchaseApi": "1.0.0",
+			"genreDisplayName": "娱乐",
+			"hasEula": false,
+			"isFirstPartyHideableApp": false,
+			"isIOSBinaryMacOSCompatible": false,
+			"isPreorder": false,
+			"name": "噗叽",
+			"platformAttributes": {
+				"ios": {
+					"artwork": {
+						"bgColor": "121212",
+						"height": 1024,
+						"textColor1": "aafa71",
+						"textColor2": "67fd73",
+						"textColor3": "8bcc5e",
+						"textColor4": "56ce60",
+						"url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8b/85/218b858c-c9e5-cd9d-6128-276511d0f82d/AppIconPuji-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/{w}x{h}{c}.{f}",
+						"width": 1024
+					},
+					"bundleId": "com.kwai.thanos",
+					"copyright": "© 2023-2043 Kwai Technology",
+					"editorialArtwork": {
+						"brandLogo": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/28/59/ee/2859eebe-20ac-7814-ec46-0fce7ce3d567/12fc09db-ce0f-4c5f-a841-6866788e0179.png/{w}x{h}{c}.{f}",
+							"width": 1080
+						},
+						"contentIconTrimmed": {
+							"bgColor": "b6030c",
+							"height": 1080,
+							"textColor1": "febc00",
+							"textColor2": "febc00",
+							"textColor3": "f09702",
+							"textColor4": "f09702",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/b9/df/22/b9df22e4-d410-273a-f990-87ef45dc326b/53b5c834-2546-4ab9-b26a-5c5126c6851e.png/{w}x{h}{c}.{f}",
+							"width": 758
+						},
+						"contentIconTrimmedMonochrome": {
+							"bgColor": "000000",
+							"height": 1080,
+							"textColor1": "f2f2f2",
+							"textColor2": "e5e5e5",
+							"textColor3": "c1c1c1",
+							"textColor4": "b7b7b7",
+							"url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/fb/1d/8d/fb1d8d13-8d9b-4667-4632-979fcce14060/7842b9eb-ef81-48c7-82c1-fee36005ca00.png/{w}x{h}{c}.{f}",
+							"width": 758
+						}
+					},
+					"externalVersionId": 867031025,
+					"hasFamilyShareableInAppPurchases": false,
+					"hasInAppPurchases": false,
+					"hasMessagesExtension": false,
+					"hasPrivacyPolicyText": false,
+					"hasSafariExtension": false,
+					"is32bitOnly": false,
+					"isAppleWatchSupported": false,
+					"isDeliveredInIOSAppForWatchOS": false,
+					"isGameCenterEnabled": false,
+					"isHiddenFromSpringboard": false,
+					"isSiriSupported": false,
+					"isStandaloneForWatchOS": false,
+					"isStandaloneWithCompanionForWatchOS": false,
+					"isXROSCompatible": false,
+					"languageList": ["简体中文", "繁体中文", "英语"],
+					"minimumMacOSVersion": "11.0",
+					"minimumOSVersion": "11.0",
+					"minimumXROSVersion": "1.0",
+					"offers": [{
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 328760320
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1439077104&pricingParameters=STDQ&pg=default&appExtVrsId=867031025",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "get"
+					}, {
+						"assets": [{
+							"flavor": "iosSoftware",
+							"size": 328760320
+						}],
+						"buyParams": "productType=C&price=0&salableAdamId=1439077104&pricingParameters=SWUPD&pg=default&appExtVrsId=867031025",
+						"currencyCode": "CNY",
+						"price": 0.00,
+						"priceFormatted": "¥0.00",
+						"priceString": "0.00",
+						"type": "update"
+					}],
+					"releaseDate": "2018-11-17",
+					"requiredCapabilities": "arm64 ",
+					"requiredCapabilitiesForRealityDevice": "arm64 ",
+					"requirementsString": "系统要求：iOS 11.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+					"requires32bit": false,
+					"requiresGameController": false,
+					"seller": "Beijing Kwai Technology Co., Ltd.",
+					"subtitle": "我快乐世界才快乐",
+					"supportedLocales": [{
+						"name": "简体中文",
+						"tag": "zh-Hans-CN"
+					}, {
+						"name": "繁体中文",
+						"tag": "zh-Hant-TW"
+					}, {
+						"name": "英语",
+						"tag": "en-US"
+					}],
+					"supportsGameController": false,
+					"supportsPassbook": false
+				}
+			},
+			"reviewsRestricted": false,
+			"sellerLabel": "提供者",
+			"supportsArcade": false,
+			"supportsStreamlinedBuy": true,
+			"url": "https://apps.apple.com/cn/app/%E5%99%97%E5%8F%BD/id1439077104",
+			"userRating": {
+				"ariaLabelForRatings": "4.1 星",
+				"ratingCount": 6492,
+				"ratingCountList": [876, 357, 435, 662, 4162],
+				"value": 4.1
+			},
+			"usesLocationBackgroundMode": false
+		},
+		"relationships": {
+			"developer": {
+				"href": "/v1/catalog/cn/apps/1439077104/developer?l=zh-Hans-CN",
+				"data": [{
+					"id": "440948113",
+					"type": "developers",
+					"href": "/v1/catalog/cn/developers/440948113?l=zh-Hans-CN"
+				}]
+			},
+			"genres": {
+				"href": "/v1/catalog/cn/apps/1439077104/genres?l=zh-Hans-CN",
+				"data": [{
+					"id": "6016",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6016?l=zh-Hans-CN",
+					"attributes": {
+						"name": "娱乐",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6016"
+					}
+				}, {
+					"id": "6005",
+					"type": "genres",
+					"href": "/v1/catalog/cn/genres/6005?l=zh-Hans-CN",
+					"attributes": {
+						"name": "社交",
+						"parentId": "36",
+						"parentName": "App Store",
+						"url": "https://itunes.apple.com/cn/genre/id6005"
+					}
+				}]
+			}
+		},
+		"meta": {
+			"contentVersion": {
+				"MZ_INDEXER": 1752715443207,
+				"RTCI": 1753895605790
+			}
+		}
+	}]
+}

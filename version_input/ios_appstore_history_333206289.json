@@ -1,0 +1,423 @@
+{
+  "data": [
+    {
+      "id": "333206289",
+      "type": "apps",
+      "href": "/v1/catalog/cn/apps/333206289?l=zh-Hans-CN",
+      "attributes": {
+        "artistName": "Alipay (Hangzhou) Technology Co., Ltd.",
+        "chartPositions": {
+          "appStore": {
+            "chart": "top-free",
+            "chartLink": "https://apps.apple.com/cn/charts/iphone/%E7%94%9F%E6%B4%BB-apps/6012",
+            "genre": 6012,
+            "genreName": "生活",
+            "genreShortName": "生活",
+            "position": 4
+          }
+        },
+        "contentRatingsBySystem": {
+          "appsApple": {
+            "name": "4+",
+            "rank": 1,
+            "value": 100
+          }
+        },
+        "deviceFamilies": [
+          "watch",
+          "iphone",
+          "ipad",
+          "ipod"
+        ],
+        "familyShareEnabledDate": "0001-04-23T00:00:00Z",
+        "genreDisplayName": "生活",
+        "hasEula": false,
+        "isFirstPartyHideableApp": false,
+        "isIOSBinaryMacOSCompatible": false,
+        "isPreorder": false,
+        "minimumWatchOSVersion": "2.0",
+        "name": "支付宝-便捷生活，一点就好",
+        "platformAttributes": {
+          "ios": {
+            "artwork": {
+              "bgColor": "1676ff",
+              "height": 1024,
+              "textColor1": "01050c",
+              "textColor2": "141516",
+              "textColor3": "051c3d",
+              "textColor4": "142845",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/79/11/a479116e-bede-a684-423f-c1409411de57/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/{w}x{h}{c}.{f}",
+              "width": 1024
+            },
+            "bundleId": "com.alipay.iphoneclient",
+            "circularArtwork": {
+              "bgColor": "1676ff",
+              "height": 1024,
+              "textColor1": "01050c",
+              "textColor2": "020b19",
+              "textColor3": "051c3d",
+              "textColor4": "062147",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/e3/af/30e3affc-46c1-e83e-3d32-546d6afe6fef/AppIcon-0-0-1x_U007emarketing-0-16-0-0-85-220.png/{w}x{h}{c}.{f}",
+              "width": 1024
+            },
+            "copyright": "© Ant Group. All rights reserved.",
+            "editorialArtwork": {
+              "bannerUber": {
+                "bgColor": "1346c4",
+                "height": 1080,
+                "textColor1": "bfdafd",
+                "textColor2": "94befe",
+                "textColor3": "9cbcf2",
+                "textColor4": "7aa6f3",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/22/1c/ab/221cabc9-bd10-0602-5952-8a2e7865f818/4b81f978-b215-4ad3-8688-00877df98c80.png/{w}x{h}sr.{f}",
+                "width": 4320
+              },
+              "brandLogo": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/76/85/df/7685df3a-c79c-0a77-e55f-e85b16c173b9/8435fae0-cd9c-4867-8e00-9f91d40967ab.png/{w}x{h}{c}.{f}",
+                "width": 1080
+              },
+              "contentIconTrimmed": {
+                "bgColor": "b60a0a",
+                "height": 1080,
+                "textColor1": "fab863",
+                "textColor2": "f8b762",
+                "textColor3": "ec9551",
+                "textColor4": "eb9551",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/66/c7/6c/66c76cce-2a4f-f042-2e85-8167b7f81008/5da69965-8053-4624-844d-60ed5411ce25.png/{w}x{h}{c}.{f}",
+                "width": 996
+              },
+              "contentIconTrimmedMonochrome": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/5a/ee/73/5aee7316-0729-7b2c-5569-674751c4ba41/a60c2697-deab-4e95-a21f-4a9cf3ac1335.png/{w}x{h}{c}.{f}",
+                "width": 996
+              },
+              "originalFlowcaseBrick": {
+                "bgColor": "eaf0d5",
+                "height": 600,
+                "textColor1": "35222c",
+                "textColor2": "322a20",
+                "textColor3": "594b4d",
+                "textColor4": "575244",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features7/v4/90/9b/21/909b215d-25e7-7920-50cd-e0799cea1a51/pr_source.png/{w}x{h}{c}.{f}",
+                "width": 3200
+              },
+              "storeFlowcase": {
+                "bgColor": "eff5ff",
+                "height": 1080,
+                "textColor1": "091014",
+                "textColor2": "0b1215",
+                "textColor3": "373e43",
+                "textColor4": "393f43",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features22/v4/4c/e2/71/4ce27172-fd96-5e50-c7a7-5b8639b4051b/pr_source.png/{w}x{h}{c}.{f}",
+                "width": 4320
+              }
+            },
+            "externalVersionId": 876826051,
+            "hasFamilyShareableInAppPurchases": false,
+            "hasInAppPurchases": true,
+            "hasMessagesExtension": false,
+            "hasPrivacyPolicyText": false,
+            "hasSafariExtension": false,
+            "is32bitOnly": false,
+            "isAppleWatchSupported": true,
+            "isDeliveredInIOSAppForWatchOS": true,
+            "isGameCenterEnabled": false,
+            "isHiddenFromSpringboard": false,
+            "isSiriSupported": true,
+            "isStandaloneForWatchOS": false,
+            "isStandaloneWithCompanionForWatchOS": false,
+            "isXROSCompatible": false,
+            "languageList": [
+              "简体中文",
+              "繁体中文",
+              "英语"
+            ],
+            "minimumMacOSVersion": "11.0",
+            "minimumOSVersion": "13.0",
+            "minimumXROSVersion": "1.0",
+            "offers": [
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 434692096
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=333206289&pricingParameters=STDQ&pg=default&appExtVrsId=876826051",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "get"
+              },
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 434692096
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=333206289&pricingParameters=SWUPD&pg=default&appExtVrsId=876826051",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "update"
+              }
+            ],
+            "releaseDate": "2009-10-15",
+            "requiredCapabilities": "arm64 ",
+            "requiredCapabilitiesForRealityDevice": "arm64 ",
+            "requirementsString": "系统要求：iOS 13.0 和 watchOS 2.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+            "requires32bit": false,
+            "requiresGameController": false,
+            "seller": "Alipay (Hangzhou) Technology Co., Ltd.",
+            "supportedLocales": [
+              {
+                "name": "简体中文",
+                "tag": "zh-Hans-CN"
+              },
+              {
+                "name": "繁体中文",
+                "tag": "zh-Hant-HK"
+              },
+              {
+                "name": "英语",
+                "tag": "en-US"
+              }
+            ],
+            "supportsGameController": false,
+            "supportsPassbook": true,
+            "versionHistory": [
+              {
+                "releaseDate": "2025-08-11",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-08-11T06:04:27Z",
+                "versionDisplay": "10.7.70"
+              },
+              {
+                "releaseDate": "2025-07-28",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-07-28T06:00:56Z",
+                "versionDisplay": "10.7.66"
+              },
+              {
+                "releaseDate": "2025-07-14",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-07-14T05:58:33Z",
+                "versionDisplay": "10.7.60"
+              },
+              {
+                "releaseDate": "2025-06-30",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-06-30T06:02:06Z",
+                "versionDisplay": "10.7.56"
+              },
+              {
+                "releaseDate": "2025-06-16",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-06-16T05:58:04Z",
+                "versionDisplay": "10.7.50"
+              },
+              {
+                "releaseDate": "2025-06-03",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-06-03T03:02:04Z",
+                "versionDisplay": "10.7.36"
+              },
+              {
+                "releaseDate": "2025-05-20",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-05-20T03:05:01Z",
+                "versionDisplay": "10.7.30"
+              },
+              {
+                "releaseDate": "2025-05-12",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-05-12T03:03:21Z",
+                "versionDisplay": "10.7.28"
+              },
+              {
+                "releaseDate": "2025-04-28",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-04-28T02:31:32Z",
+                "versionDisplay": "10.7.26"
+              },
+              {
+                "releaseDate": "2025-04-15",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-04-15T03:02:15Z",
+                "versionDisplay": "10.7.20"
+              },
+              {
+                "releaseDate": "2025-03-31",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-03-31T06:00:09Z",
+                "versionDisplay": "10.7.16"
+              },
+              {
+                "releaseDate": "2025-03-21",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-03-21T06:32:08Z",
+                "versionDisplay": "10.7.12"
+              },
+              {
+                "releaseDate": "2025-03-17",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-03-17T06:01:32Z",
+                "versionDisplay": "10.7.10"
+              },
+              {
+                "releaseDate": "2025-03-07",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-03-07T02:29:58Z",
+                "versionDisplay": "10.7.7"
+              },
+              {
+                "releaseDate": "2025-03-03",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-03-03T07:00:40Z",
+                "versionDisplay": "10.7.6"
+              },
+              {
+                "releaseDate": "2025-02-17",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-02-17T07:00:51Z",
+                "versionDisplay": "10.7.0"
+              },
+              {
+                "releaseDate": "2025-01-02",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 支付宝喊你来集福啦！五福十年，互动玩法全新升级\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2025-01-02T07:01:00Z",
+                "versionDisplay": "10.6.80"
+              },
+              {
+                "releaseDate": "2024-12-20",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-12-20T06:00:45Z",
+                "versionDisplay": "10.6.76"
+              },
+              {
+                "releaseDate": "2024-12-06",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-12-06T02:29:49Z",
+                "versionDisplay": "10.6.70"
+              },
+              {
+                "releaseDate": "2024-11-18",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-11-18T07:01:39Z",
+                "versionDisplay": "10.6.66"
+              },
+              {
+                "releaseDate": "2024-11-05",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-11-05T07:00:34Z",
+                "versionDisplay": "10.6.60"
+              },
+              {
+                "releaseDate": "2024-10-28",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-10-28T03:00:37Z",
+                "versionDisplay": "10.6.58"
+              },
+              {
+                "releaseDate": "2024-10-18",
+                "releaseNotes": "支付宝最新版来啦，马上更新吧！\n - 全新上线「碰一下」，手机解锁碰一下收款设备，点击「打开」后可完成支付\n - 解决部分已知问题，优化多项细节，体验更流畅\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-10-18T06:59:58Z",
+                "versionDisplay": "10.6.56"
+              },
+              {
+                "releaseDate": "2024-09-23",
+                "releaseNotes": "支付宝最新版来啦！解决部分已知问题，优化多项细节，体验更流畅。\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-09-23T06:02:15Z",
+                "versionDisplay": "10.6.50"
+              },
+              {
+                "releaseDate": "2024-09-09",
+                "releaseNotes": "支付宝最新版来啦！解决部分已知问题，优化多项细节，体验更流畅。\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
+                "releaseTimestamp": "2024-09-09T06:02:00Z",
+                "versionDisplay": "10.6.36"
+              }
+            ]
+          }
+        },
+        "reviewsRestricted": false,
+        "sellerLabel": "提供者",
+        "supportsArcade": false,
+        "supportsStreamlinedBuy": true,
+        "url": "https://apps.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E4%BE%BF%E6%8D%B7%E7%94%9F%E6%B4%BB-%E4%B8%80%E7%82%B9%E5%B0%B1%E5%A5%BD/id333206289",
+        "userRating": {
+          "ariaLabelForRatings": "4.1 星",
+          "ratingCount": 1103863,
+          "ratingCountList": [
+            124912,
+            57774,
+            76443,
+            117079,
+            727655
+          ],
+          "value": 4.1
+        },
+        "usesLocationBackgroundMode": true,
+        "watchBundleId": "com.alipay.iphoneclient.watchapp"
+      },
+      "relationships": {
+        "developer": {
+          "href": "/v1/catalog/cn/apps/333206289/developer?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "333206292",
+              "type": "developers",
+              "href": "/v1/catalog/cn/developers/333206292?l=zh-Hans-CN"
+            }
+          ]
+        },
+        "genres": {
+          "href": "/v1/catalog/cn/apps/333206289/genres?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "6012",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6012?l=zh-Hans-CN",
+              "attributes": {
+                "name": "生活",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6012"
+              }
+            },
+            {
+              "id": "6015",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6015?l=zh-Hans-CN",
+              "attributes": {
+                "name": "财务",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6015"
+              }
+            }
+          ]
+        }
+      },
+      "meta": {
+        "contentVersion": {
+          "MZ_INDEXER": 1755206287703,
+          "RTCI": 1754936215848
+        }
+      }
+    }
+  ]
+}

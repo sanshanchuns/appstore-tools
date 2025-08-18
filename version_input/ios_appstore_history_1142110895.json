@@ -1,0 +1,398 @@
+{
+  "data": [
+    {
+      "id": "1142110895",
+      "type": "apps",
+      "href": "/v1/catalog/cn/apps/1142110895?l=zh-Hans-CN",
+      "attributes": {
+        "artistName": "Beijing Douyin Technology Co., Ltd.",
+        "chartPositions": {
+          "appStore": {
+            "chart": "top-free",
+            "chartLink": "https://apps.apple.com/cn/charts/iphone/%E5%A8%B1%E4%B9%90-apps/6016",
+            "genre": 6016,
+            "genreName": "娱乐",
+            "genreShortName": "娱乐",
+            "position": 7
+          }
+        },
+        "contentRatingsBySystem": {
+          "appsApple": {
+            "advisories": [
+              "偶尔/轻微的惊悚或恐怖题材",
+              "偶尔/轻微的卡通或幻想暴力",
+              "偶尔/轻微的色情内容或裸露",
+              "偶尔/轻微的亵渎或低俗幽默",
+              "赌博",
+              "偶尔/轻微的成人或性暗示题材",
+              "频繁/强烈的竞赛"
+            ],
+            "name": "17+",
+            "rank": 4,
+            "value": 600
+          }
+        },
+        "deviceFamilies": [
+          "iphone",
+          "ipad",
+          "ipod"
+        ],
+        "familyShareEnabledDate": "0001-04-23T00:00:00Z",
+        "firstVersionSupportingInAppPurchaseApi": "8.9.0",
+        "genreDisplayName": "娱乐",
+        "hasEula": false,
+        "isFirstPartyHideableApp": false,
+        "isIOSBinaryMacOSCompatible": false,
+        "isPreorder": false,
+        "name": "抖音",
+        "platformAttributes": {
+          "ios": {
+            "artwork": {
+              "bgColor": "0b0b16",
+              "height": 1024,
+              "textColor1": "fbf9f8",
+              "textColor2": "55f4ef",
+              "textColor3": "cbcacb",
+              "textColor4": "46c5c4",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b4/2b/beb42b87-8708-8f00-6043-26177f8135ac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/{w}x{h}{c}.{f}",
+              "width": 1024
+            },
+            "bundleId": "com.ss.iphone.ugc.Aweme",
+            "copyright": "© 2022 Beijing Microlive Vision Technology Co., Ltd",
+            "editorialArtwork": {
+              "bannerUber": {
+                "bgColor": "dee3f5",
+                "height": 1080,
+                "textColor1": "141115",
+                "textColor2": "141316",
+                "textColor3": "3d3b42",
+                "textColor4": "3c3c42",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/44/b8/f8/44b8f8a2-370c-97d8-2881-be618fbac76c/b2be96db-b1f2-4be2-9f1b-2e6a8d37b6ae.png/{w}x{h}sr.{f}",
+                "width": 4320
+              },
+              "brandLogo": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/28/59/ee/2859eebe-20ac-7814-ec46-0fce7ce3d567/12fc09db-ce0f-4c5f-a841-6866788e0179.png/{w}x{h}{c}.{f}",
+                "width": 1080
+              },
+              "contentIconTrimmed": {
+                "bgColor": "b6030c",
+                "height": 1080,
+                "textColor1": "febc00",
+                "textColor2": "febc00",
+                "textColor3": "f09702",
+                "textColor4": "f09702",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/b9/df/22/b9df22e4-d410-273a-f990-87ef45dc326b/53b5c834-2546-4ab9-b26a-5c5126c6851e.png/{w}x{h}{c}.{f}",
+                "width": 758
+              },
+              "contentIconTrimmedMonochrome": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/fb/1d/8d/fb1d8d13-8d9b-4667-4632-979fcce14060/7842b9eb-ef81-48c7-82c1-fee36005ca00.png/{w}x{h}{c}.{f}",
+                "width": 758
+              },
+              "subscriptionHero": {
+                "bgColor": "8f9ee3",
+                "height": 1080,
+                "textColor1": "03060d",
+                "textColor2": "03060d",
+                "textColor3": "1a1d2c",
+                "textColor4": "1a1d2c",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/fe/b2/55/feb25507-2b29-6fef-f77c-2b20bbbabc01/U0gtQVAtQ0hOLeaKlumfsy5wbmc.png/{w}x{h}{c}.{f}",
+                "width": 4320
+              }
+            },
+            "editorialNotes": {
+              "tagline": "七夕特别滤镜上线"
+            },
+            "externalVersionId": 876956752,
+            "hasFamilyShareableInAppPurchases": false,
+            "hasInAppPurchases": true,
+            "hasMessagesExtension": false,
+            "hasPrivacyPolicyText": false,
+            "hasSafariExtension": false,
+            "is32bitOnly": false,
+            "isAppleWatchSupported": false,
+            "isDeliveredInIOSAppForWatchOS": false,
+            "isGameCenterEnabled": false,
+            "isHiddenFromSpringboard": false,
+            "isSiriSupported": true,
+            "isStandaloneForWatchOS": false,
+            "isStandaloneWithCompanionForWatchOS": false,
+            "isXROSCompatible": false,
+            "languageList": [
+              "简体中文",
+              "英语"
+            ],
+            "minimumMacOSVersion": "11.0",
+            "minimumOSVersion": "12.0",
+            "minimumXROSVersion": "1.0",
+            "offers": [
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 1042375680
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=1142110895&pricingParameters=STDQ&pg=default&appExtVrsId=876956752",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "get"
+              },
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 1042375680
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=1142110895&pricingParameters=SWUPD&pg=default&appExtVrsId=876956752",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "update"
+              }
+            ],
+            "releaseDate": "2016-09-26",
+            "requiredCapabilities": "arm64 ",
+            "requiredCapabilitiesForRealityDevice": "arm64 ",
+            "requirementsString": "系统要求：iOS 12.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+            "requires32bit": false,
+            "requiresGameController": false,
+            "seller": "Beijing Douyin Technology Co., Ltd.",
+            "subtitle": "记录美好生活",
+            "supportedLocales": [
+              {
+                "name": "简体中文",
+                "tag": "zh-Hans-CN"
+              },
+              {
+                "name": "英语",
+                "tag": "en-US"
+              }
+            ],
+            "supportsGameController": false,
+            "supportsPassbook": false,
+            "versionHistory": [
+              {
+                "releaseDate": "2025-08-12",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅。",
+                "releaseTimestamp": "2025-08-12T08:26:11Z",
+                "versionDisplay": "35.4.0"
+              },
+              {
+                "releaseDate": "2025-08-01",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-08-01T08:42:18Z",
+                "versionDisplay": "35.3.0"
+              },
+              {
+                "releaseDate": "2025-07-24",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-07-24T08:01:17Z",
+                "versionDisplay": "35.2.0"
+              },
+              {
+                "releaseDate": "2025-07-17",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅。",
+                "releaseTimestamp": "2025-07-17T08:06:10Z",
+                "versionDisplay": "35.1.0"
+              },
+              {
+                "releaseDate": "2025-07-11",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-07-11T09:56:45Z",
+                "versionDisplay": "35.0.0"
+              },
+              {
+                "releaseDate": "2025-07-07",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-07-07T09:18:22Z",
+                "versionDisplay": "34.9.0"
+              },
+              {
+                "releaseDate": "2025-06-27",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅。",
+                "releaseTimestamp": "2025-06-27T07:20:55Z",
+                "versionDisplay": "34.8.0"
+              },
+              {
+                "releaseDate": "2025-06-20",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-06-20T09:34:55Z",
+                "versionDisplay": "34.7.0"
+              },
+              {
+                "releaseDate": "2025-06-12",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-06-12T07:48:13Z",
+                "versionDisplay": "34.6.0"
+              },
+              {
+                "releaseDate": "2025-06-04",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅。",
+                "releaseTimestamp": "2025-06-04T09:22:38Z",
+                "versionDisplay": "34.5.0"
+              },
+              {
+                "releaseDate": "2025-05-29",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-05-29T06:22:55Z",
+                "versionDisplay": "34.4.0"
+              },
+              {
+                "releaseDate": "2025-05-06",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅。",
+                "releaseTimestamp": "2025-05-06T07:10:40Z",
+                "versionDisplay": "34.2.0"
+              },
+              {
+                "releaseDate": "2025-04-24",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-04-24T10:48:50Z",
+                "versionDisplay": "34.1.0"
+              },
+              {
+                "releaseDate": "2025-04-18",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-04-18T08:50:19Z",
+                "versionDisplay": "34.0.0"
+              },
+              {
+                "releaseDate": "2025-04-07",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-04-07T06:14:58Z",
+                "versionDisplay": "33.8.0"
+              },
+              {
+                "releaseDate": "2025-03-27",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-03-27T06:07:07Z",
+                "versionDisplay": "33.7.0"
+              },
+              {
+                "releaseDate": "2025-03-20",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅。",
+                "releaseTimestamp": "2025-03-20T06:03:14Z",
+                "versionDisplay": "33.6.0"
+              },
+              {
+                "releaseDate": "2025-03-10",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-03-10T08:30:24Z",
+                "versionDisplay": "33.4.0"
+              },
+              {
+                "releaseDate": "2025-03-03",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2025-03-03T06:23:20Z",
+                "versionDisplay": "33.2.0"
+              },
+              {
+                "releaseDate": "2025-02-13",
+                "releaseNotes": "对产品性能做了优化，减少卡顿",
+                "releaseTimestamp": "2025-02-13T08:34:53Z",
+                "versionDisplay": "33.1.0"
+              },
+              {
+                "releaseDate": "2025-02-05",
+                "releaseNotes": "修复了一些已知的体验问题，让视频观看更顺畅",
+                "releaseTimestamp": "2025-02-05T09:35:54Z",
+                "versionDisplay": "33.0.0"
+              },
+              {
+                "releaseDate": "2025-01-24",
+                "releaseNotes": "同享欢笑中国年，上抖音赚新年红包！\n2025抖音欢笑中国年活动开始啦！大量红包等你来赢！\n-「福气列车」：集福气赢888元锦鲤红包；\n-「集生肖卡」：和朋友一起收集生肖卡，分2亿；\n-「好友互动」：春节来抖音聊天 红包开不停\n更多新春福利，等你来！具体玩法、参与方式及奖励情况，详见“欢笑中国年”活动规则。",
+                "releaseTimestamp": "2025-01-24T07:11:35Z",
+                "versionDisplay": "32.9.0"
+              },
+              {
+                "releaseDate": "2025-01-09",
+                "releaseNotes": "同享欢笑中国年，上抖音赚新年红包！\n2025抖音欢笑中国年活动开始啦！大量红包等你来赢！\n-「福气列车」：集福气赢888元锦鲤红包；\n-「集生肖卡」：和朋友一起收集生肖卡，分2亿；\n-「好友互动」：春节来抖音聊天 红包开不停\n-更多新春福利，等你来！具体玩法、参与方式及奖励情况，详见“欢笑中国年”活动规则。",
+                "releaseTimestamp": "2025-01-09T08:03:42Z",
+                "versionDisplay": "32.8.0"
+              },
+              {
+                "releaseDate": "2024-12-23",
+                "releaseNotes": "我们优化了多项功能来提升你的使用体验，快来试试吧！",
+                "releaseTimestamp": "2024-12-23T08:28:51Z",
+                "versionDisplay": "32.6.0"
+              },
+              {
+                "releaseDate": "2024-12-16",
+                "releaseNotes": "新增和优化了多种互动功能，让你与创作者和观众的交流更加紧密。",
+                "releaseTimestamp": "2024-12-16T02:42:48Z",
+                "versionDisplay": "32.5.0"
+              }
+            ]
+          }
+        },
+        "reviewsRestricted": false,
+        "sellerLabel": "提供者",
+        "supportsArcade": false,
+        "supportsStreamlinedBuy": true,
+        "url": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3/id1142110895",
+        "userRating": {
+          "ariaLabelForRatings": "4.9 星",
+          "ratingCount": 51828456,
+          "ratingCountList": [
+            885823,
+            240716,
+            359276,
+            1061980,
+            49280661
+          ],
+          "value": 4.9
+        },
+        "usesLocationBackgroundMode": false
+      },
+      "relationships": {
+        "developer": {
+          "href": "/v1/catalog/cn/apps/1142110895/developer?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "1170416082",
+              "type": "developers",
+              "href": "/v1/catalog/cn/developers/1170416082?l=zh-Hans-CN"
+            }
+          ]
+        },
+        "genres": {
+          "href": "/v1/catalog/cn/apps/1142110895/genres?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "6016",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6016?l=zh-Hans-CN",
+              "attributes": {
+                "name": "娱乐",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6016"
+              }
+            }
+          ]
+        }
+      },
+      "meta": {
+        "contentVersion": {
+          "MZ_INDEXER": 1755190414697,
+          "RTCI": 1755166144615
+        }
+      }
+    }
+  ]
+}

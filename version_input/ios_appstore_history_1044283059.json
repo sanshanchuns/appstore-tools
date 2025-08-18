@@ -1,0 +1,381 @@
+{
+  "data": [
+    {
+      "id": "1044283059",
+      "type": "apps",
+      "href": "/v1/catalog/cn/apps/1044283059?l=zh-Hans-CN",
+      "attributes": {
+        "artistName": "上海寻梦信息技术有限公司",
+        "chartPositions": {
+          "appStore": {
+            "chart": "top-free",
+            "chartLink": "https://apps.apple.com/cn/charts/iphone/%E8%B4%AD%E7%89%A9-apps/6024",
+            "genre": 6024,
+            "genreName": "购物",
+            "genreShortName": "购物",
+            "position": 5
+          }
+        },
+        "contentRatingsBySystem": {
+          "appsApple": {
+            "name": "4+",
+            "rank": 1,
+            "value": 100
+          }
+        },
+        "deviceFamilies": [
+          "iphone",
+          "ipad",
+          "ipod"
+        ],
+        "familyShareEnabledDate": "0001-04-23T00:00:00Z",
+        "genreDisplayName": "购物",
+        "hasEula": false,
+        "isFirstPartyHideableApp": false,
+        "isIOSBinaryMacOSCompatible": false,
+        "isPreorder": false,
+        "name": "拼多多 - 多多买菜，百亿补贴",
+        "platformAttributes": {
+          "ios": {
+            "artwork": {
+              "bgColor": "f40008",
+              "height": 1024,
+              "textColor1": "0c0000",
+              "textColor2": "161414",
+              "textColor3": "3a0002",
+              "textColor4": "431012",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/69/33/0f6933dc-56a0-f9d6-14d9-c87b71bd951a/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/{w}x{h}{c}.{f}",
+              "width": 1024
+            },
+            "bundleId": "com.xunmeng.pinduoduo",
+            "copyright": "© 2016 Xunmeng Inc.",
+            "editorialArtwork": {
+              "bannerUber": {
+                "bgColor": "e63b2b",
+                "height": 1080,
+                "textColor1": "11100c",
+                "textColor2": "11110f",
+                "textColor3": "311811",
+                "textColor4": "311814",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/51/33/81/51338174-9393-3878-baf4-6b20270845e2/QlUtQVAtQ0hOLeaLvOWkmuWkmi5wbmc.png/{w}x{h}sr.{f}",
+                "width": 4320
+              },
+              "brandLogo": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6d/1b/a6/6d1ba625-5c2c-e6bc-12fe-0f5cf545b5e2/56b6b466-242d-40d9-9d51-95f77c32ed3b.png/{w}x{h}{c}.{f}",
+                "width": 1080
+              },
+              "contentIconTrimmed": {
+                "bgColor": "70d900",
+                "height": 1080,
+                "textColor1": "041116",
+                "textColor2": "041116",
+                "textColor3": "1a3912",
+                "textColor4": "1a3912",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/39/eb/9b/39eb9b4e-a139-0055-c3e3-74260f90ba4d/4698a119-1665-4275-a6c8-205149396799.png/{w}x{h}{c}.{f}",
+                "width": 904
+              },
+              "contentIconTrimmedMonochrome": {
+                "bgColor": "000000",
+                "height": 1080,
+                "textColor1": "f2f2f2",
+                "textColor2": "e5e5e5",
+                "textColor3": "c1c1c1",
+                "textColor4": "b7b7b7",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/9a/c6/3d/9ac63d45-ae18-9c56-aa72-5d89b93078c6/b15aea41-12af-42cf-b366-c528fa35e36b.png/{w}x{h}{c}.{f}",
+                "width": 904
+              }
+            },
+            "externalVersionId": 877132403,
+            "hasFamilyShareableInAppPurchases": false,
+            "hasInAppPurchases": true,
+            "hasMessagesExtension": false,
+            "hasPrivacyPolicyText": true,
+            "hasSafariExtension": false,
+            "is32bitOnly": false,
+            "isAppleWatchSupported": false,
+            "isDeliveredInIOSAppForWatchOS": false,
+            "isGameCenterEnabled": false,
+            "isHiddenFromSpringboard": false,
+            "isSiriSupported": false,
+            "isStandaloneForWatchOS": false,
+            "isStandaloneWithCompanionForWatchOS": false,
+            "isXROSCompatible": true,
+            "languageList": [
+              "简体中文"
+            ],
+            "minimumMacOSVersion": "11.0",
+            "minimumOSVersion": "11.0",
+            "minimumXROSVersion": "1.0",
+            "offers": [
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 94316544
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=1044283059&pricingParameters=STDQ&pg=default&appExtVrsId=877132403",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "get"
+              },
+              {
+                "assets": [
+                  {
+                    "flavor": "iosSoftware",
+                    "size": 94316544
+                  }
+                ],
+                "buyParams": "productType=C&price=0&salableAdamId=1044283059&pricingParameters=SWUPD&pg=default&appExtVrsId=877132403",
+                "currencyCode": "CNY",
+                "price": 0.0,
+                "priceFormatted": "¥0.00",
+                "priceString": "0.00",
+                "type": "update"
+              }
+            ],
+            "releaseDate": "2015-10-29",
+            "requiredCapabilities": "arm64 ",
+            "requiredCapabilitiesForRealityDevice": "arm64 ",
+            "requirementsString": "系统要求：iOS 11.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。",
+            "requires32bit": false,
+            "requiresGameController": false,
+            "seller": "Shanghai Xunmeng Information Technology Co., Ltd.",
+            "subtitle": "拼着买，才便宜",
+            "supportedLocales": [
+              {
+                "name": "简体中文",
+                "tag": "zh-Hans-CN"
+              }
+            ],
+            "supportsGameController": false,
+            "supportsPassbook": false,
+            "versionHistory": [
+              {
+                "releaseDate": "2025-08-12",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-08-12T02:12:51Z",
+                "versionDisplay": "7.71.0"
+              },
+              {
+                "releaseDate": "2025-08-04",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-08-04T12:47:04Z",
+                "versionDisplay": "7.70.0"
+              },
+              {
+                "releaseDate": "2025-07-29",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-07-29T01:55:25Z",
+                "versionDisplay": "7.69.0"
+              },
+              {
+                "releaseDate": "2025-07-22",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-07-22T05:30:03Z",
+                "versionDisplay": "7.68.0"
+              },
+              {
+                "releaseDate": "2025-07-15",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-07-15T01:52:10Z",
+                "versionDisplay": "7.67.1"
+              },
+              {
+                "releaseDate": "2025-07-14",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-07-14T11:31:40Z",
+                "versionDisplay": "7.67.0"
+              },
+              {
+                "releaseDate": "2025-07-07",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-07-07T08:14:47Z",
+                "versionDisplay": "7.66.0"
+              },
+              {
+                "releaseDate": "2025-07-01",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-07-01T02:07:16Z",
+                "versionDisplay": "7.65.0"
+              },
+              {
+                "releaseDate": "2025-06-24",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-06-24T02:04:20Z",
+                "versionDisplay": "7.64.0"
+              },
+              {
+                "releaseDate": "2025-06-16",
+                "releaseNotes": "本次更新：\n- 618狂降价，再送188元优惠券\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-06-16T12:23:16Z",
+                "versionDisplay": "7.63.0"
+              },
+              {
+                "releaseDate": "2025-06-09",
+                "releaseNotes": "本次更新：\n- 618狂降价，再送188元优惠券\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-06-09T12:14:05Z",
+                "versionDisplay": "7.62.0"
+              },
+              {
+                "releaseDate": "2025-06-04",
+                "releaseNotes": "本次更新：\n- 618狂降价，再送188元优惠券\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-06-04T02:14:20Z",
+                "versionDisplay": "7.61.0"
+              },
+              {
+                "releaseDate": "2025-05-27",
+                "releaseNotes": "本次更新：\n- 618狂降价，再送188元优惠券\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-05-27T13:58:04Z",
+                "versionDisplay": "7.60.0"
+              },
+              {
+                "releaseDate": "2025-05-19",
+                "releaseNotes": "本次更新：\n- 618狂降价，再送188元优惠券\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-05-19T01:59:25Z",
+                "versionDisplay": "7.59.0"
+              },
+              {
+                "releaseDate": "2025-05-13",
+                "releaseNotes": "本次更新：\n- 618狂降价，再送188元优惠券\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-05-13T02:00:09Z",
+                "versionDisplay": "7.58.0"
+              },
+              {
+                "releaseDate": "2025-04-29",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-04-29T02:08:38Z",
+                "versionDisplay": "7.57.0"
+              },
+              {
+                "releaseDate": "2025-04-22",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-04-22T02:22:00Z",
+                "versionDisplay": "7.56.0"
+              },
+              {
+                "releaseDate": "2025-04-14",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-04-14T02:05:04Z",
+                "versionDisplay": "7.55.0"
+              },
+              {
+                "releaseDate": "2025-04-07",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-04-07T07:49:54Z",
+                "versionDisplay": "7.54.0"
+              },
+              {
+                "releaseDate": "2025-04-01",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-04-01T02:06:34Z",
+                "versionDisplay": "7.53.0"
+              },
+              {
+                "releaseDate": "2025-03-24",
+                "releaseNotes": "\n本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-03-24T09:13:59Z",
+                "versionDisplay": "7.52.0"
+              },
+              {
+                "releaseDate": "2025-03-17",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-03-17T01:58:16Z",
+                "versionDisplay": "7.51.0"
+              },
+              {
+                "releaseDate": "2025-03-10",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-03-10T11:32:09Z",
+                "versionDisplay": "7.50.0"
+              },
+              {
+                "releaseDate": "2025-03-03",
+                "releaseNotes": "本次更新：\n- 38狂降价，单单低价超省钱\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-03-03T12:36:57Z",
+                "versionDisplay": "7.49.0"
+              },
+              {
+                "releaseDate": "2025-02-26",
+                "releaseNotes": "本次更新：\n- 38狂降价，单单低价超省钱\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-02-26T02:43:26Z",
+                "versionDisplay": "7.48.1"
+              }
+            ]
+          }
+        },
+        "reviewsRestricted": false,
+        "sellerLabel": "提供者",
+        "supportsArcade": false,
+        "supportsStreamlinedBuy": true,
+        "url": "https://apps.apple.com/cn/app/%E6%8B%BC%E5%A4%9A%E5%A4%9A-%E5%A4%9A%E5%A4%9A%E4%B9%B0%E8%8F%9C-%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4/id1044283059",
+        "userRating": {
+          "ariaLabelForRatings": "3.0 星",
+          "ratingCount": 3206191,
+          "ratingCountList": [
+            1238561,
+            247555,
+            273565,
+            326870,
+            1119640
+          ],
+          "value": 3.0
+        },
+        "usesLocationBackgroundMode": false
+      },
+      "relationships": {
+        "developer": {
+          "href": "/v1/catalog/cn/apps/1044283059/developer?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "1044283058",
+              "type": "developers",
+              "href": "/v1/catalog/cn/developers/1044283058?l=zh-Hans-CN"
+            }
+          ]
+        },
+        "genres": {
+          "href": "/v1/catalog/cn/apps/1044283059/genres?l=zh-Hans-CN",
+          "data": [
+            {
+              "id": "6024",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6024?l=zh-Hans-CN",
+              "attributes": {
+                "name": "购物",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6024"
+              }
+            },
+            {
+              "id": "6012",
+              "type": "genres",
+              "href": "/v1/catalog/cn/genres/6012?l=zh-Hans-CN",
+              "attributes": {
+                "name": "生活",
+                "parentId": "36",
+                "parentName": "App Store",
+                "url": "https://itunes.apple.com/cn/genre/id6012"
+              }
+            }
+          ]
+        }
+      },
+      "meta": {
+        "contentVersion": {
+          "MZ_INDEXER": 1755436145452,
+          "RTCI": 1755069819593
+        }
+      }
+    }
+  ]
+}
