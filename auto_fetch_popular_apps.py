@@ -39,25 +39,36 @@ class PopularAppsFetcher:
         os.makedirs("graph_output", exist_ok=True)
     
     def get_latest_version_from_xml(self, app_id: str) -> str:
-        """从App Store获取最新版本号"""
+        """获取线上最新版本号：
+        1) 调用 batch_fetch_versions.py --latest 1 解析stdout中的版本号；
+           若脚本生成了 app_{id}_latest_1.json，则立刻删除避免残留。
+        2) 若失败，则回退读取现有 latest.json。
+        """
         try:
-            # 直接调用batch_fetch_versions.py获取最新版本，不依赖现有文件
+            # 先尝试通过 batch_fetch_versions.py 获取最新版本号
+            tmp_file = f"version_output/app_{app_id}_latest_1.json"
             cmd = ['python3', 'batch_fetch_versions.py', '--app_id', app_id, '--latest', '1']
             result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-            
+
+            # 无论成功与否，清理可能生成的 _latest_1.json
+            try:
+                if os.path.exists(tmp_file):
+                    os.remove(tmp_file)
+            except Exception:
+                pass
+
             if result.returncode == 0:
-                # 从输出中提取版本号
                 try:
-                    lines = result.stdout.split('\n')
-                    for line in lines:
+                    for line in result.stdout.split('\n'):
                         if '版本号:' in line:
                             version = line.split('版本号:')[1].strip()
-                            print(f"📱 从App Store获取到最新版本: {version}")
-                            return version
-                except:
+                            if version:
+                                print(f"📱 从接口获取到最新版本: {version}")
+                                return version
+                except Exception:
                     pass
-            
-            # 如果无法从输出获取，尝试从现有的latest.json文件读取
+
+            # 回退：从现有latest.json读取
             latest_file = f"version_output/app_{app_id}_latest.json"
             if os.path.exists(latest_file):
                 try:
@@ -65,11 +76,11 @@ class PopularAppsFetcher:
                         data = json.load(f)
                     if data and 'versions' in data and len(data['versions']) > 0:
                         version = data['versions'][0].get('short_version')
-                        print(f"📱 从现有latest文件获取到最新版本: {version}")
+                        print(f"📁 回退使用latest文件中的版本: {version}")
                         return version
                 except Exception as e:
                     print(f"❌ 读取现有latest文件失败: {e}")
-            
+
             return None
             
         except Exception as e:
