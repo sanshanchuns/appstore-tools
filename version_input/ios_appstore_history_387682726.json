@@ -48,7 +48,7 @@
               "textColor2": "161616",
               "textColor3": "441f12",
               "textColor4": "451f12",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/da/06/6eda062d-77ae-ee03-3aa3-dd93351a5a80/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/51/3a/17513add-823e-dc15-bb78-b094df842611/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "bundleId": "com.taobao.taobao4iphone",
@@ -139,7 +139,7 @@
               "name": "淘宝",
               "tagline": "购物车容量与功能全面升级"
             },
-            "externalVersionId": 877163839,
+            "externalVersionId": 877547634,
             "hasFamilyShareableInAppPurchases": false,
             "hasInAppPurchases": true,
             "hasMessagesExtension": false,
@@ -169,10 +169,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 249643008
+                    "size": 249234432
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=387682726&pricingParameters=STDQ&pg=default&appExtVrsId=877163839",
+                "buyParams": "productType=C&price=0&salableAdamId=387682726&pricingParameters=STDQ&pg=default&appExtVrsId=877547634",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -183,10 +183,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 249643008
+                    "size": 249234432
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=387682726&pricingParameters=SWUPD&pg=default&appExtVrsId=877163839",
+                "buyParams": "productType=C&price=0&salableAdamId=387682726&pricingParameters=SWUPD&pg=default&appExtVrsId=877547634",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -229,6 +229,24 @@
             "supportsGameController": false,
             "supportsPassbook": false,
             "versionHistory": [
+              {
+                "releaseDate": "2025-08-27",
+                "releaseNotes": "1. 万能淘宝：淘宝闪购，点外卖更优惠\n2. 淘宝闪购：天天免单等你来，外卖红包送不停\n3. 超级88:  官方立减，8.8折起\n4. 国家补贴：至高再省30%\n5. 淘宝百亿补贴：每天抢2900元金刚券\n6. 超级立减：叠惊喜消费券折上折",
+                "releaseTimestamp": "2025-08-27T02:06:55Z",
+                "versionDisplay": "10.52.30"
+              },
+              {
+                "releaseDate": "2025-08-25",
+                "releaseNotes": "1. 万能淘宝：淘宝闪购，点外卖更优惠\n2. 淘宝闪购：天天免单等你来，外卖红包送不停\n3. 超级88:  官方立减，8.8折起\n4. 国家补贴：至高再省30%\n5. 淘宝百亿补贴：每天抢2900元金刚券\n6. 超级立减：叠惊喜消费券折上折",
+                "releaseTimestamp": "2025-08-25T06:04:27Z",
+                "versionDisplay": "10.52.21"
+              },
+              {
+                "releaseDate": "2025-08-19",
+                "releaseNotes": "1. 万能淘宝：淘宝闪购，点外卖更优惠\n2. 淘宝闪购：天天免单等你来，外卖红包送不停\n3. 超级88:  官方立减，8.8折起\n4. 国家补贴：至高再省30%\n5. 淘宝百亿补贴：每天抢2900元金刚券\n6. 超级立减：叠惊喜消费券折上折",
+                "releaseTimestamp": "2025-08-19T07:25:51Z",
+                "versionDisplay": "10.52.20"
+              },
               {
                 "releaseDate": "2025-08-12",
                 "releaseNotes": "1. 万能淘宝：淘宝闪购，点外卖更优惠\n2. 淘宝闪购：天天免单等你来，外卖红包送不停\n3. 超级88:  官方立减，8.8折起\n4. 国家补贴：至高再省30%\n5. 淘宝百亿补贴：每天抢2900元金刚券\n6. 超级立减：叠惊喜消费券折上折",
@@ -360,24 +378,6 @@
                 "releaseNotes": "1. 38焕新周：2.27-3.8，跨店每满200减30！\n2. 淘宝直播：15亿红包疯狂撒\n3. 百亿补贴：全网低价 买贵必赔\n4. 天猫榜单：一榜get春潮，省心又时髦！\n5. 天猫小黑盒：大牌新品直降",
                 "releaseTimestamp": "2025-03-04T07:51:51Z",
                 "versionDisplay": "10.47.0"
-              },
-              {
-                "releaseDate": "2025-02-22",
-                "releaseNotes": "1. 38焕新周：2.27-3.8，跨店每满200减30！\n2. 淘宝直播：15亿红包疯狂撒\n3. 百亿补贴：全网低价 买贵必赔\n4. 天猫榜单：一榜get春潮，省心又时髦！\n5. 天猫小黑盒：大牌新品直降",
-                "releaseTimestamp": "2025-02-22T05:56:37Z",
-                "versionDisplay": "10.46.10"
-              },
-              {
-                "releaseDate": "2025-02-12",
-                "releaseNotes": "1. 开门红主互动：新春淘彩头，红包限时用 ！\n2. 新春开门红：2.5-2.14，跨店每满300减40！\n3. 淘宝直播：天天赢红包，签到抽大奖\n4. 活动送礼：开年上淘宝，支持送礼给亲友爱人\n5. 节日特供：上淘宝猜元宵灯谜，限时抢情人节好礼！\n6. 百亿补贴：全网低价 买贵必赔",
-                "releaseTimestamp": "2025-02-12T03:26:44Z",
-                "versionDisplay": "10.46.1"
-              },
-              {
-                "releaseDate": "2025-02-11",
-                "releaseNotes": "1. 开门红主互动：新春淘彩头，红包限时用 ！\n2. 新春开门红：2.5-2.14，跨店每满300减40！\n3. 淘宝直播：天天赢红包，签到抽大奖\n4. 活动送礼：开年上淘宝，支持送礼给亲友爱人\n5. 节日特供：上淘宝猜元宵灯谜，限时抢情人节好礼！\n6. 百亿补贴：全网低价 买贵必赔 ",
-                "releaseTimestamp": "2025-02-11T03:00:50Z",
-                "versionDisplay": "10.46.0"
               }
             ]
           }
@@ -389,13 +389,13 @@
         "url": "https://apps.apple.com/cn/app/%E6%B7%98%E5%AE%9D-%E9%97%AA%E8%B4%AD%E7%82%B9%E5%A4%96%E5%8D%96%E6%9B%B4%E4%BC%98%E6%83%A0/id387682726",
         "userRating": {
           "ariaLabelForRatings": "4.1 星",
-          "ratingCount": 1522647,
+          "ratingCount": 1534053,
           "ratingCountList": [
-            213016,
-            61112,
-            77539,
-            133027,
-            1037953
+            214910,
+            61427,
+            78011,
+            133869,
+            1045836
           ],
           "value": 4.1
         },
@@ -442,8 +442,8 @@
       },
       "meta": {
         "contentVersion": {
-          "MZ_INDEXER": 1755190671660,
-          "RTCI": 1755090405176
+          "MZ_INDEXER": 1756261258911,
+          "RTCI": 1756232014687
         }
       }
     }

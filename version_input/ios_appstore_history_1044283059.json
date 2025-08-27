@@ -44,7 +44,7 @@
               "textColor2": "161414",
               "textColor3": "3a0002",
               "textColor4": "431012",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/69/33/0f6933dc-56a0-f9d6-14d9-c87b71bd951a/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/1f/fe/551ffe80-40d4-084b-d66d-4250e21f1faf/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "bundleId": "com.xunmeng.pinduoduo",
@@ -91,7 +91,7 @@
                 "width": 904
               }
             },
-            "externalVersionId": 877132403,
+            "externalVersionId": 877522224,
             "hasFamilyShareableInAppPurchases": false,
             "hasInAppPurchases": true,
             "hasMessagesExtension": false,
@@ -117,10 +117,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 94316544
+                    "size": 94058496
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=1044283059&pricingParameters=STDQ&pg=default&appExtVrsId=877132403",
+                "buyParams": "productType=C&price=0&salableAdamId=1044283059&pricingParameters=STDQ&pg=default&appExtVrsId=877522224",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -131,10 +131,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 94316544
+                    "size": 94058496
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=1044283059&pricingParameters=SWUPD&pg=default&appExtVrsId=877132403",
+                "buyParams": "productType=C&price=0&salableAdamId=1044283059&pricingParameters=SWUPD&pg=default&appExtVrsId=877522224",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -159,6 +159,18 @@
             "supportsGameController": false,
             "supportsPassbook": false,
             "versionHistory": [
+              {
+                "releaseDate": "2025-08-25",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-08-25T08:27:43Z",
+                "versionDisplay": "7.73.0"
+              },
+              {
+                "releaseDate": "2025-08-18",
+                "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
+                "releaseTimestamp": "2025-08-18T13:11:30Z",
+                "versionDisplay": "7.72.0"
+              },
               {
                 "releaseDate": "2025-08-12",
                 "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
@@ -296,18 +308,6 @@
                 "releaseNotes": "本次更新：\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
                 "releaseTimestamp": "2025-03-10T11:32:09Z",
                 "versionDisplay": "7.50.0"
-              },
-              {
-                "releaseDate": "2025-03-03",
-                "releaseNotes": "本次更新：\n- 38狂降价，单单低价超省钱\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
-                "releaseTimestamp": "2025-03-03T12:36:57Z",
-                "versionDisplay": "7.49.0"
-              },
-              {
-                "releaseDate": "2025-02-26",
-                "releaseNotes": "本次更新：\n- 38狂降价，单单低价超省钱\n- 优化了一些体验细节。\n\n近期更新：\n- 多多买菜优化，买菜实惠又方便。",
-                "releaseTimestamp": "2025-02-26T02:43:26Z",
-                "versionDisplay": "7.48.1"
               }
             ]
           }
@@ -318,16 +318,16 @@
         "supportsStreamlinedBuy": true,
         "url": "https://apps.apple.com/cn/app/%E6%8B%BC%E5%A4%9A%E5%A4%9A-%E5%A4%9A%E5%A4%9A%E4%B9%B0%E8%8F%9C-%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4/id1044283059",
         "userRating": {
-          "ariaLabelForRatings": "3.0 星",
-          "ratingCount": 3206191,
+          "ariaLabelForRatings": "2.9 星",
+          "ratingCount": 3212600,
           "ratingCountList": [
-            1238561,
-            247555,
-            273565,
-            326870,
-            1119640
+            1242001,
+            248008,
+            274051,
+            327295,
+            1121245
           ],
-          "value": 3.0
+          "value": 2.9
         },
         "usesLocationBackgroundMode": false
       },
@@ -372,8 +372,8 @@
       },
       "meta": {
         "contentVersion": {
-          "MZ_INDEXER": 1755436145452,
-          "RTCI": 1755069819593
+          "MZ_INDEXER": 1756233738073,
+          "RTCI": 1756139935033
         }
       }
     }

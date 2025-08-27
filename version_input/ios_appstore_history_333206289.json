@@ -46,7 +46,7 @@
               "textColor2": "141516",
               "textColor3": "051c3d",
               "textColor4": "142845",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/79/11/a479116e-bede-a684-423f-c1409411de57/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/af/a6/94afa683-ab2c-b1df-1368-f4af7f6d792a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "bundleId": "com.alipay.iphoneclient",
@@ -54,10 +54,10 @@
               "bgColor": "1676ff",
               "height": 1024,
               "textColor1": "01050c",
-              "textColor2": "020b19",
+              "textColor2": "141516",
               "textColor3": "051c3d",
-              "textColor4": "062147",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/e3/af/30e3affc-46c1-e83e-3d32-546d6afe6fef/AppIcon-0-0-1x_U007emarketing-0-16-0-0-85-220.png/{w}x{h}{c}.{f}",
+              "textColor4": "142845",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/0a/24/740a240e-8be2-7565-2bd6-1a7395be8295/AppIcon-0-0-1x_U007emarketing-0-16-0-0-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "copyright": "© Ant Group. All rights reserved.",
@@ -123,7 +123,7 @@
                 "width": 4320
               }
             },
-            "externalVersionId": 876826051,
+            "externalVersionId": 877206596,
             "hasFamilyShareableInAppPurchases": false,
             "hasInAppPurchases": true,
             "hasMessagesExtension": false,
@@ -151,10 +151,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 434692096
+                    "size": 439413760
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=333206289&pricingParameters=STDQ&pg=default&appExtVrsId=876826051",
+                "buyParams": "productType=C&price=0&salableAdamId=333206289&pricingParameters=STDQ&pg=default&appExtVrsId=877206596",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -165,10 +165,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 434692096
+                    "size": 439413760
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=333206289&pricingParameters=SWUPD&pg=default&appExtVrsId=876826051",
+                "buyParams": "productType=C&price=0&salableAdamId=333206289&pricingParameters=SWUPD&pg=default&appExtVrsId=877206596",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -200,6 +200,12 @@
             "supportsGameController": false,
             "supportsPassbook": true,
             "versionHistory": [
+              {
+                "releaseDate": "2025-08-25",
+                "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
+                "releaseTimestamp": "2025-08-25T07:19:09Z",
+                "versionDisplay": "10.7.76"
+              },
               {
                 "releaseDate": "2025-08-11",
                 "releaseNotes": "支付宝最新版来啦，优化多项细节，体验更加流畅，快来更新吧！",
@@ -343,12 +349,6 @@
                 "releaseNotes": "支付宝最新版来啦！解决部分已知问题，优化多项细节，体验更流畅。\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
                 "releaseTimestamp": "2024-09-23T06:02:15Z",
                 "versionDisplay": "10.6.50"
-              },
-              {
-                "releaseDate": "2024-09-09",
-                "releaseNotes": "支付宝最新版来啦！解决部分已知问题，优化多项细节，体验更流畅。\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「App Store 」-「APP更新」，确保第一时间体验更好的支付宝。",
-                "releaseTimestamp": "2024-09-09T06:02:00Z",
-                "versionDisplay": "10.6.36"
               }
             ]
           }
@@ -360,13 +360,13 @@
         "url": "https://apps.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E4%BE%BF%E6%8D%B7%E7%94%9F%E6%B4%BB-%E4%B8%80%E7%82%B9%E5%B0%B1%E5%A5%BD/id333206289",
         "userRating": {
           "ariaLabelForRatings": "4.1 星",
-          "ratingCount": 1103863,
+          "ratingCount": 1105173,
           "ratingCountList": [
-            124912,
-            57774,
-            76443,
-            117079,
-            727655
+            125229,
+            57867,
+            76541,
+            117212,
+            728324
           ],
           "value": 4.1
         },
@@ -414,8 +414,8 @@
       },
       "meta": {
         "contentVersion": {
-          "MZ_INDEXER": 1755206287703,
-          "RTCI": 1754936215848
+          "MZ_INDEXER": 1756234276024,
+          "RTCI": 1756231757510
         }
       }
     }

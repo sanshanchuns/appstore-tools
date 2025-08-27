@@ -39,9 +39,25 @@ class PopularAppsFetcher:
         os.makedirs("graph_output", exist_ok=True)
     
     def get_latest_version_from_xml(self, app_id: str) -> str:
-        """从现有的latest.json文件获取最新版本号"""
+        """从App Store获取最新版本号"""
         try:
-            # 首先尝试从现有的latest.json文件读取
+            # 直接调用batch_fetch_versions.py获取最新版本，不依赖现有文件
+            cmd = ['python3', 'batch_fetch_versions.py', '--app_id', app_id, '--latest', '1']
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+            
+            if result.returncode == 0:
+                # 从输出中提取版本号
+                try:
+                    lines = result.stdout.split('\n')
+                    for line in lines:
+                        if '版本号:' in line:
+                            version = line.split('版本号:')[1].strip()
+                            print(f"📱 从App Store获取到最新版本: {version}")
+                            return version
+                except:
+                    pass
+            
+            # 如果无法从输出获取，尝试从现有的latest.json文件读取
             latest_file = f"version_output/app_{app_id}_latest.json"
             if os.path.exists(latest_file):
                 try:
@@ -53,23 +69,6 @@ class PopularAppsFetcher:
                         return version
                 except Exception as e:
                     print(f"❌ 读取现有latest文件失败: {e}")
-            
-            # 如果现有文件不存在或读取失败，尝试从batch_fetch_versions.py获取
-            # 但这次我们直接解析输出，不生成临时文件
-            cmd = ['python3', 'batch_fetch_versions.py', '--app_id', app_id, '--latest', '1']
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-            
-            if result.returncode == 0:
-                # 从输出中提取版本号
-                try:
-                    lines = result.stdout.split('\n')
-                    for line in lines:
-                        if '版本号:' in line:
-                            version = line.split('版本号:')[1].strip()
-                            print(f"📱 从输出获取到最新版本: {version}")
-                            return version
-                except:
-                    pass
             
             return None
             
@@ -87,7 +86,7 @@ class PopularAppsFetcher:
             return False
         
         try:
-            # 获取历史文件中的最新版本
+            # 获取历史文件中的版本信息
             with open(history_file, 'r', encoding='utf-8') as f:
                 history_data = json.load(f)
             
@@ -98,11 +97,12 @@ class PopularAppsFetcher:
                 print(f"⚠️  历史文件中没有版本信息")
                 return False
             
-            # 获取历史文件中的最新版本
+            # 获取历史文件中的最新版本和版本数量
             history_latest_version = version_history[0].get("versionDisplay")
             history_latest_date = version_history[0].get("releaseDate")
+            history_version_count = len(version_history)
             
-            print(f"📋 历史文件显示最新版本: {history_latest_version} ({history_latest_date})")
+            print(f"📋 历史文件显示: 最新版本 {history_latest_version} ({history_latest_date}), 共 {history_version_count} 个版本")
             
             # 获取实际最新版本
             actual_latest_version = self.get_latest_version_from_xml(app_id)
@@ -420,12 +420,19 @@ class PopularAppsFetcher:
             all_versions.sort(key=lambda x: x.get('short_version', ''), reverse=True)
             
             # 判断是否需要更新last_updated
-            # 只有当版本数量发生变化或新增版本时才更新
+            # 当有新版本或版本信息发生变化时，总是更新时间戳
             should_update_timestamp = False
-            if len(actually_new_ids) > 0 or len(changed_ids) > 0:  # 有真正新增或变更的版本
+            if len(actually_new_ids) > 0:  # 有新增版本
                 should_update_timestamp = True
-            elif len(all_versions) != len(valid_existing_versions):  # 版本数量发生变化（相对于过滤后的现有版本）
+                print(f"🆕 检测到 {len(actually_new_ids)} 个新版本，将更新时间戳")
+            elif len(changed_ids) > 0:  # 有版本信息变更
                 should_update_timestamp = True
+                print(f"🔄 检测到 {len(changed_ids)} 个版本信息变更，将更新时间戳")
+            elif len(all_versions) != len(valid_existing_versions):  # 版本数量发生变化
+                should_update_timestamp = True
+                print(f"📊 版本数量发生变化（{len(valid_existing_versions)} -> {len(all_versions)}），将更新时间戳")
+            else:
+                print(f"✅ 版本信息无变化，保持原有时间戳")
             
             # 准备输出数据
             output_data = {
@@ -511,15 +518,18 @@ class PopularAppsFetcher:
         print(f"\n🔄 处理应用: {app_name}")
         print("-" * 40)
         
-        # 1. 自动检查并更新历史文件（如果需要）
+        # 1. 检查版本一致性，如果过时则更新历史文件
         print(f"🔍 正在检查 {app_name} 的版本一致性...")
-        self.auto_update_history_if_needed(app_id)
+        if not self.check_version_consistency(app_id):
+            print(f"🔄 检测到历史文件过时，正在更新...")
+            self.auto_update_history_if_needed(app_id)
         
         # 2. 获取版本信息
         if not self.fetch_app_versions(app_name, app_id, version_count):
             return False
         
         # 3. 更新发布日期（获取历史数据）
+        print(f"📅 正在更新 {app_name} 的版本发布日期...")
         if not self.update_version_dates(app_name, app_id):
             print(f"⚠️  {app_name} 发布日期更新失败，但版本信息已获取")
         

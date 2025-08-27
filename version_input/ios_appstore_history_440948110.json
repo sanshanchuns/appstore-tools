@@ -13,16 +13,16 @@
             "genre": 6008,
             "genreName": "摄影与录像",
             "genreShortName": "摄影与录像",
-            "position": 5
+            "position": 4
           }
         },
         "contentRatingsBySystem": {
           "appsApple": {
             "advisories": [
-              "偶尔/轻微的模拟赌博",
               "偶尔/轻微的色情内容或裸露",
               "无限制网页访问",
-              "偶尔/轻微的医药或医疗信息"
+              "偶尔/轻微的医药或医疗信息",
+              "偶尔/轻微的模拟赌博"
             ],
             "name": "17+",
             "rank": 4,
@@ -51,7 +51,7 @@
               "textColor2": "161616",
               "textColor3": "451f11",
               "textColor4": "452013",
-              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/bc/d6/a0bcd6b0-5eee-4468-3d6a-706f82fbb8b5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/{w}x{h}{c}.{f}",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e2/76dfe2c6-2b83-0451-4821-763d23a8bf26/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/{w}x{h}{c}.{f}",
               "width": 1024
             },
             "bundleId": "com.jiangjia.gif",
@@ -111,7 +111,7 @@
             "editorialNotes": {
               "tagline": "中秋节魔法表情上线"
             },
-            "externalVersionId": 877051685,
+            "externalVersionId": 877429887,
             "hasFamilyShareableInAppPurchases": false,
             "hasInAppPurchases": true,
             "hasMessagesExtension": false,
@@ -139,10 +139,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 512273408
+                    "size": 516191232
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=STDQ&pg=default&appExtVrsId=877051685",
+                "buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=STDQ&pg=default&appExtVrsId=877429887",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -153,10 +153,10 @@
                 "assets": [
                   {
                     "flavor": "iosSoftware",
-                    "size": 512273408
+                    "size": 516191232
                   }
                 ],
-                "buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=SWUPD&pg=default&appExtVrsId=877051685",
+                "buyParams": "productType=C&price=0&salableAdamId=440948110&pricingParameters=SWUPD&pg=default&appExtVrsId=877429887",
                 "currencyCode": "CNY",
                 "price": 0.0,
                 "priceFormatted": "¥0.00",
@@ -189,6 +189,18 @@
             "supportsGameController": false,
             "supportsPassbook": false,
             "versionHistory": [
+              {
+                "releaseDate": "2025-08-23",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-08-23T03:15:36Z",
+                "versionDisplay": "13.7.30"
+              },
+              {
+                "releaseDate": "2025-08-18",
+                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
+                "releaseTimestamp": "2025-08-18T08:43:28Z",
+                "versionDisplay": "13.7.20"
+              },
               {
                 "releaseDate": "2025-08-09",
                 "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
@@ -326,18 +338,6 @@
                 "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
                 "releaseTimestamp": "2025-03-10T06:38:14Z",
                 "versionDisplay": "13.2.10"
-              },
-              {
-                "releaseDate": "2025-02-28",
-                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
-                "releaseTimestamp": "2025-02-28T02:39:23Z",
-                "versionDisplay": "13.1.40"
-              },
-              {
-                "releaseDate": "2025-02-21",
-                "releaseNotes": "- 进行了问题修复以及性能提升\n- 优化您的产品使用体验",
-                "releaseTimestamp": "2025-02-21T03:09:18Z",
-                "versionDisplay": "13.1.30"
               }
             ]
           }
@@ -349,13 +349,13 @@
         "url": "https://apps.apple.com/cn/app/%E5%BF%AB%E6%89%8B/id440948110",
         "userRating": {
           "ariaLabelForRatings": "4.8 星",
-          "ratingCount": 15394684,
+          "ratingCount": 15459381,
           "ratingCountList": [
-            360845,
-            117026,
-            149718,
-            248742,
-            14518353
+            363286,
+            117548,
+            150393,
+            249640,
+            14578514
           ],
           "value": 4.8
         },
@@ -402,8 +402,8 @@
       },
       "meta": {
         "contentVersion": {
-          "MZ_INDEXER": 1755194917592,
-          "RTCI": 1755189408237
+          "MZ_INDEXER": 1756233246137,
+          "RTCI": 1756139944373
         }
       }
     }
